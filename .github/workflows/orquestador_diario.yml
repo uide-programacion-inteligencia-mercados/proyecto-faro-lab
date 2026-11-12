@@ -1,0 +1,91 @@
+# ============================================================================
+# ARCHIVO: orquestador_diario.yml        (el DESPERTADOR)
+# ----------------------------------------------------------------------------
+# QUÉ ES:   Las instrucciones que GitHub lee solo. Es el ÚNICO archivo del
+#           proyecto que no ejecuta Python: lo lee GitHub Actions.
+# QUÉ HACE: Decide CUÁNDO despierta el robot, DÓNDE trabaja y QUÉ pasos sigue.
+# DÓNDE VIVE: siempre en  .github/workflows/  (si está en otra carpeta, no corre).
+# CÓMO SE LEE: de arriba hacia abajo, por bloques. Cada bloque responde una
+#           pregunta: cuándo, con qué permiso, dónde, qué pasos.
+# ESTO PUEDES CAMBIARLO EN TU PROYECTO: la hora del cron, el nombre del
+#           workflow y los comandos de los pasos 4 y 5 (los de tus archivos).
+# ============================================================================
+
+# Nombre que aparece en la pestaña Actions de GitHub.
+name: Orquestador diario del Observatorio
+
+# --- CUÁNDO DESPIERTA ------------------------------------------------------
+on:
+#  schedule:
+    # El reloj usa hora UTC. Formato: minuto hora día mes día-de-semana.
+    # "0 11 * * *" = todos los días a las 11:00 UTC = 06:00 en Quito (UTC-5).
+#    - cron: "0 11 * * *"
+  # Permite lanzarlo a mano: pestaña Actions, elegir el flujo, botón "Run workflow".
+  workflow_dispatch:
+
+# --- QUÉ PERMISO TIENE -----------------------------------------------------
+permissions:
+  # "write" deja al robot guardar archivos nuevos en el repositorio.
+  # Sin esto, el robot calcula todo pero no puede guardar nada.
+  contents: write
+
+# --- QUE NO SE PISEN -------------------------------------------------------
+concurrency:
+  group: orquestador-diario     # todas las corridas comparten este nombre
+  cancel-in-progress: false     # si ya hay una en marcha, la nueva ESPERA
+
+# --- DÓNDE TRABAJA Y QUÉ PASOS SIGUE ---------------------------------------
+jobs:
+  correr-pipeline:                  # nombre del trabajo (uno solo en este proyecto)
+    runs-on: ubuntu-latest          # GitHub presta una computadora virtual limpia
+    timeout-minutes: 15             # si pasa de 15 minutos, GitHub la apaga
+    steps:                          # los pasos se ejecutan en este orden
+
+      # Paso 1. La computadora prestada está vacía: se copia el repositorio.
+      - name: Traer el código
+        uses: actions/checkout@v4
+
+      # Paso 2. Se instala Python (versión fija, para que siempre sea igual).
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip                # guarda las descargas para ir más rápido
+
+      # Paso 3. Se instalan las herramientas que pide requirements.txt.
+      - name: Instalar lo necesario
+        run: pip install -r requirements.txt
+
+      # Paso 4. El PROBADOR: corre los tests con datos de respaldo (sin internet).
+      # Si un test falla, el robot se detiene aquí y NO toca tus datos.
+      - name: Probar que el código funciona (usa los respaldos, no sale a internet)
+        run: FARO_MODO=respaldo python -m pytest -q
+
+      # Paso 5. El trabajo real: pipeline.py busca, limpia, controla, analiza, reporta.
+      - name: Correr el pipeline (fuentes reales, con respaldo si fallan)
+        run: python pipeline.py
+
+      # Paso 6. Deja una copia del reporte para descargar desde la pantalla de la corrida.
+      - name: Guardar el reporte de hoy como archivo descargable
+        if: always()                # se hace SIEMPRE, incluso si algo falló arriba
+        uses: actions/upload-artifact@v4
+        with:
+          name: reporte-${{ github.run_number }}     # el número de la corrida
+          path: |
+            reports/
+            logs/ultima_corrida.json
+          if-no-files-found: ignore
+
+      # Paso 7. LA ENTREGA: el robot guarda los resultados en el repositorio.
+      # Es un commit hecho por "observatorio-bot", solo si hubo cambios.
+      - name: Guardar los datos nuevos en el repositorio
+        run: |
+          git config user.name "observatorio-bot"
+          git config user.email "observatorio-bot@users.noreply.github.com"
+          git add data/ reports/ logs/
+          if git diff --cached --quiet; then
+            echo "No hay cambios que guardar."
+          else
+            git commit -m "Datos y reporte del $(date -u +%Y-%m-%d)"
+            git push
+          fi
