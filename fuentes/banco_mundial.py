@@ -8,6 +8,7 @@
 import pandas as pd
 import requests
 
+import bitacora
 import config
 
 
@@ -31,5 +32,5 @@ def traer():
         try:
             return pd.concat([_uno(c, n) for n, c in config.BM_INDICADORES.items()], ignore_index=True)
         except Exception as e:
-            print(f"   aviso Banco Mundial: {e}. Uso el respaldo.")
+            bitacora.anotar("WARNING", "banco_mundial", "la fuente no contestó: usé el respaldo (plan B)", error=str(e)[:200])
     return pd.read_csv(config.RESPALDO / "respaldo_banco_mundial.csv")

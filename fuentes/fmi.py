@@ -8,6 +8,7 @@
 import pandas as pd
 import requests
 
+import bitacora
 import config
 
 
@@ -26,5 +27,5 @@ def traer():
                 raise RuntimeError("el FMI no devolvió datos")
             return df
         except Exception as e:
-            print(f"   aviso FMI: {e}. Uso el respaldo.")
+            bitacora.anotar("WARNING", "fmi", "la fuente no contestó: usé el respaldo (plan B)", error=str(e)[:200])
     return pd.read_csv(config.RESPALDO / "respaldo_fmi.csv")

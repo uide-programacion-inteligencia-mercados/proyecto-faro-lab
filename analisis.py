@@ -51,7 +51,7 @@ def guardar_resumen(n, mediana_m2):
     nueva = pd.DataFrame([{"fecha": hoy, "anuncios": n, "mediana_m2": mediana_m2}])
     if ARCHIVO_RESUMEN.exists():
         h = pd.read_csv(ARCHIVO_RESUMEN)
-        h = h[h["fecha"] != hoy]        # si corre dos veces el mismo día, no duplica
+        h = h[h["fecha"] != hoy]        # IDEMPOTENCIA (S07): si corre dos veces el mismo día, reemplaza; no duplica
         nueva = pd.concat([h, nueva], ignore_index=True)
     nueva.sort_values("fecha").to_csv(ARCHIVO_RESUMEN, index=False)
 

@@ -1,4 +1,9 @@
-# Observatorio de Referencia · Mercado inmobiliario y hábitat de Quito
+# Observatorio de Referencia (Faro inmobiliario de Quito) · versión Semana 7
+
+![Estado del robot](https://github.com/uide-programacion-inteligencia-mercados/proyecto-faro-docente/actions/workflows/orquestador_diario.yml/badge.svg)
+
+> **Materia:** Programación Aplicada a la Inteligencia de Mercados (02A-TAM557-8) · UIDE Business School.
+> Mercado inmobiliario y hábitat de Quito.
 
 El modelo completo del docente. Muestra cómo se ve un observatorio cuando todas las piezas del curso ya trabajan juntas. Los grupos construyen el suyo semana a semana mirando este.
 
@@ -35,6 +40,20 @@ AUTOMATIZAR .github/workflows/orquestador_diario.yml
 
 `orquestador.py` es el director: ejecuta cada tarea cuando sus dependencias terminaron, reintenta si una falla y omite las que dependían de la que falló. Deja el resultado en `logs/ultima_corrida.json`.
 
+## Semana 7 · «Avisa si falla»: las cinco defensas
+
+| Defensa | Qué hace | Dónde está |
+|---|---|---|
+| 1. Reintentar con espera creciente | 3 s, luego 6 s. No reintenta si el problema son los datos (`ErrorDeDatos`) | `orquestador.py` |
+| 2. Idempotencia | Correr dos veces da el mismo resultado: una fila por día en el histórico, una por corrida en la salud, escritura atómica de los CSV | `analisis.py`, `monitoreo.py`, `pipeline.py` |
+| 3. Control de calidad (el fusible) | Si los datos no son confiables, se detiene sin reintentar | `pipeline.py` · `t_control_calidad` |
+| 4. Bitácora estructurada | Una línea JSON por evento con nivel INFO / WARNING / ERROR | `bitacora.py` → `logs/bitacora.jsonl` |
+| 5. Alertas y monitoreo | Semáforo verde / amarillo / rojo, historial de salud, resumen en la corrida y un Issue automático cuando falla | `monitoreo.py` → `logs/salud.csv`, `logs/estado.md` · workflow |
+
+**El semáforo.** Verde: todo con datos reales. Amarillo: funcionó con plan B o reintentos. Rojo: algo falló, o pasaron más de 3 días sin dato real (un fallo silencioso). Solo el rojo pone la corrida en rojo y abre la alerta.
+
+**El simulacro.** Pestaña **Actions** → **Orquestador diario del Observatorio** → **Run workflow** → marcar **simular_falla** → **Run workflow**. La corrida debe salir en rojo y aparecer una alerta en la pestaña **Issues**. La siguiente corrida normal la cierra sola.
+
 ## El trabajador digital
 
 `.github/workflows/orquestador_diario.yml` corre todos los días a las **11:00 UTC (06:00 en Quito)**. También se puede lanzar a mano: pestaña **Actions**, el flujo **Orquestador diario del Observatorio**, botón **Run workflow**.
@@ -65,4 +84,6 @@ Para probar sin salir a internet: `!FARO_MODO=respaldo python pipeline.py`.
 | `reporte.py` | Gráfico y reporte |
 | `orquestador.py` | Orden de las tareas, reintentos y registro |
 | `pipeline.py` | Define las tareas y de quién depende cada una |
-| `tests/` | Seis pruebas que comprueban que todo funciona |
+| `bitacora.py` | (S07) La bitácora: una línea por evento |
+| `monitoreo.py` | (S07) El semáforo y el historial de salud |
+| `tests/` | 21 pruebas: 12 de la semana 6 y 9 de resiliencia (S07) |

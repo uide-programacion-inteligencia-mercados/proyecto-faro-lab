@@ -1,5 +1,5 @@
 # ============================================================================
-# ARCHIVO: pipeline.py        (el PLANO y el PUNTO DE PARTIDA)
+# ARCHIVO: pipeline.py        (el PLANO y el PUNTO DE PARTIDA)    · MEJORADO S07
 # QUÉ HACE:  Define las tareas del robot, de quién depende cada una, y la función main() que las lanza con el orquestador.
 # RECIBE:    Los datos que traen los archivos de fuentes/ y las reglas de config.py.
 # ENTREGA:   Tablas guardadas en data/, el reporte en reports/ y el registro en logs/. Termina con éxito o con error.
@@ -8,8 +8,11 @@
 # Secuencia: BUSCAR, GUARDAR, LIMPIAR, CONTROLAR, ANALIZAR, MOSTRAR.
 # Cada función t_xxx es UNA tarea: recibe lo que entregó la anterior y entrega su resultado.
 import sys
+import time
 
+import bitacora
 import config
+import monitoreo
 import analisis
 import limpieza
 import orquestador
@@ -19,8 +22,14 @@ from fuentes import banco_mundial, fmi, remax
 
 def guardar(df, nombre):
     # Escribe una tabla como archivo CSV dentro de la carpeta data/.
+    # S07 · ESCRITURA ATÓMICA: primero escribe un borrador (.tmp) y solo al final lo
+    # cambia por el archivo de verdad. Si el robot se cae a la mitad, el archivo
+    # anterior queda intacto: nunca hay un CSV cortado a medias.
     config.DATOS.mkdir(parents=True, exist_ok=True)
-    df.to_csv(config.DATOS / nombre, index=False)                     # GUARDAR
+    destino = config.DATOS / nombre
+    borrador = destino.with_suffix(".tmp")
+    df.to_csv(borrador, index=False)                                  # GUARDAR (borrador)
+    borrador.replace(destino)                                         # reemplazo en un solo movimiento
 
 
 # --- TAREAS DE BÚSQUEDA: cada una pide datos a una fuente y guarda la copia cruda ---
@@ -53,15 +62,17 @@ def t_limpiar(remax, banco_mundial, fmi):
 
 
 def t_control_calidad(limpiar):
-    """El portero del pipeline: si los datos no son confiables, FALLA A PROPÓSITO y nada se guarda."""
+    """El portero del pipeline: si los datos no son confiables, FALLA A PROPÓSITO y nada se guarda.
+    Usa ErrorDeDatos: el orquestador sabe que reintentar no arregla datos malos."""
     a, lo, hi = limpiar["anuncios"], *config.MEDIANA_M2_PLAUSIBLE
     if len(a) < config.MIN_ANUNCIOS_LIMPIOS:
-        raise ValueError(f"Control de calidad: solo {len(a)} anuncios limpios (mínimo {config.MIN_ANUNCIOS_LIMPIOS}).")
+        raise orquestador.ErrorDeDatos(f"Control de calidad: solo {len(a)} anuncios limpios (mínimo {config.MIN_ANUNCIOS_LIMPIOS}).")
     mediana = a["precio_m2"].median()
     if not lo <= mediana <= hi:
-        raise ValueError(f"Control de calidad: mediana de {mediana:.0f} USD/m² fuera de lo plausible ({lo}-{hi}).")
+        raise orquestador.ErrorDeDatos(f"Control de calidad: mediana de {mediana:.0f} USD/m² fuera de lo plausible ({lo}-{hi}).")
     if limpiar["macro"].empty:
-        raise ValueError("Control de calidad: no llegó ningún dato macroeconómico.")
+        raise orquestador.ErrorDeDatos("Control de calidad: no llegó ningún dato macroeconómico.")
+    bitacora.anotar("INFO", "control_calidad", "datos aprobados", anuncios=len(a), mediana_m2=round(float(mediana)))
     return limpiar
 
 
@@ -89,15 +100,27 @@ TAREAS = {
 }
 
 
+def t_falla_simulada():
+    # SIMULACRO: se hace pasar por RE/MAX y no contesta nunca, ni siquiera con plan B.
+    # Sirve para comprobar que el semáforo se pone rojo y que la alerta llega.
+    raise ConnectionError("SIMULACRO: la fuente no contesta (falla provocada a propósito)")
+
+
 def main():
-    # Lanza el orquestador, guarda el registro y avisa con un código de salida:
-    # 0 = todo bien (círculo verde en GitHub), 1 = hubo fallas (círculo rojo).
-    print(f"Observatorio de Referencia · modo {config.MODO}")
-    _, registro = orquestador.ejecutar(TAREAS)
+    # Lanza el orquestador, guarda el registro, decide el semáforo y avisa con un código de salida:
+    # 0 = verde o amarillo (círculo verde en GitHub), 1 = rojo (círculo rojo y alerta).
+    inicio = time.time()
+    tareas = dict(TAREAS)
+    if config.SIMULAR_FALLA:
+        tareas["remax"] = (t_falla_simulada, [])
+    bitacora.anotar("INFO", "pipeline", "inicio de la corrida", modo=config.MODO, simulacro=config.SIMULAR_FALLA)
+    _, registro = orquestador.ejecutar(tareas)
     orquestador.guardar_registro(registro)
-    fallas = [r for r in registro if r["estado"] != "ok"]
-    print("RESULTADO:", "todo bien" if not fallas else f"{len(fallas)} tarea(s) con problemas")
-    sys.exit(1 if fallas else 0)
+    salud = monitoreo.registrar(registro, time.time() - inicio)
+    monitoreo.publicar_resumen()
+    bitacora.recortar()
+    print("RESULTADO:", salud["estado"].upper(), "·", salud["motivo"])
+    sys.exit(1 if salud["estado"] == "rojo" else 0)
 
 
 if __name__ == "__main__":

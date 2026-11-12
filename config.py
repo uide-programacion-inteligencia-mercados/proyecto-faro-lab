@@ -58,5 +58,16 @@ BM_DESDE, BM_HASTA = 2015, 2025
 FMI_INDICADOR = "NGDP_RPCH"   # crecimiento real del PIB
 
 # --- REINTENTOS: cuántas veces repite una tarea que falla y cuántos segundos espera ---
+# Desde la semana 7 la espera CRECE: 3 s, luego 6 s (se duplica en cada intento).
 REINTENTOS = 2
 ESPERA_SEG = 3
+
+# --- SEMANA 7 · RESILIENCIA Y MONITOREO ---
+# Si pasan más de estos días sin un dato REAL en el histórico, el semáforo se pone
+# ROJO aunque todo «funcione» con respaldos: es un fallo silencioso.
+DIAS_MAX_SIN_DATO_REAL = 3
+# La bitácora guarda como máximo estas líneas (las más recientes).
+BITACORA_MAX_LINEAS = 3000
+# Simulacro de falla: en GitHub se activa con la casilla «simular_falla» del botón
+# Run workflow. Sirve para comprobar que la alerta funciona. Nunca toca los datos.
+SIMULAR_FALLA = os.environ.get("FARO_SIMULAR_FALLA", "false").lower() == "true"

@@ -11,6 +11,7 @@ from datetime import date
 import pandas as pd
 import requests
 
+import bitacora
 import config
 
 # Las columnas que SIEMPRE entrega, para que el resto del código no se confunda.
@@ -84,5 +85,7 @@ def traer():
         try:
             return traer_en_vivo()
         except Exception as e:
-            print(f"   aviso RE/MAX: {e}. Uso el respaldo.")
+            bitacora.anotar("WARNING", "remax", "la fuente no contestó: usé el respaldo (plan B)", error=str(e)[:200])
+    else:
+        bitacora.anotar("WARNING", "remax", "modo de prueba: usé el respaldo, no la fuente real")
     return traer_respaldo()
