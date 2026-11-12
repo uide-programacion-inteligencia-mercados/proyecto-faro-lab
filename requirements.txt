@@ -1,0 +1,12 @@
+# ============================================================================
+# ARCHIVO: requirements.txt        (la LISTA DE COMPRAS)
+# QUÉ ES:   Una lista, una herramienta por línea. No es código.
+# QUÉ HACE: Antes de trabajar, GitHub lee esta lista y la instala en la
+#           computadora virtual (paso 3 del despertador: pip install -r).
+# SI FALTA UNA LÍNEA: el robot falla con "ModuleNotFoundError: No module named ...".
+# ESTO PUEDES CAMBIARLO: agrega una línea por cada herramienta nueva que uses.
+# ============================================================================
+pandas        # tablas de datos (leer, filtrar, calcular medianas)
+requests      # conectarse a internet y pedir datos a una API
+matplotlib    # dibujar los gráficos del reporte
+pytest        # correr los tests (el probador)

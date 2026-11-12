@@ -1,0 +1,171 @@
+id,titulo,sector,tipo,operacion,precio_usd,area_m2,area_terreno_m2,dormitorios,banos,estado,fecha_captura,origen
+68802,Local comercial en La Floresta,La Floresta,local_comercial,arriendo,500.0,80.0,0.0,0,1,active,,respaldo_remax_real
+68801,Casa en Llano Chico,Llano Chico,casa,venta,80000.0,142.0,142.0,3,2,active,,respaldo_remax_real
+68799,Casa en Carmen Bajo,Carmen Bajo,casa,venta,80000.0,142.0,142.0,3,2,active,,respaldo_remax_real
+68798,Departamento en Rumipamba,Rumipamba,departamento,arriendo,450.0,88.0,0.0,3,2,active,,respaldo_remax_real
+68797,Departamento en Cumbayá,Cumbayá,departamento,venta,139000.0,111.88,0.0,2,2,active,,respaldo_remax_real
+68796,Departamento en Cumbayá,Cumbayá,departamento,venta,178000.0,115.0,0.0,2,2,active,,respaldo_remax_real
+68793,Departamento en Contraloria,Contraloria,departamento,venta,124900.0,196.3,0.0,3,2,active,,respaldo_remax_real
+68790,Departamento en Quitumbe,Quitumbe,departamento,venta,50000.0,103.0,0.0,3,2,active,,respaldo_remax_real
+68788,Terreno en Pifo,Pifo,terreno,venta,157500.0,0.0,630.0,0,0,active,,respaldo_remax_real
+68787,Departamento en Quito Tenis,Quito Tenis,departamento,venta,275000.0,238.0,0.0,3,2,active,,respaldo_remax_real
+68786,Quinta en Ontaneda Alto,Ontaneda Alto,quinta,venta,580000.0,8500.0,8448.0,6,6,active,,respaldo_remax_real
+68783,Terreno en Chillogallo,Chillogallo,terreno,venta,130000.0,0.0,1343.0,0,0,active,,respaldo_remax_real
+68781,Terreno en Pomasqui,Pomasqui,terreno,venta,280000.0,0.0,2002.0,0,0,active,,respaldo_remax_real
+68778,Departamento en Las Bromelias,Las Bromelias,departamento,venta,500000.0,503.0,0.0,3,3,active,,respaldo_remax_real
+68776,Terreno en Sierra Hermosa,Sierra Hermosa,terreno,venta,140000.0,0.0,1105.14,0,0,active,,respaldo_remax_real
+68773,Departamento en Conocoto,Conocoto,departamento,arriendo,350.0,80.0,0.0,2,1,active,,respaldo_remax_real
+68772,Departamento en Conocoto,Conocoto,departamento,arriendo,200.0,24.0,0.0,1,1,active,,respaldo_remax_real
+68771,Oficina en Quito Tenis,Quito Tenis,oficina,venta,187000.0,400.0,0.0,3,3,active,,respaldo_remax_real
+68770,Casa en Conocoto,Conocoto,casa,venta,95000.0,190.5,0.0,5,3,active,,respaldo_remax_real
+68769,Departamento en Iñaquito,Iñaquito,departamento,venta,200000.0,81.0,0.0,2,2,active,,respaldo_remax_real
+68768,Terreno en San Juan Calderon,San Juan Calderon,terreno,venta,36000.0,0.0,215.0,0,0,active,,respaldo_remax_real
+68767,Oficina en Mariscal Sucre,Mariscal Sucre,oficina,arriendo,240.0,50.0,0.0,0,1,active,,respaldo_remax_real
+68763,Casa en San Antonio,San Antonio,casa,venta,45000.0,114.0,200.0,3,2,active,,respaldo_remax_real
+68762,Oficina en Mariscal Sucre,Mariscal Sucre,oficina,venta,299000.0,401.0,0.0,0,4,active,,respaldo_remax_real
+68761,Oficina en Mariscal Sucre,Mariscal Sucre,oficina,arriendo,2300.0,401.0,0.0,0,4,active,,respaldo_remax_real
+68760,Departamento en Chaupicruz (La Concepcion),Chaupicruz (La Concepcion),departamento,venta,128000.0,86.0,0.0,2,2,active,,respaldo_remax_real
+68758,Departamento en Chaupicruz (La Concepcion),Chaupicruz (La Concepcion),departamento,venta,140000.0,392.0,0.0,4,2,active,,respaldo_remax_real
+68741,Oficina en Iñaquito,Iñaquito,oficina,venta,760000.0,640.0,0.0,0,9,active,,respaldo_remax_real
+68740,Departamento en Benalcazar,Benalcazar,departamento,venta,93500.0,27.5,0.0,1,1,active,,respaldo_remax_real
+68733,Casa en Conocoto,Conocoto,casa,arriendo,630.0,166.89,0.0,3,2,active,,respaldo_remax_real
+68732,Departamento en Benalcazar,Benalcazar,departamento,venta,94500.0,27.5,0.0,1,1,active,,respaldo_remax_real
+68731,Departamento en Kennedy,Kennedy,departamento,venta,67800.0,60.0,0.0,1,1,active,,respaldo_remax_real
+68715,Casa en Calderón (Carapungo),Calderón (Carapungo),casa,venta,69000.0,119.76,1.0,3,2,active,,respaldo_remax_real
+68712,Casa en Cumbayá,Cumbayá,casa,arriendo,1200.0,560.0,100.0,4,2,active,,respaldo_remax_real
+68711,Edificio completo en San Jose Alto,San Jose Alto,edificio_completo,venta,189000.0,479.0,208.0,0,0,active,,respaldo_remax_real
+68710,Departamento en Batan Alto,Batan Alto,departamento,venta,144750.0,138.25,0.0,2,2,active,,respaldo_remax_real
+68709,Casa en Santa Martha Bajo,Santa Martha Bajo,casa,venta,56000.0,96.55,0.0,3,2,active,,respaldo_remax_real
+68708,House comercial en La Ferroviaria,La Ferroviaria,house_comercial,venta,144000.0,937.33,370.0,16,6,active,,respaldo_remax_real
+68707,Departamento en Kennedy,Kennedy,departamento,venta,135000.0,138.0,0.0,3,2,active,,respaldo_remax_real
+68706,Oficina en Bellavista,Bellavista,oficina,arriendo,860.0,90.0,0.0,0,1,active,,respaldo_remax_real
+68705,House comercial en Asistencia,Asistencia,house_comercial,venta,138000.0,428.4,581.0,3,4,active,,respaldo_remax_real
+68704,Casa en Puengasí,Puengasí,casa,venta,115000.0,395.74,400.0,5,4,active,,respaldo_remax_real
+68703,Casa en Quito Sur,Quito Sur,casa,venta,75000.0,264.0,144.0,4,4,active,,respaldo_remax_real
+68702,Departamento en La Morita,La Morita,departamento,venta,250.0,75.0,0.0,2,1,active,,respaldo_remax_real
+68701,Departamento en La Luz,La Luz,departamento,venta,82000.0,157.0,0.0,4,3,active,,respaldo_remax_real
+68700,Oficina en Iñaquito,Iñaquito,oficina,arriendo,2600.0,256.0,0.0,0,3,active,,respaldo_remax_real
+68699,Terreno en Puembo,Puembo,terreno,venta,500000.0,0.0,2000.0,0,0,negotiation,,respaldo_remax_real
+68698,Departamento en Collas,Collas,departamento,venta,99000.0,123.22,0.0,3,2,active,,respaldo_remax_real
+68694,Departamento en Bellavista,Bellavista,departamento,arriendo,550.0,78.0,0.0,1,2,active,,respaldo_remax_real
+68683,Departamento en Bellavista,Bellavista,departamento,arriendo,600.0,153.58,0.0,3,2,active,,respaldo_remax_real
+68681,Departamento en Quito Tenis,Quito Tenis,departamento,venta,215000.0,283.61,0.0,3,3,active,,respaldo_remax_real
+68669,Casa en Jipijapa,Jipijapa,casa,venta,60000.0,79.0,0.0,5,3,active,,respaldo_remax_real
+68664,Departamento en Quito Tenis,Quito Tenis,departamento,venta,118000.0,80.0,0.0,2,1,active,,respaldo_remax_real
+68663,Casa en Conocoto,Conocoto,casa,venta,139000.0,209.62,209.62,3,2,active,,respaldo_remax_real
+68661,Terreno en Poder Judicial,Poder Judicial,terreno,venta,180000.0,0.0,2502.0,0,0,active,,respaldo_remax_real
+68659,Departamento en Quito Tenis,Quito Tenis,departamento,venta,135000.0,151.51,0.0,2,2,active,,respaldo_remax_real
+68656,Terreno comercial en Conocoto,Conocoto,terreno_comercial,venta,299000.0,0.0,4717.0,0,0,active,,respaldo_remax_real
+68654,Casa en San Antonio,San Antonio,casa,venta,169900.0,657.0,657.0,4,4,active,,respaldo_remax_real
+68649,Departamento en La Colon,La Colon,departamento,venta,90000.0,106.0,0.0,2,2,active,,respaldo_remax_real
+68648,Oficina en Iñaquito,Iñaquito,oficina,arriendo,1400.0,120.0,0.0,0,2,active,,respaldo_remax_real
+68647,Venta negocio en Centro Histórico,Centro Histórico,venta_negocio,venta,30000.0,95.0,0.0,0,0,active,,respaldo_remax_real
+68646,Local comercial en Cumbaya Cabecera,Cumbaya Cabecera,local_comercial,arriendo,2500.0,154569.0,0.0,0,1,active,,respaldo_remax_real
+68645,Quinta en Calacalí,Calacalí,quinta,arriendo,1290.0,417.61,9910.38,5,3,active,,respaldo_remax_real
+68638,Quinta en Calacalí,Calacalí,quinta,venta,235000.0,417.61,9910.38,5,3,active,,respaldo_remax_real
+68630,Departamento en Gonzalez Suarez,Gonzalez Suarez,departamento,arriendo,1250.0,177.0,0.0,2,2,active,,respaldo_remax_real
+68629,Terreno en Guamaní,Guamaní,terreno,venta,90000.0,0.0,980.0,0,0,active,,respaldo_remax_real
+68618,House comercial en Mariscal Sucre,Mariscal Sucre,house_comercial,venta,790000.0,836.79,680.0,4,3,active,,respaldo_remax_real
+68616,Casa en El Transito,El Transito,casa,venta,50000.0,384.61,180.0,4,4,active,,respaldo_remax_real
+68615,House comercial en Chimbacalle,Chimbacalle,house_comercial,venta,157000.0,565.19,128.0,9,7,active,,respaldo_remax_real
+68613,Casa en La Pulida,La Pulida,casa,venta,89900.0,147.97,60.86,4,2,active,,respaldo_remax_real
+68612,Casa en Las Laderas de S. Francisco,Las Laderas de S. Francisco,casa,venta,84500.0,329.56,285.24,6,2,active,,respaldo_remax_real
+68607,Edificio comercial en La Concepcion,La Concepcion,edificio_comercial,venta,680000.0,510.16,590.19,0,0,active,,respaldo_remax_real
+68606,Departamento en Cotocollao,Cotocollao,departamento,arriendo,300.0,85.0,0.0,3,1,active,,respaldo_remax_real
+68602,Consultorio en Rumipamba,Rumipamba,consultorio,arriendo,250.0,7.4,0.0,0,3,active,,respaldo_remax_real
+68598,Departamento en Cumbayá,Cumbayá,departamento,arriendo,900.0,104.0,0.0,2,2,active,,respaldo_remax_real
+68597,Local comercial en Alangasí,Alangasí,local_comercial,arriendo,400.0,48.0,48.0,0,1,active,,respaldo_remax_real
+68590,Oficina en Iñaquito,Iñaquito,oficina,venta,139500.0,121.96,0.0,0,1,active,,respaldo_remax_real
+68589,Hotel en Villaflora,Villaflora,hotel,venta,330000.0,1583.07,360.0,31,35,active,,respaldo_remax_real
+68580,Departamento en El Arenal,El Arenal,departamento,arriendo,650.0,68.0,0.0,2,1,active,,respaldo_remax_real
+68567,Departamento en La Carolina,La Carolina,departamento,arriendo,650.0,100.0,0.0,2,2,active,,respaldo_remax_real
+68565,Departamento en La Carolina,La Carolina,departamento,venta,155000.0,187.4,0.0,4,2,active,,respaldo_remax_real
+68560,Casa en La Pampa,La Pampa,casa,venta,250000.0,436.0,436.0,4,3,active,,respaldo_remax_real
+68555,Oficina en La Pradera,La Pradera,oficina,venta,115000.0,88.31,0.0,0,1,active,,respaldo_remax_real
+68554,Casa en Tumbaco,Tumbaco,casa,venta,318000.0,710.0,710.0,3,2,active,,respaldo_remax_real
+68553,Departamento en Batan Bajo,Batan Bajo,departamento,arriendo,400.0,57.0,0.0,1,1,active,,respaldo_remax_real
+68552,Casa en Belisario Quevedo,Belisario Quevedo,casa,venta,150000.0,299.5,280.0,5,3,active,,respaldo_remax_real
+68549,Terreno en Rumipamba,Rumipamba,terreno,venta,907000.0,0.0,9444.0,0,0,active,,respaldo_remax_real
+68541,Casa en San Jose,San Jose,casa,venta,56900.0,131.55,0.0,2,2,active,,respaldo_remax_real
+68538,Departamento en Iñaquito,Iñaquito,departamento,venta,169000.0,106.38,0.0,2,2,active,,respaldo_remax_real
+68535,Casa en Conocoto,Conocoto,casa,venta,100000.0,236.0,216.0,3,2,active,,respaldo_remax_real
+68506,Departamento en Bellavista,Bellavista,departamento,arriendo,550.0,210.0,0.0,2,2,reserved,,respaldo_remax_real
+68495,Casa en Jipijapa,Jipijapa,casa,venta,288000.0,791.0,403.0,16,2,active,,respaldo_remax_real
+68468,Casa en La Vicentina,La Vicentina,casa,venta,165000.0,386.17,0.0,6,5,active,,respaldo_remax_real
+68460,Casa en La Floresta,La Floresta,casa,venta,165000.0,235.0,332.0,4,2,active,,respaldo_remax_real
+68445,Departamento en Calderón (Carapungo),Calderón (Carapungo),departamento,venta,74365.0,79.31,0.0,3,2,active,,respaldo_remax_real
+68444,Departamento en Calderón (Carapungo),Calderón (Carapungo),departamento,venta,75.579,80.63,0.0,3,2,active,,respaldo_remax_real
+68443,Departamento en Calderón (Carapungo),Calderón (Carapungo),departamento,venta,73.665,79.31,0.0,3,2,active,,respaldo_remax_real
+68442,Departamento en Calderón (Carapungo),Calderón (Carapungo),departamento,venta,74.879,80.63,0.0,3,2,active,,respaldo_remax_real
+68441,Departamento en Calderón (Carapungo),Calderón (Carapungo),departamento,venta,76304.0,82.94,0.0,3,2,active,,respaldo_remax_real
+68434,Departamento en Calderón (Carapungo),Calderón (Carapungo),departamento,venta,74924.0,81.44,0.0,3,2,active,,respaldo_remax_real
+68419,Departamento en Rumipamba,Rumipamba,departamento,venta,215000.0,296.0,0.0,3,3,active,,respaldo_remax_real
+68417,Casa en Guápulo,Guápulo,casa,venta,450000.0,357.0,357.0,4,3,active,,respaldo_remax_real
+68409,Departamento en Jipijapa,Jipijapa,departamento,arriendo,300.0,80.0,0.0,2,1,negotiation,,respaldo_remax_real
+68408,Casa en Granda Centeno,Granda Centeno,casa,venta,369000.0,837.0,376.0,4,4,active,,respaldo_remax_real
+68407,Casa en Sta. Lucia Alta,Sta. Lucia Alta,casa,venta,119000.0,225.28,5000.0,4,3,active,,respaldo_remax_real
+68406,Departamento en Mastodontes,Mastodontes,departamento,venta,57000.0,94.35,0.0,2,2,active,,respaldo_remax_real
+68405,Departamento en El Bosque,El Bosque,departamento,venta,125000.0,114.0,0.0,2,2,active,,respaldo_remax_real
+68399,Departamento en Iñaquito,Iñaquito,departamento,venta,350000.0,229.32,0.0,3,3,active,,respaldo_remax_real
+68398,Casa en Carapungo,Carapungo,casa,venta,69000.0,124.0,128.0,3,2,active,,respaldo_remax_real
+68395,Departamento en California Bonanza,California Bonanza,departamento,venta,54900.0,97.79,0.0,3,2,active,,respaldo_remax_real
+68393,Casa en Batan Alto,Batan Alto,casa,venta,270000.0,486.0,325.0,6,4,active,,respaldo_remax_real
+68392,Casa en Quitumbe,Quitumbe,casa,venta,67000.0,117.0,117.0,4,1,active,,respaldo_remax_real
+68391,Casa en Mena Del Hierro,Mena Del Hierro,casa,venta,100000.0,296.0,120.0,4,3,active,,respaldo_remax_real
+68390,Casa en Chaupicruz,Chaupicruz,casa,venta,149000.0,253.5,100.0,3,2,active,,respaldo_remax_real
+68383,Casa en Union Popular,Union Popular,casa,venta,128000.0,350.4,295.0,7,7,active,,respaldo_remax_real
+68382,Casa en Cumbayá,Cumbayá,casa,venta,290000.0,478.0,0.0,3,3,active,,respaldo_remax_real
+68378,Departamento en Arupos Fund. Aurora,Arupos Fund. Aurora,departamento,venta,70000.0,85.32,0.0,3,2,active,,respaldo_remax_real
+68376,Departamento en La Republica,La Republica,departamento,venta,229999.0,114.0,0.0,2,2,active,,respaldo_remax_real
+68364,Casa en Calderón (Carapungo),Calderón (Carapungo),casa,venta,35000.0,200.0,200.0,4,2,active,,respaldo_remax_real
+68355,Departamento en San Antonio,San Antonio,departamento,venta,110000.0,109.28,0.0,3,2,active,,respaldo_remax_real
+68349,Casa en Kennedy,Kennedy,casa,venta,132000.0,223.0,223.0,4,3,active,,respaldo_remax_real
+68346,Casa en Pomasqui,Pomasqui,casa,venta,159000.0,531.0,567.0,6,2,active,,respaldo_remax_real
+68335,Casa en Nayón,Nayón,casa,venta,450000.0,589.0,588.0,5,4,active,,respaldo_remax_real
+68323,Casa en La Magdalena,La Magdalena,casa,venta,179000.0,633.0,231.0,12,7,active,,respaldo_remax_real
+68321,Departamento en Bellavista,Bellavista,departamento,arriendo,1500.0,135.5,0.0,3,2,active,,respaldo_remax_real
+68317,Casa en Ponciano Alto,Ponciano Alto,casa,arriendo,35000.0,270.0,200.0,4,3,active,,respaldo_remax_real
+68315,Casa en El Clavel,El Clavel,casa,venta,85000.0,339.5,0.0,4,3,active,,respaldo_remax_real
+68314,Departamento en Analuisa,Analuisa,departamento,venta,79000.0,116.38,0.0,3,2,active,,respaldo_remax_real
+68307,House comercial en San Carlos,San Carlos,house_comercial,venta,38650.0,218.0,168.0,5,3,active,,respaldo_remax_real
+68306,Departamento en Pisuli,Pisuli,departamento,arriendo,120.0,61.0,0.0,2,1,active,,respaldo_remax_real
+68305,Departamento en Pisuli,Pisuli,departamento,arriendo,120.0,61.0,0.0,2,1,active,,respaldo_remax_real
+68304,Departamento en Pisuli,Pisuli,departamento,arriendo,120.0,61.0,0.0,2,1,active,,respaldo_remax_real
+68273,Casa en Kennedy,Kennedy,casa,venta,72000.0,128.0,147.0,3,1,active,,respaldo_remax_real
+68272,Casa en Guamaní,Guamaní,casa,venta,52000.0,74.0,0.0,3,2,active,,respaldo_remax_real
+68271,Casa en Turubamba,Turubamba,casa,venta,84500.0,265.0,72.0,7,4,active,,respaldo_remax_real
+68269,Casa en Carcelén,Carcelén,casa,venta,143000.0,360.0,170.0,17,8,active,,respaldo_remax_real
+68260,Casa en Calderón (Carapungo),Calderón (Carapungo),casa,venta,89000.0,142.0,142.0,4,2,active,,respaldo_remax_real
+68249,Departamento en Iñaquito,Iñaquito,departamento,venta,170000.0,187.1,0.0,3,3,active,,respaldo_remax_real
+68248,Penthouse en Bellavista,Bellavista,penthouse,venta,250000.0,219.55,0.0,3,3,active,,respaldo_remax_real
+68247,Casa en Llano Chico,Llano Chico,casa,venta,123800.0,206.95,0.0,3,2,active,,respaldo_remax_real
+68241,Departamento en Iñaquito,Iñaquito,departamento,venta,78000.0,67.0,0.0,1,1,active,,respaldo_remax_real
+68240,Departamento en El Bosque,El Bosque,departamento,venta,189000.0,297.0,0.0,3,4,active,,respaldo_remax_real
+68236,Departamento en Comité Del Pueblo,Comité Del Pueblo,departamento,venta,50000.0,86.08,0.0,3,2,active,,respaldo_remax_real
+68222,Casa en San Jose,San Jose,casa,venta,52000.0,105.42,0.0,3,2,active,,respaldo_remax_real
+68221,Casa en Union Nacional,Union Nacional,casa,venta,110000.0,174.3,194.91,4,3,active,,respaldo_remax_real
+68220,Departamento en Alangasí,Alangasí,departamento,venta,98300.0,70.0,0.0,1,1,active,,respaldo_remax_real
+68218,Casa en El Inca,El Inca,casa,venta,365000.0,648.0,372.0,10,8,active,,respaldo_remax_real
+68207,Departamento en Julio Matovelle,Julio Matovelle,departamento,venta,94000.0,78.59,0.0,2,2,active,,respaldo_remax_real
+68167,Casa en San Isidro 2,San Isidro 2,casa,venta,86900.0,220.0,0.0,3,2,active,,respaldo_remax_real
+68136,Casa en Calderón (Carapungo),Calderón (Carapungo),casa,venta,80000.0,120.0,120.0,3,2,active,,respaldo_remax_real
+68129,Casa en Quitumbe,Quitumbe,casa,venta,63000.0,125.22,124.59,4,1,active,,respaldo_remax_real
+68124,Departamento en Quito Tenis,Quito Tenis,departamento,venta,199500.0,326.0,0.0,3,3,active,,respaldo_remax_real
+68122,Departamento en San Blas,San Blas,departamento,venta,112500.0,206.0,0.0,4,3,active,,respaldo_remax_real
+68121,Casa en Kennedy,Kennedy,casa,venta,165000.0,238.79,0.0,3,2,active,,respaldo_remax_real
+68118,Penthouse en Lomas de Monteserrin,Lomas de Monteserrin,penthouse,venta,225000.0,200.18,0.0,4,4,active,,respaldo_remax_real
+68115,Departamento en Quito Tenis,Quito Tenis,departamento,venta,165000.0,256.0,0.0,3,3,active,,respaldo_remax_real
+68113,Casa en El Rocio Guamani,El Rocio Guamani,casa,venta,130000.0,477.38,877.75,3,2,active,,respaldo_remax_real
+68111,Departamento en Ponceano,Ponceano,departamento,venta,55000.0,77.75,0.0,2,1,active,,respaldo_remax_real
+68096,Departamento en La Floresta,La Floresta,departamento,venta,95000.0,163.0,0.0,3,2,active,,respaldo_remax_real
+68095,Departamento en Iñaquito,Iñaquito,departamento,venta,155000.0,102.0,0.0,2,2,active,,respaldo_remax_real
+68094,Departamento en Bellavista,Bellavista,departamento,venta,134800.0,71.0,0.0,1,1,active,,respaldo_remax_real
+68093,Casa en Jose Teran,Jose Teran,casa,venta,65000.0,114.18,0.0,3,2,active,,respaldo_remax_real
+68092,Casa en El Pinar Alto,El Pinar Alto,casa,venta,72500.0,111.59,0.0,3,1,active,,respaldo_remax_real
+68090,Casa en San Bartolo,San Bartolo,casa,venta,62500.0,265.0,500.0,3,1,active,,respaldo_remax_real
+68087,Casa en Santa Lucia Baja,Santa Lucia Baja,casa,venta,560000.0,706.0,2571.0,4,4,active,,respaldo_remax_real
+68085,Casa en Dos Puentes,Dos Puentes,casa,venta,59900.0,364.83,184.0,4,2,active,,respaldo_remax_real
+68084,Casa en Miravalle 1,Miravalle 1,casa,venta,220000.0,288.0,150.0,4,4,active,,respaldo_remax_real
+68083,Casa en Carcelen,Carcelen,casa,venta,67400.0,200.06,120.85,5,3,active,,respaldo_remax_real
+68077,Departamento en El Batan,El Batan,departamento,venta,68000.0,44.97,0.0,1,1,active,,respaldo_remax_real
+68075,Casa en La Morita,La Morita,casa,venta,265000.0,486.0,0.0,4,3,active,,respaldo_remax_real
