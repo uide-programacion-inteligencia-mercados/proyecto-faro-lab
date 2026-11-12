@@ -10,6 +10,7 @@ import requests
 
 import bitacora
 import config
+import respaldo
 
 
 def traer():
@@ -25,7 +26,9 @@ def traer():
                                for a, v in valores.items()])
             if df.empty:
                 raise RuntimeError("el FMI no devolvió datos")
+            respaldo.marcar("fmi", "en_vivo")
             return df
         except Exception as e:
             bitacora.anotar("WARNING", "fmi", "la fuente no contestó: usé el respaldo (plan B)", error=str(e)[:200])
+    respaldo.marcar("fmi", "respaldo")
     return pd.read_csv(config.RESPALDO / "respaldo_fmi.csv")

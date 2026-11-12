@@ -13,6 +13,7 @@ import requests
 
 import bitacora
 import config
+import respaldo
 
 # Las columnas que SIEMPRE entrega, para que el resto del código no se confunda.
 COLUMNAS = ["id", "titulo", "sector", "tipo", "operacion", "precio_usd", "area_m2",
@@ -83,9 +84,12 @@ def traer_respaldo():
 def traer():
     if config.MODO != "respaldo":
         try:
-            return traer_en_vivo()
+            df = traer_en_vivo()
+            respaldo.marcar("remax", "en_vivo")
+            return df
         except Exception as e:
             bitacora.anotar("WARNING", "remax", "la fuente no contestó: usé el respaldo (plan B)", error=str(e)[:200])
     else:
         bitacora.anotar("WARNING", "remax", "modo de prueba: usé el respaldo, no la fuente real")
+    respaldo.marcar("remax", "respaldo")
     return traer_respaldo()

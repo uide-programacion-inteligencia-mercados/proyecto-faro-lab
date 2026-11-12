@@ -10,6 +10,7 @@ import requests
 
 import bitacora
 import config
+import respaldo
 
 
 def _uno(codigo, nombre):
@@ -30,7 +31,10 @@ def traer():
     # Intenta los indicadores en vivo; si algo falla, usa el respaldo y lo avisa.
     if config.MODO != "respaldo":
         try:
-            return pd.concat([_uno(c, n) for n, c in config.BM_INDICADORES.items()], ignore_index=True)
+            df = pd.concat([_uno(c, n) for n, c in config.BM_INDICADORES.items()], ignore_index=True)
+            respaldo.marcar("banco_mundial", "en_vivo")
+            return df
         except Exception as e:
             bitacora.anotar("WARNING", "banco_mundial", "la fuente no contestó: usé el respaldo (plan B)", error=str(e)[:200])
+    respaldo.marcar("banco_mundial", "respaldo")
     return pd.read_csv(config.RESPALDO / "respaldo_banco_mundial.csv")
