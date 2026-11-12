@@ -1,0 +1,7 @@
+ASUNTO: [Observatorio FARO] Informe del 2026-11-12 · robot VERDE
+
+Informe del observatorio listo
+
+Estado del robot: VERDE
+Informe completo (PDF): https://github.com/uide-programacion-inteligencia-mercados/proyecto-faro-lab/blob/main/reports/ultimo.pdf
+Fuente y fecha de los datos: dentro del informe, en la sección «Calidad de los datos».
