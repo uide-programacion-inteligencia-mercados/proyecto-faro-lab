@@ -14,8 +14,8 @@
 name: Orquestador diario del Observatorio
 
 on:
-  schedule:
-    - cron: "0 11 * * *"          # todos los días a las 11:00 UTC = 06:00 en Quito
+#  schedule:
+#    - cron: "0 11 * * *"          # todos los días a las 11:00 UTC = 06:00 en Quito
   workflow_dispatch:              # botón Run workflow en la pestaña Actions
     inputs:
       simular_falla:              # S07 · la casilla del simulacro
