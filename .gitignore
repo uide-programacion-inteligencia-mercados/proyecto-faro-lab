@@ -1,8 +1,6 @@
-# ============================================================================
-# ARCHIVO: .gitignore        (la LISTA DE "NO GUARDAR")
-# QUÉ HACE: Le dice a Git qué archivos NO subir al repositorio: son
-#           temporales que Python y pytest crean solos.
-# ============================================================================
+# Archivos que GitHub NO debe guardar
 __pycache__/
-.pytest_cache/
 *.pyc
+.pytest_cache/
+# borradores de la escritura atómica (S07): nunca se suben
+*.tmp
