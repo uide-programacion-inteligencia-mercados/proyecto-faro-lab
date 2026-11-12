@@ -1,1 +1,2 @@
 {"momento": "2026-11-12T18:54:21Z", "fecha": "2026-11-12", "equipo": "faro", "canal": "ensayo", "estado": "ensayo", "modo": "ensayo", "intentos": 0, "detalle": "canales listos: slack"}
+{"momento": "2026-11-12T19:21:08Z", "fecha": "2026-11-12", "equipo": "faro", "canal": "slack", "estado": "enviado", "modo": "real", "intentos": 1, "detalle": "ok"}
