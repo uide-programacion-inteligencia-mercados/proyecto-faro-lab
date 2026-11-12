@@ -10,8 +10,8 @@
 name: Distribuir informe
 
 on:
-  schedule:
-    - cron: "7 12 * * 1"          # lunes 12:07 UTC = lunes 07:07 en Quito (evitamos la hora en punto: hay mucho tráfico)
+#  schedule:
+#    - cron: "7 12 * * 1"          # lunes 12:07 UTC = lunes 07:07 en Quito (evitamos la hora en punto: hay mucho tráfico)
   workflow_dispatch:              # botón Run workflow en la pestaña Actions
     inputs:
       modo:
