@@ -1,0 +1,8 @@
+# ============================================================================
+# ARCHIVO: .gitignore        (la LISTA DE "NO GUARDAR")
+# QUÉ HACE: Le dice a Git qué archivos NO subir al repositorio: son
+#           temporales que Python y pytest crean solos.
+# ============================================================================
+__pycache__/
+.pytest_cache/
+*.pyc
