@@ -9,3 +9,13 @@
 {"momento_utc": "2026-11-12T17:13:53+00:00", "corrida": "43267104863", "nivel": "WARNING", "tarea": "analizar", "evento": "omitida: depende de una tarea que falló", "depende_de": ["control_calidad"]}
 {"momento_utc": "2026-11-12T17:13:53+00:00", "corrida": "43267104863", "nivel": "WARNING", "tarea": "reportar", "evento": "omitida: depende de una tarea que falló", "depende_de": ["analizar"]}
 {"momento_utc": "2026-11-12T17:13:53+00:00", "corrida": "43267104863", "nivel": "ERROR", "tarea": "monitoreo", "evento": "semáforo ROJO: falló: remax; omitidas: limpiar, control_calidad, analizar, reportar"}
+{"momento_utc": "2026-11-12T17:21:19+00:00", "corrida": "43268482809", "nivel": "INFO", "tarea": "pipeline", "evento": "inicio de la corrida", "modo": "auto", "simulacro": false}
+{"momento_utc": "2026-11-12T17:21:19+00:00", "corrida": "43268482809", "nivel": "INFO", "tarea": "banco_mundial", "evento": "terminó bien", "intentos": 1, "segundos": 0.4}
+{"momento_utc": "2026-11-12T17:21:19+00:00", "corrida": "43268482809", "nivel": "INFO", "tarea": "fmi", "evento": "terminó bien", "intentos": 1, "segundos": 0.5}
+{"momento_utc": "2026-11-12T17:22:46+00:00", "corrida": "43268482809", "nivel": "INFO", "tarea": "remax", "evento": "terminó bien", "intentos": 1, "segundos": 86.8}
+{"momento_utc": "2026-11-12T17:22:46+00:00", "corrida": "43268482809", "nivel": "INFO", "tarea": "limpiar", "evento": "terminó bien", "intentos": 1, "segundos": 0.0}
+{"momento_utc": "2026-11-12T17:22:46+00:00", "corrida": "43268482809", "nivel": "INFO", "tarea": "control_calidad", "evento": "datos aprobados", "anuncios": 1063, "mediana_m2": 643}
+{"momento_utc": "2026-11-12T17:22:46+00:00", "corrida": "43268482809", "nivel": "INFO", "tarea": "control_calidad", "evento": "terminó bien", "intentos": 1, "segundos": 0.0}
+{"momento_utc": "2026-11-12T17:22:46+00:00", "corrida": "43268482809", "nivel": "INFO", "tarea": "analizar", "evento": "terminó bien", "intentos": 1, "segundos": 0.0}
+{"momento_utc": "2026-11-12T17:22:46+00:00", "corrida": "43268482809", "nivel": "INFO", "tarea": "reportar", "evento": "terminó bien", "intentos": 1, "segundos": 0.1}
+{"momento_utc": "2026-11-12T17:22:46+00:00", "corrida": "43268482809", "nivel": "INFO", "tarea": "monitoreo", "evento": "semáforo VERDE: todo bien con datos reales"}

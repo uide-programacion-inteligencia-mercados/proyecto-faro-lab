@@ -2,21 +2,21 @@
 Reporte del 2026-11-12
 
 ## Lo más importante
-- Anuncios analizados: **1065**
+- Anuncios analizados: **1063**
 - Precio mediano por m²: **USD 643** (primera corrida: aún no hay con qué comparar)
 - Sin alerta. (umbral: 5.0 %)
 
 
 ## Calidad de los datos
-- Anuncios recibidos: 2345; quedaron 1065 tras la limpieza.
-- Descartados por no es venta: 399
-- Descartados por no es vivienda: 691
-- Descartados por no esta activo: 115
+- Anuncios recibidos: 2348; quedaron 1063 tras la limpieza.
+- Descartados por no es venta: 401
+- Descartados por no es vivienda: 692
+- Descartados por no esta activo: 116
 - Descartados por sin precio: 2
 - Descartados por area imposible: 8
 - Descartados por duplicado con otro id: 7
 - Descartados por precio m2 imposible: 2
-- Descartados por precio m2 extremo: 56
+- Descartados por precio m2 extremo: 57
 - Precios corregidos por punto de miles: 3
 
 ## Por sector (los 20 con más anuncios)
@@ -25,7 +25,7 @@ Reporte del 2026-11-12
 | Conocoto | 52 | 541 | 105,000 |
 | Calderón (Carapungo) | 37 | 631 | 74,924 |
 | Tumbaco | 34 | 821 | 183,250 |
-| Iñaquito | 33 | 1,000 | 140,000 |
+| Iñaquito | 32 | 991 | 140,000 |
 | Quito Tenis | 30 | 748 | 204,250 |
 | Rumipamba | 27 | 857 | 135,000 |
 | Bellavista | 26 | 892 | 250,000 |

@@ -301,7 +301,6 @@ id,titulo,sector,tipo,operacion,precio_usd,area_m2,area_terreno_m2,dormitorios,b
 68115,VENTA DEPARTAMENTO QUITO TENNIS,Quito Tenis,departamento,venta,165000.0,256.0,0.0,3,3,active,2026-11-12,remax_en_vivo,644.53
 68111,DEPARTAMENTO EN VENTA PONCEANO BAJO,Ponceano,departamento,venta,55000.0,77.75,0.0,2,1,active,2026-11-12,remax_en_vivo,707.4
 68096,DEPARTAMENTO EN VENTA EN LA FLORESTA,La Floresta,departamento,venta,95000.0,163.0,0.0,3,2,active,2026-11-12,remax_en_vivo,582.82
-68095,"DEPARTAMENTO, DOS HABITACIONES SECTOR LA CAROLINA",Iñaquito,departamento,venta,155000.0,102.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1519.61
 68093,VENTA CASA 3 PISOS EL CONJ. KAUSAY CALDERON $65000,Jose Teran,casa,venta,65000.0,114.18,0.0,3,2,active,2026-11-12,remax_en_vivo,569.28
 68087,Casa comercial residencial en venta con 2.571mts,Santa Lucia Baja,casa,venta,560000.0,706.0,2571.0,4,4,active,2026-11-12,remax_en_vivo,793.2
 68085,SE VENDE CASA CON LOCAL COMERCIAL DOS PUENTES,Dos Puentes,casa,venta,59900.0,364.83,184.0,4,2,active,2026-11-12,remax_en_vivo,164.19
@@ -367,7 +366,6 @@ id,titulo,sector,tipo,operacion,precio_usd,area_m2,area_terreno_m2,dormitorios,b
 67686,Casa en venta-LLano Chico,Llano Chico,casa,venta,83000.0,205.1,205.1,2,2,active,2026-11-12,remax_en_vivo,404.68
 67665,CASA EN VENTA SECTOR SAN GABRIEL,Alangasí,casa,venta,215000.0,536.61,536.61,4,3,active,2026-11-12,remax_en_vivo,400.66
 67663,DEPARTAMENTO EN VENTA SHYRIS LA CROLINA,Cumbres Del Valle,departamento,venta,199000.0,197.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1010.15
-67661,"Venta Casa Rentera-Ciudadela Ibarra, Sur de Quito",Chillogallo,casa,venta,165000.0,528.5,333.0,8,3,active,2026-11-12,remax_en_vivo,312.2
 67660,"CASA EN VENTA, CALDERON, SECTOR BELLAVISTA",Bellavista De Calderon,casa,venta,85000.0,181.56,159.0,3,2,active,2026-11-12,remax_en_vivo,468.16
 67609,CASA EN VENTA COCHAPAMBA - EL CONDADO,Cochapamba,casa,venta,57000.0,144.42,110.0,4,2,active,2026-11-12,remax_en_vivo,394.68
 67602,Suite a estrenar con terraza. Vía Intervalles,Tumbaco,departamento,venta,89000.0,85.66,0.0,1,1,active,2026-11-12,remax_en_vivo,1038.99
@@ -518,7 +516,7 @@ id,titulo,sector,tipo,operacion,precio_usd,area_m2,area_terreno_m2,dormitorios,b
 65054,"VENTA DE CASA CONJ, CALIFORNIA ALTA KENNEDY",La Concepcion,casa,venta,110000.0,145.75,0.0,3,2,active,2026-11-12,remax_en_vivo,754.72
 65052,PROPIEDAD COMERCIAL EN VENTA – SAN GABRIEL,Alangasí,casa,venta,399000.0,815.0,830.0,6,6,active,2026-11-12,remax_en_vivo,489.57
 65046,"Casa en venta, FairyLand, Dean Bajo 350 mt²",Dean Bajo,casa,venta,225000.0,350.0,433.0,4,3,active,2026-11-12,remax_en_vivo,642.86
-65040,CASA EN VENTA EN URBANANIZACION DE 2 HABITACIONES,Atahualpa,casa,venta,105000.0,153.57,205.74,2,2,active,2026-11-12,remax_en_vivo,683.73
+65040,CASA EN VENTA EN URBANANIZACION DE 2 HABITACIONES,Atahualpa,casa,venta,95000.0,153.57,205.74,2,2,active,2026-11-12,remax_en_vivo,618.61
 65015,"Casa de 158m²  3 dormitorios en Venta, Tumbaco",Santa Rosa,casa,venta,195000.0,281.0,0.0,3,3,active,2026-11-12,remax_en_vivo,693.95
 65014,"CASA EN VENTA GONZÁLEZ SUÁREZ, QUITO",Iñaquito,casa,venta,244000.0,300.0,100.0,4,5,active,2026-11-12,remax_en_vivo,813.33
 65006,Casa en Venta en Urb. sector Nayón - Vía Cumbayá,Tacuri Alto,casa,venta,615000.0,727.18,626.18,5,5,active,2026-11-12,remax_en_vivo,845.73

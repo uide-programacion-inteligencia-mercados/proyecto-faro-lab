@@ -1,45 +1,48 @@
 {
-  "corrida": "43267104863",
-  "inicio_utc": "2026-11-12T17:13:53+00:00",
+  "corrida": "43268482809",
+  "inicio_utc": "2026-11-12T17:22:46+00:00",
   "tareas": [
     {
       "tarea": "banco_mundial",
       "estado": "ok",
       "intentos": 1,
-      "segundos": 0.5
+      "segundos": 0.4
     },
     {
       "tarea": "fmi",
       "estado": "ok",
       "intentos": 1,
-      "segundos": 0.6
+      "segundos": 0.5
     },
     {
       "tarea": "remax",
-      "estado": "fallo",
-      "error": "SIMULACRO: la fuente no contesta (falla provocada a propósito)",
-      "intentos": 3,
-      "tipo": "fuente"
+      "estado": "ok",
+      "intentos": 1,
+      "segundos": 86.8
     },
     {
       "tarea": "limpiar",
-      "estado": "omitida",
-      "motivo": "falló remax"
+      "estado": "ok",
+      "intentos": 1,
+      "segundos": 0.0
     },
     {
       "tarea": "control_calidad",
-      "estado": "omitida",
-      "motivo": "falló limpiar"
+      "estado": "ok",
+      "intentos": 1,
+      "segundos": 0.0
     },
     {
       "tarea": "analizar",
-      "estado": "omitida",
-      "motivo": "falló control_calidad"
+      "estado": "ok",
+      "intentos": 1,
+      "segundos": 0.0
     },
     {
       "tarea": "reportar",
-      "estado": "omitida",
-      "motivo": "falló analizar"
+      "estado": "ok",
+      "intentos": 1,
+      "segundos": 0.1
     }
   ]
 }
