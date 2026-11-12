@@ -2,3 +2,4 @@ fecha_utc,corrida,estado,motivo,segundos,tareas_ok,tareas_fallo,tareas_omitidas,
 2026-11-12T17:13:53+00:00,43267104863,rojo,"falló: remax; omitidas: limpiar, control_calidad, analizar, reportar",10.0,2,1,4,False,0
 2026-11-12T17:22:46+00:00,43268482809,verde,todo bien con datos reales,87.8,7,0,0,False,0
 2026-11-12T17:53:24+00:00,43273719561,verde,todo bien con datos reales,96.0,9,0,0,False,0
+2026-11-12T18:00:51+00:00,43274879046,verde,todo bien con datos reales,136.1,9,0,0,False,0
