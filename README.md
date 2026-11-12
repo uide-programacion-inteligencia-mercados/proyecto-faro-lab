@@ -1,4 +1,4 @@
-# Observatorio de Referencia (Faro inmobiliario de Quito) · versión Semana 7
+# Observatorio de Referencia (Faro inmobiliario de Quito) · versión Semana 8
 
 ![Estado del robot](https://github.com/uide-programacion-inteligencia-mercados/proyecto-faro-docente/actions/workflows/orquestador_diario.yml/badge.svg)
 
@@ -22,9 +22,30 @@ Cada fuente tiene su plan B en `data/respaldo/`. Si la fuente real no contesta, 
 
 **Sobre el respaldo de RE/MAX:** `respaldo_remax.csv` es una muestra **real** de 170 anuncios de Quito tomada el 8 de octubre de 2026 (columna `origen` = `respaldo_remax_real`), con sus errores originales: arriendos y terrenos mezclados con ventas, un departamento de venta a 250 dólares, precios con punto de miles (75.579) y un local con 154.569 m². Es el material de práctica de los grupos para limpiar datos.
 
+**Plan B vivo (S08):** cuando una fuente contesta en vivo y el control de calidad aprueba los datos, la tarea `renovar_respaldo` guarda una copia fresca en `data/respaldo/` (columna `origen` = `respaldo_remax_renovado`) y anota la fecha en `fechas.json`. No renueva si hoy la fuente usó su plan B, si es un simulacro, si se corre en modo prueba o si el dato es demasiado corto. Se apaga con `RENOVAR_RESPALDO = False` en `config.py`.
+
 **Regla de oro del respaldo:** si una corrida usa el respaldo, el reporte lo dice y **no se guarda en el histórico**. Así nunca se mezclan datos viejos con la serie real.
 
 **Pendiente:** confirmar que la API contesta desde los servidores de GitHub (se prueba una vez con **Run workflow**). Si no contestara, el robot usa el respaldo y lo avisa en el reporte.
+
+## Semana 8 · «Reporte PDF»: el observatorio escribe su propio informe
+
+Además de las cinco defensas de la semana 7, el robot imprime cada día un informe de dos páginas: `reports/ultimo.pdf` (y `reports/reporte_FECHA.pdf`).
+
+| Pieza | Qué hace | Dónde está |
+|---|---|---|
+| El molde | Una página web con huecos (`{{ hueco }}`, `{% for %}`, `{% if %}`) que Jinja2 rellena | `plantillas/reporte.html.j2` |
+| El impresor | Arma los valores, rellena el molde y lo convierte en PDF con WeasyPrint | `reporte_pdf.py` |
+| El portero del PDF | Rechaza un PDF vacío, que no sea PDF o con demasiadas páginas (`ErrorDeDatos`) | `reporte_pdf.validar_pdf` |
+| La tarea nueva | `reportar_pdf` espera a `analizar` y a `reportar` (el gráfico) | `pipeline.py` · diccionario `TAREAS` |
+
+**Qué lleva el informe:** titular en una frase, cuatro tarjetas (anuncios, precio mediano por m², cambio contra la corrida anterior y semáforo del robot), gráfico por sector, tabla de los 12 sectores con más anuncios, entorno económico, calidad de los datos y las últimas corridas del robot. Si la corrida usó datos de respaldo, el informe lo dice arriba y no se guarda en el histórico.
+
+**Escritura atómica:** el PDF se escribe primero como borrador (`.tmp`) y se cambia por el definitivo solo si está completo.
+
+**Pruebas:** 31 (21 de las semanas 6 y 7, y 10 del informe en `tests/test_reporte_pdf.py`).
+
+**En Colab:** `!pip install -q -r requirements.txt` ya instala Jinja2 y WeasyPrint.
 
 ## El recorrido del dato
 
@@ -35,6 +56,7 @@ LIMPIAR     limpiar                          (espera a las tres anteriores)
 CONTROLAR   control_calidad                  (si los datos no son confiables, FALLA A PROPÓSITO)
 ANALIZAR    analizar                         (mediana por sector, cambio contra ayer, alerta)
 MOSTRAR     reportar                         (gráfico y reporte en texto)
+INFORMAR    reportar_pdf                     (S08: el informe en PDF, con semáforo de salud)
 AUTOMATIZAR .github/workflows/orquestador_diario.yml
 ```
 
@@ -81,9 +103,12 @@ Para probar sin salir a internet: `!FARO_MODO=respaldo python pipeline.py`.
 | `fuentes/` | Un lector por fuente |
 | `limpieza.py` | Se queda con ventas de vivienda activas, corrige el punto de miles, quita repetidos y datos imposibles o extremos, y anota cuántos descartó por cada motivo |
 | `analisis.py` | Mediana por sector, cambio contra la corrida anterior y alerta |
-| `reporte.py` | Gráfico y reporte |
+| `reporte.py` | Gráfico y reporte en texto |
+| `reporte_pdf.py` | (S08) El informe en PDF: Jinja2 + WeasyPrint |
+| `plantillas/reporte.html.j2` | (S08) El molde del informe |
 | `orquestador.py` | Orden de las tareas, reintentos y registro |
 | `pipeline.py` | Define las tareas y de quién depende cada una |
 | `bitacora.py` | (S07) La bitácora: una línea por evento |
 | `monitoreo.py` | (S07) El semáforo y el historial de salud |
-| `tests/` | 21 pruebas: 12 de la semana 6 y 9 de resiliencia (S07) |
+| `tests/` | 36 pruebas: 12 de la semana 6, 9 de resiliencia (S07), 10 del informe PDF (S08) y 5 del plan B vivo (S08) |
+| `respaldo.py` | El plan B vivo: tras una corrida con datos reales aprobados, renueva `data/respaldo/` y anota la fecha en `data/respaldo/fechas.json` |

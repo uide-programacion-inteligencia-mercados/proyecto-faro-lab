@@ -10,3 +10,5 @@ pandas        # tablas de datos (leer, filtrar, calcular medianas)
 requests      # conectarse a internet y pedir datos a una API
 matplotlib    # dibujar los gráficos del reporte
 pytest        # correr los tests (el probador)
+jinja2        # moldes de texto con huecos: el reporte se rellena solo (S08)
+weasyprint    # convierte el molde HTML en un PDF (S08)

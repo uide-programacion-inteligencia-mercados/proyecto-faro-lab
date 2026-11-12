@@ -1,0 +1,113 @@
+{#- ============================================================================
+ARCHIVO: plantillas/reporte.html.j2        (el MOLDE DEL REPORTE)        · NUEVO S08
+QUÉ ES:   Una página web con huecos. Donde ves {{ algo }}, Jinja2 pone un valor.
+          Donde ves {% for ... %}, repite un bloque (una fila por sector).
+QUIÉN LO USA: reporte_pdf.py lo rellena y WeasyPrint lo convierte en PDF.
+ESTO PUEDES CAMBIARLO EN TU PROYECTO: los textos, los colores y el orden de los
+          bloques. Los {{ huecos }} deben llamarse igual que las claves de
+          reporte_pdf.contexto(). Si borras un hueco, ese dato deja de aparecer.
+============================================================================ -#}
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>{{ titulo }} · {{ fecha }}</title>
+<style>
+  @page { size: A4; margin: 16mm 15mm 18mm 15mm;
+          @bottom-left   { content: "{{ pie }}"; font: 7.5pt sans-serif; color: #777; }
+          @bottom-right  { content: "Página " counter(page) " de " counter(pages); font: 7.5pt sans-serif; color: #777; } }
+  * { box-sizing: border-box; }
+  body { font-family: "Carlito", "Calibri", "DejaVu Sans", sans-serif; font-size: 10.5pt; color: #1F2A33; line-height: 1.45; margin: 0; }
+  h1, h2, .kpi b, th, .etiqueta { font-family: "DejaVu Sans", sans-serif; }
+  .banda { background: #002C71; color: white; padding: 12px 16px; border-radius: 6px; }
+  .banda .kick { color: #EAAA00; font-size: 7.5pt; letter-spacing: 2px; text-transform: uppercase; font-weight: bold; }
+  .banda h1 { font-size: 18pt; margin: 3px 0 2px; }
+  .banda .sub { font-size: 9pt; opacity: .9; }
+  h2 { color: #002C71; font-size: 12.5pt; margin: 16px 0 6px; border-bottom: 2px solid #EAAA00; padding-bottom: 2px; break-after: avoid; }
+  .kpis { display: flex; gap: 8px; margin: 12px 0 4px; }
+  .kpi { flex: 1; border: 1px solid #D5D5D5; border-radius: 6px; padding: 8px 10px; }
+  .kpi .etiqueta { font-size: 7pt; letter-spacing: 1px; text-transform: uppercase; color: #910048; font-weight: bold; }
+  .kpi b { display: block; font-size: 13.5pt; color: #002C71; margin-top: 2px; }
+  .kpi small { color: #666; font-size: 8pt; }
+  .semaforo { display: inline-block; width: 12px; height: 12px; border-radius: 50%; vertical-align: middle; margin-right: 4px; }
+  .verde { background: #2E7D32; } .amarillo { background: #EAAA00; } .rojo { background: #910048; } .gris { background: #BDBDBD; }
+  .hilo { background: #F3F6FB; border-left: 4px solid #002C71; padding: 8px 12px; margin: 8px 0; }
+  .aviso { background: #FFF3CD; border-left: 4px solid #EAAA00; padding: 8px 12px; margin: 8px 0; font-size: 9.5pt; }
+  .alerta { background: #FBE9F0; border-left: 4px solid #910048; padding: 8px 12px; margin: 8px 0; font-weight: bold; color: #910048; }
+  table { width: 100%; border-collapse: collapse; font-size: 9pt; margin: 4px 0 8px; }
+  th { background: #002C71; color: white; text-align: left; padding: 4px 6px; font-size: 8pt; }
+  td { padding: 3px 6px; border-bottom: 1px solid #E7E6E6; }
+  td.n, th.n { text-align: right; }
+  tr:nth-child(even) td { background: #F7F7F7; }
+  tr { break-inside: avoid; }
+  img.grafico { width: 100%; margin: 4px 0; }
+  ul { margin: 2px 0 6px; padding-left: 18px; } li { margin-bottom: 1px; }
+  .dos { display: flex; gap: 14px; } .dos > div { flex: 1; }
+  .fuentes { font-size: 8.5pt; color: #555; }
+</style>
+</head>
+<body>
+
+<div class="banda">
+  <div class="kick">Observatorio de Referencia · Informe automático</div>
+  <h1>{{ titulo }}</h1>
+  <div class="sub">Reporte del {{ fecha }} · generado por el robot, sin intervención humana</div>
+</div>
+
+{% if es_respaldo %}
+<div class="aviso"><b>Datos de respaldo.</b> Esta corrida no pudo traer datos reales de la fuente y usó la copia guardada. Las cifras sirven para revisar el formato, no para tomar decisiones. No se guardó en el histórico.</div>
+{% endif %}
+{% if alerta %}
+<div class="alerta">ALERTA: el precio por m² cambió {{ cambio_texto }}, más que el umbral de {{ umbral }} %.</div>
+{% endif %}
+
+<div class="kpis">
+  <div class="kpi"><span class="etiqueta">Anuncios analizados</span><b>{{ n_anuncios }}</b><small>tras la limpieza</small></div>
+  <div class="kpi"><span class="etiqueta">Precio mediano por m²</span><b>USD {{ mediana_m2 }}</b><small>{{ ciudad }}</small></div>
+  <div class="kpi"><span class="etiqueta">Cambio vs corrida anterior</span><b>{{ cambio_texto }}</b><small>umbral de alerta: {{ umbral }} %</small></div>
+  <div class="kpi"><span class="etiqueta">Salud del robot · corrida anterior</span><b><span class="semaforo {{ salud_color }}"></span>{{ salud_estado }}</b><small>{{ salud_motivo }}</small></div>
+</div>
+
+<h2>La lectura en una frase</h2>
+<div class="hilo">{{ frase_hilo }}</div>
+
+<h2>Dónde está el precio</h2>
+<img class="grafico" src="{{ grafico_uri }}" alt="Precio mediano por m² en los sectores con más anuncios">
+<table>
+  <tr><th>Sector</th><th class="n">Anuncios</th><th class="n">Mediana USD/m²</th><th class="n">Precio mediano USD</th></tr>
+  {% for f in sectores %}
+  <tr><td>{{ f.sector }}</td><td class="n">{{ f.anuncios }}</td><td class="n">{{ f.mediana_m2 }}</td><td class="n">{{ f.precio_mediano }}</td></tr>
+  {% else %}
+  <tr><td colspan="4">No hay sectores con suficientes anuncios.</td></tr>
+  {% endfor %}
+</table>
+
+<div class="dos">
+  <div>
+    <h2>El entorno económico</h2>
+    <ul>
+      {% for e in entorno %}<li>{{ e.nombre }}: <b>{{ e.valor }}</b></li>{% endfor %}
+    </ul>
+  </div>
+  <div>
+    <h2>Calidad de los datos</h2>
+    <ul>
+      {% for c in calidad %}<li>{{ c }}</li>{% else %}<li>Sin detalle de limpieza en esta corrida.</li>{% endfor %}
+    </ul>
+  </div>
+</div>
+
+<h2>Últimas corridas del robot</h2>
+<table>
+  <tr><th>Fecha (UTC)</th><th>Estado</th><th class="n">Segundos</th><th>Motivo</th></tr>
+  {% for s in corridas %}
+  <tr><td>{{ s.fecha }}</td><td><span class="semaforo {{ s.color }}"></span>{{ s.estado }}</td><td class="n">{{ s.segundos }}</td><td>{{ s.motivo }}</td></tr>
+  {% else %}
+  <tr><td colspan="4">Aún no hay corridas registradas antes de esta.</td></tr>
+  {% endfor %}
+</table>
+
+<p class="fuentes"><b>De dónde salen los datos.</b> Anuncios: {{ origen }}. Macroeconomía: Banco Mundial y FMI. Este informe es el paso INFORMAR del recorrido BUSCAR, GUARDAR, LIMPIAR, ANALIZAR, AUTOMATIZAR, MOSTRAR, INFORMAR.</p>
+
+</body>
+</html>

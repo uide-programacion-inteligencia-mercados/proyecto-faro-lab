@@ -57,6 +57,9 @@ BM_INDICADORES = {
 BM_DESDE, BM_HASTA = 2015, 2025
 FMI_INDICADOR = "NGDP_RPCH"   # crecimiento real del PIB
 
+# --- PLAN B VIVO: True = tras una corrida con datos reales aprobados, se renueva data/respaldo/ ---
+RENOVAR_RESPALDO = True
+
 # --- REINTENTOS: cuántas veces repite una tarea que falla y cuántos segundos espera ---
 # Desde la semana 7 la espera CRECE: 3 s, luego 6 s (se duplica en cada intento).
 REINTENTOS = 2
@@ -71,3 +74,10 @@ BITACORA_MAX_LINEAS = 3000
 # Simulacro de falla: en GitHub se activa con la casilla «simular_falla» del botón
 # Run workflow. Sirve para comprobar que la alerta funciona. Nunca toca los datos.
 SIMULAR_FALLA = os.environ.get("FARO_SIMULAR_FALLA", "false").lower() == "true"
+
+# --- SEMANA 8 · REPORTE EN PDF ---
+# Cuántos sectores entran en la tabla del PDF (los que tienen más anuncios).
+PDF_TOP_SECTORES = 12
+# El portero del PDF: menos de estos bytes = PDF vacío o roto; más páginas que estas = algo se desbordó.
+PDF_MIN_BYTES = 5000
+PDF_MAX_PAGINAS = 4

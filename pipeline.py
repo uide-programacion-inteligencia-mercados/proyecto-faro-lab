@@ -1,11 +1,11 @@
 # ============================================================================
-# ARCHIVO: pipeline.py        (el PLANO y el PUNTO DE PARTIDA)    · MEJORADO S07
+# ARCHIVO: pipeline.py        (el PLANO y el PUNTO DE PARTIDA)    · MEJORADO S08
 # QUÉ HACE:  Define las tareas del robot, de quién depende cada una, y la función main() que las lanza con el orquestador.
 # RECIBE:    Los datos que traen los archivos de fuentes/ y las reglas de config.py.
 # ENTREGA:   Tablas guardadas en data/, el reporte en reports/ y el registro en logs/. Termina con éxito o con error.
 # ESTO PUEDES CAMBIARLO EN TU PROYECTO: las tareas y sus dependencias (diccionario TAREAS). Aquí agregas o quitas fuentes y pasos.
 # ============================================================================
-# Secuencia: BUSCAR, GUARDAR, LIMPIAR, CONTROLAR, ANALIZAR, MOSTRAR.
+# Secuencia: BUSCAR, GUARDAR, LIMPIAR, CONTROLAR, ANALIZAR, MOSTRAR, INFORMAR (S08).
 # Cada función t_xxx es UNA tarea: recibe lo que entregó la anterior y entrega su resultado.
 import sys
 import time
@@ -17,6 +17,8 @@ import analisis
 import limpieza
 import orquestador
 import reporte
+import reporte_pdf
+import respaldo
 from fuentes import banco_mundial, fmi, remax
 
 
@@ -76,6 +78,15 @@ def t_control_calidad(limpiar):
     return limpiar
 
 
+# --- TAREA DEL PLAN B VIVO (S08): si los datos de hoy fueron reales y el portero los aprobó, renueva el respaldo ---
+def t_renovar_respaldo(control_calidad):
+    try:
+        return respaldo.renovar()
+    except Exception as e:      # renovar el plan B nunca debe tumbar el informe del día
+        bitacora.anotar("WARNING", "renovar_respaldo", "no se pudo renovar la copia de seguridad", error=str(e)[:200])
+        return []
+
+
 # --- TAREA DE ANÁLISIS: las cifras que responden la pregunta de negocio ---
 def t_analizar(control_calidad):
     return analisis.analizar(control_calidad["anuncios"], control_calidad["macro"], control_calidad["descartes"])
@@ -84,6 +95,11 @@ def t_analizar(control_calidad):
 # --- TAREA DE REPORTE: convierte las cifras en gráfico y texto ---
 def t_reportar(analizar):
     return reporte.escribir(analizar)
+
+
+# --- TAREA DE PDF (S08): imprime el informe. Necesita las cifras Y el gráfico que dibujó reportar ---
+def t_reportar_pdf(analizar, reportar):
+    return reporte_pdf.generar(analizar, reportar)
 
 
 # EL PLANO (llamado DAG): cada tarea dice quién es y de quién depende.
@@ -95,8 +111,10 @@ TAREAS = {
     "fmi": (t_fmi, []),
     "limpiar": (t_limpiar, ["remax", "banco_mundial", "fmi"]),
     "control_calidad": (t_control_calidad, ["limpiar"]),
+    "renovar_respaldo": (t_renovar_respaldo, ["control_calidad"]),   # S08 · plan B vivo
     "analizar": (t_analizar, ["control_calidad"]),
     "reportar": (t_reportar, ["analizar"]),
+    "reportar_pdf": (t_reportar_pdf, ["analizar", "reportar"]),   # S08 · el informe en PDF
 }
 
 

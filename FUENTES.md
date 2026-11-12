@@ -9,3 +9,5 @@
 | Crecimiento del PIB (%) | FMI, DataMapper NGDP_RPCH | https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/ECU | `respaldo_fmi.csv`, 2018–2026 (2026 es proyección) |
 
 Los respaldos del Banco Mundial y del FMI se consultaron el 8 de octubre de 2026.
+
+**Renovación (S08):** desde la semana 8, el robot renueva cada respaldo cuando esa fuente contestó en vivo y el control de calidad aprobó los datos. La fecha de cada renovación queda en `data/respaldo/fechas.json`.
