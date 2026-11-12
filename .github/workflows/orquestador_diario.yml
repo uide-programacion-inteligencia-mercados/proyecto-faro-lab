@@ -1,8 +1,11 @@
 # ============================================================================
-# ARCHIVO: orquestador_diario.yml        (el DESPERTADOR)          · MEJORADO S07
+# ARCHIVO: orquestador_diario.yml        (el DESPERTADOR)          · MEJORADO S08
 # ----------------------------------------------------------------------------
 # QUÉ ES:   Las instrucciones que GitHub lee solo. Vive en .github/workflows/
 # QUÉ HACE: Decide CUÁNDO despierta el robot, DÓNDE trabaja y QUÉ pasos sigue.
+# NOVEDAD DE LA SEMANA 8 («Reporte PDF»): instala las librerías del PDF (pango, Jinja2 y WeasyPrint);
+#   el pipeline escribe reports/ultimo.pdf y el paso «Guardar el reporte de hoy» ya lo deja como archivo
+#   descargable y lo guarda en el repositorio junto con el resto de reports/.
 # NOVEDADES DE LA SEMANA 7 («Avisa si falla»):
 #   1. Casilla «simular_falla» en el botón Run workflow: un simulacro de incendio.
 #   2. La bitácora y la salud se guardan SIEMPRE, incluso si la corrida falló.
@@ -49,6 +52,12 @@ jobs:
           python-version: "3.12"
           cache: pip
 
+      # S08 · WeasyPrint necesita la librería de texto «pango». Casi siempre ya viene; si no, la instala.
+      - name: Preparar las librerías del PDF
+        run: |
+          sudo apt-get install -y --no-install-recommends libpango-1.0-0 libpangoft2-1.0-0 \
+            || (sudo apt-get update && sudo apt-get install -y --no-install-recommends libpango-1.0-0 libpangoft2-1.0-0)
+
       - name: Instalar lo necesario
         run: pip install -r requirements.txt
 
@@ -60,7 +69,7 @@ jobs:
           FARO_SIMULAR_FALLA: ${{ inputs.simular_falla }}   # vacío en las corridas del reloj = no
         run: python pipeline.py
 
-      - name: Guardar el reporte de hoy como archivo descargable
+      - name: Guardar el reporte de hoy (con su PDF) como archivo descargable
         if: always()
         uses: actions/upload-artifact@v4
         with:
