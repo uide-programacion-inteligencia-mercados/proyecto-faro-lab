@@ -1,0 +1,11 @@
+{"momento_utc": "2026-11-12T17:13:43+00:00", "corrida": "43267104863", "nivel": "INFO", "tarea": "pipeline", "evento": "inicio de la corrida", "modo": "auto", "simulacro": true}
+{"momento_utc": "2026-11-12T17:13:43+00:00", "corrida": "43267104863", "nivel": "INFO", "tarea": "banco_mundial", "evento": "terminó bien", "intentos": 1, "segundos": 0.5}
+{"momento_utc": "2026-11-12T17:13:44+00:00", "corrida": "43267104863", "nivel": "INFO", "tarea": "fmi", "evento": "terminó bien", "intentos": 1, "segundos": 0.6}
+{"momento_utc": "2026-11-12T17:13:44+00:00", "corrida": "43267104863", "nivel": "WARNING", "tarea": "remax", "evento": "intento 1 falló; espero 3 s y reintento", "error": "SIMULACRO: la fuente no contesta (falla provocada a propósito)"}
+{"momento_utc": "2026-11-12T17:13:47+00:00", "corrida": "43267104863", "nivel": "WARNING", "tarea": "remax", "evento": "intento 2 falló; espero 6 s y reintento", "error": "SIMULACRO: la fuente no contesta (falla provocada a propósito)"}
+{"momento_utc": "2026-11-12T17:13:53+00:00", "corrida": "43267104863", "nivel": "ERROR", "tarea": "remax", "evento": "falló después de 3 intentos: SIMULACRO: la fuente no contesta (falla provocada a propósito)", "tipo": "fuente"}
+{"momento_utc": "2026-11-12T17:13:53+00:00", "corrida": "43267104863", "nivel": "WARNING", "tarea": "limpiar", "evento": "omitida: depende de una tarea que falló", "depende_de": ["remax"]}
+{"momento_utc": "2026-11-12T17:13:53+00:00", "corrida": "43267104863", "nivel": "WARNING", "tarea": "control_calidad", "evento": "omitida: depende de una tarea que falló", "depende_de": ["limpiar"]}
+{"momento_utc": "2026-11-12T17:13:53+00:00", "corrida": "43267104863", "nivel": "WARNING", "tarea": "analizar", "evento": "omitida: depende de una tarea que falló", "depende_de": ["control_calidad"]}
+{"momento_utc": "2026-11-12T17:13:53+00:00", "corrida": "43267104863", "nivel": "WARNING", "tarea": "reportar", "evento": "omitida: depende de una tarea que falló", "depende_de": ["analizar"]}
+{"momento_utc": "2026-11-12T17:13:53+00:00", "corrida": "43267104863", "nivel": "ERROR", "tarea": "monitoreo", "evento": "semáforo ROJO: falló: remax; omitidas: limpiar, control_calidad, analizar, reportar"}
