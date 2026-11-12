@@ -1,0 +1,8 @@
+# ============================================================================
+# ARCHIVO: dashboard/requirements.txt        (la LISTA DE COMPRAS de la vitrina)
+# QUÉ HACE: Le dice a Streamlit Community Cloud qué instalar para mostrar la página.
+# OJO:      Es distinto del requirements.txt de la raíz (el del robot). Streamlit lee
+#           primero el que está junto a app.py, así el robot no instala cosas de más.
+# ============================================================================
+streamlit
+pandas
