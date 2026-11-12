@@ -1,0 +1,40 @@
+{
+  "inicio_utc": "2026-11-12T15:32:49+00:00",
+  "tareas": [
+    {
+      "tarea": "banco_mundial",
+      "estado": "ok",
+      "intentos": 1
+    },
+    {
+      "tarea": "fmi",
+      "estado": "ok",
+      "intentos": 1
+    },
+    {
+      "tarea": "remax",
+      "estado": "ok",
+      "intentos": 1
+    },
+    {
+      "tarea": "limpiar",
+      "estado": "ok",
+      "intentos": 1
+    },
+    {
+      "tarea": "control_calidad",
+      "estado": "ok",
+      "intentos": 1
+    },
+    {
+      "tarea": "analizar",
+      "estado": "ok",
+      "intentos": 1
+    },
+    {
+      "tarea": "reportar",
+      "estado": "ok",
+      "intentos": 1
+    }
+  ]
+}

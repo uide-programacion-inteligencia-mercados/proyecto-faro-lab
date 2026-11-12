@@ -1,0 +1,1066 @@
+id,titulo,sector,tipo,operacion,precio_usd,area_m2,area_terreno_m2,dormitorios,banos,estado,fecha_captura,origen,precio_m2
+70240,"Venta Casa Conjunto Conde 2, Quito Ecuador",Carcelén,casa,venta,59000.0,142.0,110.0,3,2,active,2026-11-12,remax_en_vivo,415.49
+70237,"EN VENTA SUITE 87,84 m² SECTOR LA CAROLINA",Iñaquito,departamento,venta,116000.0,87.84,0.0,1,1,active,2026-11-12,remax_en_vivo,1320.58
+70215,CASA NUEVA PISCINA EN POMASQUI CONJ. 3 PISOS 3D,Pomasqui,casa,venta,119990.0,141.9,210.0,3,2,active,2026-11-12,remax_en_vivo,845.6
+70213,"¡OPORTUNIDAD! RENTORNO DEL 8,7%, SECTOR EL CONDADO",Caminos Libertad,casa,venta,88000.0,324.0,705.85,6,4,active,2026-11-12,remax_en_vivo,271.6
+70212,CASA EN VENTA EL CONDADO 3 DORMITORIOS EN CJTO.,El Condado,casa,venta,78900.0,134.0,60.0,3,2,active,2026-11-12,remax_en_vivo,588.81
+70200,Vendo Dpto. 3 dormitorios - Sector La Kennedy,Rodriguez Aguirre,departamento,venta,57000.0,81.59,0.0,3,2,active,2026-11-12,remax_en_vivo,698.62
+70190,Conjunto residencial La Candelaria en Venta,Calderón (Carapungo),casa,venta,80000.0,120.0,120.0,3,2,active,2026-11-12,remax_en_vivo,666.67
+70186,"Casa en Venta, Churoloma Tumbaco",Tumbaco,casa,venta,124500.0,147.05,147.05,3,2,active,2026-11-12,remax_en_vivo,846.65
+70172,"VENDO CASA AMPLIA, SECTOR LAS CASAS BAJO.",Las Casas Bajo,casa,venta,165000.0,454.0,243.0,8,4,active,2026-11-12,remax_en_vivo,363.44
+70167,Vendo casa amplia Conjunto Jardines de la Colina,Conocoto,casa,venta,108000.0,148.0,0.0,3,3,active,2026-11-12,remax_en_vivo,729.73
+70163,CASA DE VENTA EN CONOCOTO,Conocoto,casa,venta,74000.0,155.0,150.0,3,2,active,2026-11-12,remax_en_vivo,477.42
+70161,CASA DE VENTA EN CONOCOTO,Conocoto,casa,venta,75000.0,166.0,150.0,3,2,active,2026-11-12,remax_en_vivo,451.81
+70160,CASA EN VENTA - CALDERON COLINAS DEL VALLE,Colinas Del Valle,casa,venta,39000.0,120.0,160.0,1,1,active,2026-11-12,remax_en_vivo,325.0
+70158,CASA A ESTRENAR CARCELEN - LA JOSEFINA,Carcelen,casa,venta,92000.0,147.02,147.02,3,2,active,2026-11-12,remax_en_vivo,625.77
+70155,Casa 195 m² 3 Dorm. en Venta en San Juan Cumbayá,San Juan Bajo,casa,venta,218000.0,194.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1123.71
+70153,"En venta departamento con terraza, Av Intervalles",Tolagasi,departamento,venta,257500.0,173.09,0.0,3,3,active,2026-11-12,remax_en_vivo,1487.67
+70144,AMPLIO DEPARTAMENTO TRÍPLEX EN VENTA EN PONCEANO,Ponceano,departamento,venta,110000.0,273.0,0.0,2,2,active,2026-11-12,remax_en_vivo,402.93
+70137,Venta Departamento 2 Dormitorios La Mariscal,Mariscal Sucre,departamento,venta,55000.0,55.56,0.0,2,1,active,2026-11-12,remax_en_vivo,989.92
+70133,¡Se vende amplia casa en La Gasca!,La Gasca,casa,venta,115000.0,220.0,120.0,4,2,active,2026-11-12,remax_en_vivo,522.73
+70122,VENTA DE CASA EN LA MITAD DEL MUNDO,San Antonio,casa,venta,75000.0,177.44,177.44,5,4,active,2026-11-12,remax_en_vivo,422.68
+70098,CASA COMERCIAL Y FAMLIAR EN VENTA SECTOR RUMICHACA,Solanda,casa,venta,155000.0,545.0,272.0,4,3,active,2026-11-12,remax_en_vivo,284.4
+70082,Venta de casa en la Argelia,Lucha De Los Pobres Alto,casa,venta,85000.0,200.0,200.0,5,2,active,2026-11-12,remax_en_vivo,425.0
+70081,CASA EN VENTA LA TOLA BAJA,La Tola Baja,casa,venta,85000.0,176.0,232.0,6,3,active,2026-11-12,remax_en_vivo,482.95
+70079,Departamento 3D en venta - Carcelen Carretas,Carretas,departamento,venta,85000.0,127.91,0.0,3,2,active,2026-11-12,remax_en_vivo,664.53
+70074,Casa 3D en venta - San Isidro del Inca,San Isidro Del Inca,casa,venta,95000.0,118.12,0.0,3,2,active,2026-11-12,remax_en_vivo,804.27
+70069,AMPLIA CASA EN EL VALLE DE LOS CHILLOS,Alangasí,casa,venta,310000.0,375.0,190.0,3,3,active,2026-11-12,remax_en_vivo,826.67
+70067,CASA EN VENTA SECTOR CUMBAYA,Santa Lucía,casa,venta,230000.0,308.76,308.0,3,4,active,2026-11-12,remax_en_vivo,744.92
+70064,"Casa de Venta, Conjunto Galicia, Conocoto",Conocoto,casa,venta,89000.0,147.0,0.0,3,2,active,2026-11-12,remax_en_vivo,605.44
+70059,AMPLIA CASA POR ESTRENAR,Ushimana,casa,venta,170000.0,272.0,250.0,4,4,active,2026-11-12,remax_en_vivo,625.0
+70058,Casa en venta - El Ingenio - Puembo,Puembo,casa,venta,349000.0,240.0,800.0,2,3,active,2026-11-12,remax_en_vivo,1454.17
+70048,CASA EN VENTA SECTOR YARUQUI,Yaruquí,casa,venta,65000.0,202.09,0.0,4,3,active,2026-11-12,remax_en_vivo,321.64
+70031,"Departamento 3 habitaciones, Sector Yaguachi",Chilibulo,departamento,venta,74000.0,159.0,0.0,3,2,active,2026-11-12,remax_en_vivo,465.41
+70030,"Departamento en Venta,  de 237m2, Sector el Bosque",Rumipamba,departamento,venta,178000.0,237.0,0.0,4,3,active,2026-11-12,remax_en_vivo,751.05
+70029,"Departamento de 3 habitaciones, Sector Yaguachi",Yaguachi,departamento,venta,68000.0,158.0,0.0,3,2,active,2026-11-12,remax_en_vivo,430.38
+69993,VENTA DE DEPARTAMENTO PARA REMODELAR EN PONCIANO,Ponceano,departamento,venta,130000.0,167.0,0.0,3,4,active,2026-11-12,remax_en_vivo,778.44
+69981,VENTA CASA EN CUMBAYA VIA LUMBISI,El Limonar,casa,venta,179000.0,224.08,0.0,3,2,active,2026-11-12,remax_en_vivo,798.82
+69977,CASA DE LUJO EN PUEMBO URBANIZACION LAS BUGANVILLA,Chiche,casa,venta,437000.0,636.1,0.0,3,4,active,2026-11-12,remax_en_vivo,687.0
+69966,DEPARTAMENTO EN VENTA 3 DORMITORIOS SAN ISIDRO DEL,San Isidro Del Inca,departamento,venta,79900.0,126.0,0.0,3,2,active,2026-11-12,remax_en_vivo,634.13
+69962,Amplia casa de 3 pisos en conjunto en Solanda,Quitumbe,casa,venta,74000.0,172.0,172.0,3,3,active,2026-11-12,remax_en_vivo,430.23
+69926,Departamento Venta Cotocollao - Quito Norte,Quito Norte,departamento,venta,52000.0,99.0,0.0,3,1,active,2026-11-12,remax_en_vivo,525.25
+69920,PREVENTA CASAS EN CALDERON DESDE $69.900,Esperanza Progreso,casa,venta,69900.0,91.6,0.0,3,2,active,2026-11-12,remax_en_vivo,763.1
+69916,CASA RENTERA EN EL TRANSITO DE  CHILLOGALLO,Turuba Monjas 2,casa,venta,75000.0,240.51,252.45,10,7,active,2026-11-12,remax_en_vivo,311.84
+69913,DEPARTAMENTO EN VENTA EN JARDINES DE AMAGASI,Llano Chico,departamento,venta,118700.0,117.38,0.0,3,2,active,2026-11-12,remax_en_vivo,1011.25
+69908,Departamento tipo duplex en venta Cumbayá,Cumbayá,departamento,venta,295000.0,352.0,0.0,4,4,active,2026-11-12,remax_en_vivo,838.07
+69907,CASA AMPLIA 3 PISOS EN VENTA SANTIAGO II CHILIBULO,Santiago Alto,casa,venta,95000.0,241.95,180.5,6,3,active,2026-11-12,remax_en_vivo,392.64
+69902,CASA EN VENTA EN LA CALLE PEDRO GUERRERO,Comité Del Pueblo,casa,venta,58500.0,117.29,0.0,3,1,active,2026-11-12,remax_en_vivo,498.76
+69896,Venta Casa Independiente 5 Dormitorios | El Pinar,El Pinar Bajo,casa,venta,196000.0,330.0,386.0,5,3,active,2026-11-12,remax_en_vivo,593.94
+69895,DEPARTAMENTO EN VENTA BOSMEDIANO Y GONZÁLEZ SUÁREZ,Bellavista,departamento,venta,350000.0,235.0,0.0,3,3,active,2026-11-12,remax_en_vivo,1489.36
+69893,DEPARTAMENTO EN VENTA - SECTOR PUENGASI,Monja Donoso,departamento,venta,52000.0,71.12,0.0,2,1,active,2026-11-12,remax_en_vivo,731.16
+69892,DEPARTAMENTO EN VENTA - SECTOR PUENGASI,Monja Donoso,departamento,venta,68000.0,96.41,0.0,3,2,active,2026-11-12,remax_en_vivo,705.32
+69891,Casa en Venta en San Juan Alto de Cumbayá,San Juan Alto,casa,venta,182000.0,257.48,256.2,3,3,active,2026-11-12,remax_en_vivo,706.85
+69888,DEPARTAMENTO EN VENTA - SECTOR PUENGASI,Monja Donoso,departamento,venta,67700.0,97.74,0.0,3,2,active,2026-11-12,remax_en_vivo,692.65
+69881,DÚPLEX EN VENTA EN ZAMBIZA | 3HAB 2TERRAZAS,Zámbiza,departamento,venta,160000.0,205.0,0.0,3,2,active,2026-11-12,remax_en_vivo,780.49
+69879,LUJOSO DEPARTAMENTO 3 DORMITORIOS - GRANDA CENTENO,Granda Centeno,departamento,venta,199900.0,160.0,0.0,3,3,active,2026-11-12,remax_en_vivo,1249.38
+69878,AMPLIO DEPARTAMENTO 3D EN VENTA – URB EL CONDADO,El Condado,departamento,venta,110000.0,195.0,0.0,3,2,active,2026-11-12,remax_en_vivo,564.1
+69866,"DEPARTAMENTO DE LUJO 331M2, JARDIN 336M2, LA PAZ",La Paz,departamento,venta,397500.0,727.0,0.0,4,3,active,2026-11-12,remax_en_vivo,546.77
+69865,CASA EN CONJUNTO PONCEANO ALTO AV. REAL AUDIENCIA,Ponciano Alto,casa,venta,262000.0,395.0,0.0,3,3,active,2026-11-12,remax_en_vivo,663.29
+69864,CASA DE 3 PISOS EN VENTA – CARCELÉN,Cotocollao,casa,venta,89000.0,179.0,129.0,3,2,active,2026-11-12,remax_en_vivo,497.21
+69853,Departamento 2 habitaciones  Sector La Carolina,Iñaquito,departamento,venta,140000.0,121.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1157.02
+69834,CASA EN VENTA SAN ISIDRO DEL INCA EL EDEN,El Eden,casa,venta,95000.0,234.5,451.0,3,2,active,2026-11-12,remax_en_vivo,405.12
+69825,"CASA EN VENTA EN LA PAMPA 4 DORMITIOS, INTERESANTE",Pomasqui,casa,venta,205000.0,308.0,389.0,4,2,active,2026-11-12,remax_en_vivo,665.58
+69824,CASA DE VENTA URB. SAN JOSÉ DEL VALLE,San Jose Del Valle,casa,venta,165000.0,431.0,465.0,3,2,active,2026-11-12,remax_en_vivo,382.83
+69812,"Casa en Venta Urb. 11 de Junio, Vía a Pintag",Alangasí,casa,venta,140000.0,120.0,120.0,3,2,active,2026-11-12,remax_en_vivo,1166.67
+69811,VENTA DE AMPLIA Y VERSATIL PROPIEDAD COTOCOLLAO,El Condado,casa,venta,165000.0,342.0,325.0,4,3,active,2026-11-12,remax_en_vivo,482.46
+69799,CASA EN VENTA CALDERON 3HAB,San Jose Alto,casa,venta,85000.0,142.47,150.85,3,3,active,2026-11-12,remax_en_vivo,596.62
+69793,VENTA TERRENO CON CASA/URB EL ARQUITECTO/EL CONDA,El Condado,casa,venta,106000.0,97.0,371.0,2,2,active,2026-11-12,remax_en_vivo,1092.78
+69792,DEPARTAMENTO EN VENTA- GONZALEZ SUAREZ 3D- 255m2,Gonzalez Suarez,departamento,venta,220000.0,290.9,0.0,3,4,active,2026-11-12,remax_en_vivo,756.27
+69789,VENTA CASA EN CUMBAYA VIA LUMBISI,El Limonar,casa,venta,185000.0,224.08,0.0,3,2,active,2026-11-12,remax_en_vivo,825.6
+69775,Casa en Venta 3 Habitaciones de 550 m² en Cumbayá,Cumbayá,casa,venta,470000.0,615.0,500.0,3,3,active,2026-11-12,remax_en_vivo,764.23
+69755,"DEPARTAMENTO AMOBLADO IÑAQUITO ALTO, AMENITIES",Rumipamba,departamento,venta,125900.0,112.94,0.0,2,2,active,2026-11-12,remax_en_vivo,1114.75
+69754,DEPARTAMENTO EN VENTA | SAN JUAN ALTO – CUMBAYÁ,San Juan Alto,departamento,venta,177900.0,118.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1507.63
+69753,Amplia casa de 4 habitacio,La Mena,casa,venta,50000.0,146.48,146.48,4,3,active,2026-11-12,remax_en_vivo,341.34
+69752,Departamento en Venta 80m² | San Juan Alto Cumbayá,San Juan Alto,departamento,venta,138900.0,97.5,0.0,2,2,active,2026-11-12,remax_en_vivo,1424.62
+69735,VENDO CASA INDEPENDIENTE ANTIGUO AEROPUERTO,Aeropuerto,casa,venta,175000.0,293.0,293.0,4,3,active,2026-11-12,remax_en_vivo,597.27
+69734,"CASA EN VENTA - CONJ. RESIDENCIAL GÉNOVA I, QUITO",Comité Del Pueblo,casa,venta,78514.0,169.0,163.0,2,2,active,2026-11-12,remax_en_vivo,464.58
+69732,Departamento 3 Dorm. Frente Al Estadio Aucas,Cond. Las Cuadras,departamento,venta,53000.0,105.3,0.0,3,1,active,2026-11-12,remax_en_vivo,503.32
+69728,VENTA DEPARTAMENTO EN EL 3 PISO EN EL SUR,Cond. Las Cuadras,departamento,venta,45000.0,86.44,0.0,3,2,active,2026-11-12,remax_en_vivo,520.59
+69727,Departamento de 4 Dorm. en El 1 Piso ESTADIO AUCAS,Cond. Las Cuadras,departamento,venta,77000.0,163.89,0.0,4,1,active,2026-11-12,remax_en_vivo,469.83
+69726,SUITE EN VENTA–JARDINES DE AMAGASÍ NORTE DE QUITO,Jardines De Amagasi,departamento,venta,85000.0,90.54,0.0,1,1,active,2026-11-12,remax_en_vivo,938.81
+69721,"Casa en Venta Sector California Alta, Kennedy",California Bonanza,casa,venta,140000.0,219.0,219.0,4,4,active,2026-11-12,remax_en_vivo,639.27
+69718,"VENDO DEPARATMENTO NUEVO, SECTOR LA MASCOTA",Magdalena Alta,departamento,venta,65000.0,89.0,0.0,3,2,active,2026-11-12,remax_en_vivo,730.34
+69713,DEPARTAMENTO EN VENTA - SECTOR BELLAVISTA (338m2),Bellavista,departamento,venta,350000.0,382.2,0.0,3,4,active,2026-11-12,remax_en_vivo,915.75
+69710,Casa Comercial en venta,Calderón (Carapungo),casa,venta,218000.0,421.0,636.0,5,3,active,2026-11-12,remax_en_vivo,517.81
+69697,VENTA DE DEPARTAMENTO PB CON PATIO – EL BOSQUE,Chaupicruz (La Concepcion),departamento,venta,84900.0,99.0,0.0,2,2,active,2026-11-12,remax_en_vivo,857.58
+69696,DEPARTAMENTO EN VENTA | CONOCOTO – BARRIO SAN FRAN,San Francisco,departamento,venta,67500.0,75.0,0.0,2,2,active,2026-11-12,remax_en_vivo,900.0
+69686,CASA EN OBRA GRIS LOMA DE PUENGASI,Lomas Puengasi,casa,venta,19500.0,55.0,60.0,2,1,active,2026-11-12,remax_en_vivo,354.55
+69681,EN VENTA CASA RENTERA EN EDEN DEL VALLE,Puengasí,casa,venta,195000.0,780.0,431.0,13,9,active,2026-11-12,remax_en_vivo,250.0
+69679,Departamento 2 Dormitorios Quito Tenis,Quito Tenis,departamento,venta,132000.0,115.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1147.83
+69673,Departamento Duplex 72m2 Cjto. Pontevedra,Chillogallo,departamento,venta,49500.0,109.0,0.0,4,2,active,2026-11-12,remax_en_vivo,454.13
+69670,DEPARTAMENTO EN VENTA | VENCEDORES DE PICHINCHA,Vencedores Del Pichincha,departamento,venta,54900.0,108.0,0.0,3,2,active,2026-11-12,remax_en_vivo,508.33
+69669,Venta suite en la Granda Centeno,Rumipamba,departamento,venta,75000.0,79.7,0.0,1,1,active,2026-11-12,remax_en_vivo,941.03
+69663,SE VENDE CASA SECTOR AV. REAL AUDIENCIA,Cofavi,casa,venta,93000.0,220.37,0.0,4,1,active,2026-11-12,remax_en_vivo,422.02
+69656,Venta Casa 4 Dormitorios Portal Shopping,Pusuqui Chico Bajo,casa,venta,65000.0,114.8,90.0,4,2,active,2026-11-12,remax_en_vivo,566.2
+69624,Casa de Venta en San Antonio de Pichincha,San Antonio,casa,venta,65000.0,180.0,190.0,3,2,active,2026-11-12,remax_en_vivo,361.11
+69622,En Venta Suite 62m2 con balcón Sector Swissotel,La Floresta,departamento,venta,96500.0,77.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1253.25
+69608,"CASA DÚPLEX CONJARDÍN PRIVADO, SAN MIGUEL CONOCOTO",Conocoto,casa,venta,92000.0,198.0,100.0,3,2,active,2026-11-12,remax_en_vivo,464.65
+69595,DEPARTAMENTO VENTA QUITO TENIS,Quito Tenis,departamento,venta,125000.0,119.64,0.0,2,2,active,2026-11-12,remax_en_vivo,1044.8
+69588,VENDO DEPTO DE 3 DORMITORIOS - URB EL CONDADO,El Condado,departamento,venta,149000.0,214.59,0.0,3,4,active,2026-11-12,remax_en_vivo,694.35
+69582,"BELLAVISTA , DEPARTAMENTO DE VENTA CON JARDIN Y 3D",Bellavista,departamento,venta,305000.0,406.0,0.0,3,3,active,2026-11-12,remax_en_vivo,751.23
+69576,DEPARTAMENTO EN VENTA | LA PRIMAVERA – CUMBAYÁ,La Primavera,departamento,venta,135000.0,115.6,0.0,2,2,active,2026-11-12,remax_en_vivo,1167.82
+69574,Departamento 3 Habitaciones Urb. El Condado,El Condado,departamento,venta,145000.0,190.0,0.0,3,2,active,2026-11-12,remax_en_vivo,763.16
+69573,LOFT DE VENTA CON TERRAZA PROPIA - CENTRO DE QUITO,San Juan,departamento,venta,95000.0,125.0,0.0,1,1,active,2026-11-12,remax_en_vivo,760.0
+69561,CASA EN VENTA - MARIANITAS -CALDERON,Calderón (Carapungo),casa,venta,69000.0,142.0,120.0,3,2,active,2026-11-12,remax_en_vivo,485.92
+69557,VENTA DE CASA EN GUAMANI $55.000,Guamaní,casa,venta,54500.0,143.0,0.0,3,2,active,2026-11-12,remax_en_vivo,381.12
+69553,"VENTA DEPARTAMENTO MASTODONTES, CARCELEN",Carcelén,departamento,venta,42800.0,86.0,0.0,3,1,active,2026-11-12,remax_en_vivo,497.67
+69550,DEPARTAMENTO 4 DORMITORIOS | URB. JULIO MATOVELLE,Kennedy,departamento,venta,91000.0,172.56,0.0,4,2,active,2026-11-12,remax_en_vivo,527.35
+69538,Departamento en venta por el colegio americano 2ha,Carcelén,departamento,venta,49000.0,102.0,0.0,2,1,active,2026-11-12,remax_en_vivo,480.39
+69537,Se vende departamento dúplex en Balcón del Norte,Balcon Del Norte,departamento,venta,275000.0,472.14,0.0,4,4,active,2026-11-12,remax_en_vivo,582.45
+69529,CASA  EN VENTA CON RENTA ACTIVA - PUSUQUI CALDERON,Calderón (Carapungo),casa,venta,42000.0,72.0,72.0,2,1,active,2026-11-12,remax_en_vivo,583.33
+69509,DEPARTAMENTO EN VENTA-VALLE DE LOS CHILLOS,La Armenia 1,departamento,venta,123000.0,174.0,0.0,3,2,active,2026-11-12,remax_en_vivo,706.9
+69508,CASA EN VENTA - SECTOR ALANGASI (164m²),La Merced,casa,venta,78000.0,324.68,200.0,4,2,active,2026-11-12,remax_en_vivo,240.24
+69502,Departamento 3D en venta – Urb. El Condado,Urb. El Condado,departamento,venta,168000.0,240.74,0.0,3,4,active,2026-11-12,remax_en_vivo,697.85
+69500,"DEPARTAMENTO DE VENTA, BALCON DEL NORTE",Ponciano Alto,departamento,venta,170000.0,209.0,0.0,3,2,active,2026-11-12,remax_en_vivo,813.4
+69497,CASA EN VENTA EN CONJUNTO GÉNOVA 2,Bellavista Carretas,casa,venta,89000.0,173.86,0.0,4,2,active,2026-11-12,remax_en_vivo,511.91
+69493,Departamento en venta - Urbanización el Condado,El Condado,departamento,venta,70000.0,59.0,0.0,1,2,active,2026-11-12,remax_en_vivo,1186.44
+69490,Casa independiente de venta en sector la Brasil,Rumipamba,casa,venta,280000.0,530.0,325.0,3,3,active,2026-11-12,remax_en_vivo,528.3
+69486,SE VENDE CASA DE OPORTUNIDAD POR LIQUIDACION,San Isidro Del Inca,casa,venta,152000.0,285.0,280.0,4,4,active,2026-11-12,remax_en_vivo,533.33
+69485,SE VENDE CASA DE 870 m² DOS FRENTES A LA CALLE,Guamaní,casa,venta,110000.0,245.0,870.0,4,2,active,2026-11-12,remax_en_vivo,448.98
+69484,Venta Departamento Embajada Americana,El Eden,departamento,venta,115000.0,199.0,0.0,3,2,active,2026-11-12,remax_en_vivo,577.89
+69483,Venta departamento por estrenar sector El Condado,Cotocollao,departamento,venta,79900.0,109.09,0.0,3,2,active,2026-11-12,remax_en_vivo,732.42
+69482,Venta departamento por estrenar sector 23 de Junio,Cotocollao,departamento,venta,91900.0,124.06,0.0,3,2,active,2026-11-12,remax_en_vivo,740.77
+69481,"DEPARTAMENTO  EN VENTA URB, JARDINES DE AMAGASI",Llano Chico,departamento,venta,142000.0,162.05,0.0,3,2,active,2026-11-12,remax_en_vivo,876.27
+69479,Suite/Oficina en venta,San Juan,departamento,venta,17900.0,37.0,0.0,1,1,active,2026-11-12,remax_en_vivo,483.78
+69475,"¡CASA ESQUINERA CON TERRAZA, BBQ Y JARDÍN EN CONJU",Carcelén,casa,venta,65000.0,100.0,100.0,3,2,active,2026-11-12,remax_en_vivo,650.0
+69461,CASA EN VENTA - PUSUQUI CIUDAD BICENTENARIO,Calderón (Carapungo),casa,venta,41000.0,71.0,72.0,2,1,active,2026-11-12,remax_en_vivo,577.46
+69453,VENTA DE CASA RENTERA,Chillogallo,casa,venta,105000.0,428.0,268.0,14,7,active,2026-11-12,remax_en_vivo,245.33
+69433,VENTA CASA CON VITRALES Y DE PIEDRA EN VIA A NONO,El Condado,casa,venta,215000.0,487.0,1900.0,4,4,active,2026-11-12,remax_en_vivo,441.48
+69430,"Casa en venta,  sector mitad del mundo, autopista.",Pomasqui,casa,venta,68400.0,130.0,130.0,3,2,active,2026-11-12,remax_en_vivo,526.15
+69423,CASA DE CAMPO EN VENTA PIFO SECTOR MULAUCO,Pifo,casa,venta,50000.0,400.0,400.0,2,2,active,2026-11-12,remax_en_vivo,125.0
+69411,SE VENDE CASA EN LA PRIMAVERA,La Primavera,casa,venta,269900.0,256.0,456.0,4,4,active,2026-11-12,remax_en_vivo,1054.3
+69409,Venta de casa con amplio jardín en Alangasí,Alangasí,casa,venta,365000.0,531.08,1395.0,4,3,active,2026-11-12,remax_en_vivo,687.28
+69398,CASA EN VENTA Y/0 CENTRO LOGISTICO Y DISTRIBUCIÓN,San Isidro Del Inca,casa,venta,298000.0,403.63,838.0,4,3,active,2026-11-12,remax_en_vivo,738.3
+69388,"CASA EN VENTA PINAR ALTO,  PASEOS DEL PICHINCHA",El Pinar Alto,casa,venta,89800.0,175.07,0.0,4,2,active,2026-11-12,remax_en_vivo,512.94
+69367,VENTA CASA Y TERRENO,La Merced,casa,venta,280000.0,614.09,2161.31,4,3,active,2026-11-12,remax_en_vivo,455.96
+69365,VENTA DE CASA GRANDE 4 HAB AMAGASI DEL INCA SOLCA,San Miguel De Amagasi,casa,venta,85000.0,162.0,60.0,4,2,active,2026-11-12,remax_en_vivo,524.69
+69364,DEPARTAMENTO EN VENTA CIUDAD JARDÍN/SUR  DE QUITO,Turubamba,departamento,venta,41000.0,64.0,0.0,2,1,active,2026-11-12,remax_en_vivo,640.62
+69356,DEPARTAMENTO EDIFICIO DINALCO,Rumipamba,departamento,venta,165000.0,191.0,0.0,3,2,active,2026-11-12,remax_en_vivo,863.87
+69353,MANSION EXCLUSIVA URB CAMPO ALEGRE,Campo Alegre,casa,venta,1165000.0,1049.0,2533.0,8,5,active,2026-11-12,remax_en_vivo,1110.58
+69344,CASA EN VENTA 2 HABITACIONES EN COLINAS DEL NORTE,Caminos Libertad,casa,venta,50000.0,62.0,178.65,2,1,active,2026-11-12,remax_en_vivo,806.45
+69343,OPORTUNIDAD CASA - INVERSIÓN RENTABLE EN SOLANDA,Luisa Valencia,casa,venta,53000.0,161.03,75.18,4,2,active,2026-11-12,remax_en_vivo,329.13
+69337,Casa de Lujo 4 Hab + Estudio + Piscina Urb Condado,El Condado,casa,venta,519000.0,870.0,870.0,5,6,active,2026-11-12,remax_en_vivo,596.55
+69336,HERMOSA CASA INDEPENDIENTE EN VENTA | RÍO PITA – V,Alangasí,casa,venta,295000.0,327.0,327.0,3,3,active,2026-11-12,remax_en_vivo,902.14
+69326,Departamento 3D en venta | Las Casas Bajo,Las Casas Bajo,departamento,venta,110000.0,134.0,0.0,3,3,active,2026-11-12,remax_en_vivo,820.9
+69316,Departamento en Venta - Ponceano,Ponceano,departamento,venta,154500.0,152.15,0.0,3,2,active,2026-11-12,remax_en_vivo,1015.45
+69302,CASA EN VENTA | SANTA LUCÍA – NORTE DE QUITO,Los Arrayanes,casa,venta,95000.0,164.33,125.35,4,2,active,2026-11-12,remax_en_vivo,578.11
+69298,Departamento en venta en Quito Tennis con terrazas,Quito Tenis,departamento,venta,190000.0,516.8,0.0,4,5,active,2026-11-12,remax_en_vivo,367.65
+69291,Departamento en venta – Sector Plaza de las Améric,Iñaquito,departamento,venta,115000.0,95.74,0.0,2,2,active,2026-11-12,remax_en_vivo,1201.17
+69287,"Terreno en venta con 2 casas, bodega y galpon",San Antonio,casa,venta,450000.0,859.48,3045.0,4,3,active,2026-11-12,remax_en_vivo,523.57
+69281,Venta Casa Valle de Los Chillos,Conocoto,casa,venta,129500.0,238.0,200.0,3,2,active,2026-11-12,remax_en_vivo,544.12
+69278,EN VENTA DEPTO 77 m² 3 D PONCEANO-DIEGO DE VÁSQUEZ,Ponciano Bajo,departamento,venta,39000.0,78.0,0.0,3,2,active,2026-11-12,remax_en_vivo,500.0
+69268,"CASA EN VENTA CJTO CUMBRES DEL PINAR, PINAR ALTO",El Pinar Alto,casa,venta,125000.0,172.53,0.0,4,2,active,2026-11-12,remax_en_vivo,724.51
+69267,DEPARTAMENTO EN VENTA CONJUNTO COLINAS DE AMAGASI,San Miguel De Amagasi,departamento,venta,80000.0,100.1,0.0,3,3,active,2026-11-12,remax_en_vivo,799.2
+69266,Departamento de Venta en la República del Salvador,Bellavista,departamento,venta,110000.0,101.0,0.0,2,1,active,2026-11-12,remax_en_vivo,1089.11
+69260,se vende casa rentera de 400m2 mitad del mundo,San Antonio,casa,venta,100000.0,400.0,485.0,3,5,active,2026-11-12,remax_en_vivo,250.0
+69258,DEPARTAMENTO SECTOR COLEGIO INTISANA DE VENTA,Cochapamba,departamento,venta,98000.0,146.0,0.0,3,2,active,2026-11-12,remax_en_vivo,671.23
+69257,"VISTA GRANDE, CASA DE VENTA DE 4 DORMITORIOS",Vista Grande,casa,venta,530000.0,532.0,600.0,4,3,active,2026-11-12,remax_en_vivo,996.24
+69254,"Departamento de Venta, Sector Ponceano",Carcelen Fv Ponciano,departamento,venta,99000.0,156.0,0.0,3,2,active,2026-11-12,remax_en_vivo,634.62
+69241,SUITE CON LUZ NATURAL SECTOR EL BOSQUE,Rumipamba,departamento,venta,85000.0,76.88,0.0,1,1,active,2026-11-12,remax_en_vivo,1105.62
+69234,Departamento 2 dormitorios en Ponceano -Av Diego V,Ponciano Bajo,departamento,venta,68000.0,110.0,0.0,2,1,active,2026-11-12,remax_en_vivo,618.18
+69232,"Departamento de 3 dormitorios con patio, barbecue",Monteserrin,departamento,venta,150000.0,201.93,0.0,3,2,active,2026-11-12,remax_en_vivo,742.83
+69206,DEPARTAMENTO EN VENTA – SECTOR ALBERT EINSTEIN,Urb. El Condado,departamento,venta,90000.0,158.15,0.0,3,2,active,2026-11-12,remax_en_vivo,569.08
+69194,Departamento en venta La Carolina,Iñaquito,departamento,venta,111000.0,87.22,0.0,2,1,active,2026-11-12,remax_en_vivo,1272.64
+69192,"CASA DE UN SOLO ANDAR EN VENTA – CARCELEN, URABA",Pusuqui Chico Bajo,casa,venta,190000.0,234.0,450.0,4,4,active,2026-11-12,remax_en_vivo,811.97
+69189,VIVE EN UNA UBICACIÓN PRIVILEGIADA EN CUMBAYÁ,Cumbayá,casa,venta,149000.0,256.88,95.0,3,3,active,2026-11-12,remax_en_vivo,580.04
+69182,DEPARTAMENTO POR ESTRENAR GRANDA CENTENO,Granda Centeno,departamento,venta,175000.0,147.9,0.0,3,3,active,2026-11-12,remax_en_vivo,1183.23
+69178,CASA EN VENTA SECTOR LA SALLE,Amaguaña,casa,venta,64900.0,93.6,0.0,2,1,active,2026-11-12,remax_en_vivo,693.38
+69177,SE VENDE CASA ESQUINERA PARA INVERSIONISTAS,Mariscal Sucre,casa,venta,289000.0,479.95,240.0,3,3,active,2026-11-12,remax_en_vivo,602.15
+69176,CASA RENTERA  EN VENTA EN LA  KENEDDY,Kennedy,casa,venta,280000.0,518.0,298.0,16,6,active,2026-11-12,remax_en_vivo,540.54
+69173,Se Vende Casa Rentera de 5 departamentos y local,Chillogallo,casa,venta,133000.0,370.0,0.0,12,5,active,2026-11-12,remax_en_vivo,359.46
+69110,DEPARTAMENTO EN VENTA JUNTO AL TERMINAL QUITUMBE,Quitumbe,departamento,venta,45000.0,99.0,0.0,3,2,active,2026-11-12,remax_en_vivo,454.55
+69101,DEPARTAMENTO EN VENTA CON HERMOSA VISTA,Calderón (Carapungo),departamento,venta,65000.0,103.0,0.0,2,2,active,2026-11-12,remax_en_vivo,631.07
+69100,CASA DENTRO DE CONJUNTO EN CARCELEN AV. EINSTEIN,La Floresta,casa,venta,182000.0,231.0,0.0,3,3,active,2026-11-12,remax_en_vivo,787.88
+69098,DEPARTAMENTO DE 2 DORMITORIOS LOMAS DE MONTESERRÍN,Lomas De Monteserrin,departamento,venta,162000.0,146.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1109.59
+69086,"Casa de Venta en Amaguaña, Sector La Salle II",La Salle Ii,casa,venta,550000.0,431.59,3276.8,4,3,active,2026-11-12,remax_en_vivo,1274.36
+69081,CASA EN VENTA,Carcelén,casa,venta,600000.0,584.61,1083.0,6,7,active,2026-11-12,remax_en_vivo,1026.33
+69077,Casas por estrenar en Tumbaco,Tumbaco,casa,venta,171000.0,292.0,150.0,3,2,active,2026-11-12,remax_en_vivo,585.62
+69073,DEPARTAMENTO EXCLUSIVO URB. LAS BROMELIAS,Jipijapa,departamento,venta,398000.0,834.0,0.0,6,5,active,2026-11-12,remax_en_vivo,477.22
+69064,DEPARTAMENTO EN VENTA | EDIFICIO SINAÍ,Iñaquito,departamento,venta,179000.0,151.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1185.43
+69060,A ESTRENAR PROPIEDAD POR $99.900 APLICA BIESS/VIP,La Mena,departamento,venta,99000.0,171.0,0.0,3,2,active,2026-11-12,remax_en_vivo,578.95
+69049,Venta Casa Multifamiliar 382 m² cnstr 400 m² trn,Quitumbe,casa,venta,130000.0,382.36,400.0,7,4,active,2026-11-12,remax_en_vivo,339.99
+69043,DEPARTAMENTO DE VENTA EN PONCEANO,Contraloria,departamento,venta,66000.0,100.0,0.0,3,2,active,2026-11-12,remax_en_vivo,660.0
+69042,CASA EN CALDERÓN,Calderón (Carapungo),casa,venta,65000.0,170.0,138.0,3,2,active,2026-11-12,remax_en_vivo,382.35
+69041,Casa en Venta Mitad del Mundo,El Oasis,casa,venta,62000.0,133.1,150.0,3,2,active,2026-11-12,remax_en_vivo,465.82
+69038,CASA SECTOR MARIANA DE JESUS,Mariana De Jesus,casa,venta,270000.0,517.0,418.0,3,4,active,2026-11-12,remax_en_vivo,522.24
+69036,CASA RENTERA EN VENTA CON MAS DE 1200 MENSUALES,Turubamba,casa,venta,150000.0,695.0,200.0,8,8,active,2026-11-12,remax_en_vivo,215.83
+69026,CASA DE VENTA RESTAURANTE DE LUJO SEDE CORPORATIVA,San Isidro Del Inca,casa,venta,445000.0,428.0,1150.0,5,6,active,2026-11-12,remax_en_vivo,1039.72
+69025,DEPARTAMENTO CONJUNTO CERRADO,Quitumbe,casa,venta,50000.0,85.9,0.0,3,2,active,2026-11-12,remax_en_vivo,582.07
+69012,VENDO CASA EN SAN ISIDRO DEL INCA,San Isidro Del Inca,casa,venta,720000.0,744.0,2741.0,4,4,active,2026-11-12,remax_en_vivo,967.74
+69010,Casa en venta en sector San Isidro del Inca,El Inca,casa,venta,240000.0,904.0,904.0,4,2,active,2026-11-12,remax_en_vivo,265.49
+69007,Casa en venta en Cochapamba,Cochapamba,casa,venta,89900.0,163.13,0.0,3,2,active,2026-11-12,remax_en_vivo,551.09
+69003,Gonzalez Suarez - Venta de Departamento,Gonzalez Suarez,departamento,venta,600000.0,1080.0,0.0,6,5,active,2026-11-12,remax_en_vivo,555.56
+69001,Casas por estrenar el el mejor sector de Tumbaco,La Morita,casa,venta,209900.0,212.0,300.0,3,3,active,2026-11-12,remax_en_vivo,990.09
+68971,CASA INDEPENDIENTE + ESTUDIO EN VENTA | 109 m²,Paraiso Pinos,casa,venta,59900.0,208.0,208.0,4,3,active,2026-11-12,remax_en_vivo,287.98
+68963,Venta Suite - OFICINA sector 23 de Junio,23 De Junio,departamento,venta,42100.0,54.68,0.0,1,1,active,2026-11-12,remax_en_vivo,769.93
+68962,VENTA DE SUITE,San Isidro Del Inca,departamento,venta,42000.0,61.21,0.0,1,1,active,2026-11-12,remax_en_vivo,686.16
+68960,"DEP. EN VENTA, 3 HABITACIONES PONCEANO ALTO",Ponciano Alto,departamento,venta,79500.0,111.532,0.0,3,2,active,2026-11-12,remax_en_vivo,712.8
+68957,"DEPARTAMENTO EN VENTA, SECTOR EL CONDADO BAJO.",Ponciano Bajo,departamento,venta,105000.0,108.76,0.0,3,2,active,2026-11-12,remax_en_vivo,965.43
+68956,VENDO CASA RENTERA,La Floresta,casa,venta,79000.0,421.0,306.0,12,5,active,2026-11-12,remax_en_vivo,187.65
+68952,DEPARTAMENTO CON AMENITIES 3 DORMITORIOS,Calderón (Carapungo),departamento,venta,77165.0,79.31,0.0,3,2,active,2026-11-12,remax_en_vivo,972.95
+68951,DEPARTAMENTO DE 3 DORMITORIOS,Calderón (Carapungo),departamento,venta,90000.0,94.86,0.0,3,2,active,2026-11-12,remax_en_vivo,948.77
+68950,Departamento con AMEINITIES,Calderón (Carapungo),departamento,venta,75465.0,79.31,0.0,3,2,active,2026-11-12,remax_en_vivo,951.52
+68949,DEPARTAMENTO 3 DORMITORIOS,Calderón (Carapungo),departamento,venta,82000.0,81.46,0.0,3,2,active,2026-11-12,remax_en_vivo,1006.63
+68948,VENTA DE DEPARTAMENTO,Jipijapa,departamento,venta,200000.0,180.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1111.11
+68943,VENTA DEPARTAMENTO EN EDF. CUMBRES DEL MORAL,Jipijapa,departamento,venta,229000.0,179.17,0.0,3,2,active,2026-11-12,remax_en_vivo,1278.12
+68940,SE VENDE DEPARTAMENTO 238 M2 EL BOSQUE,Quito Tenis,departamento,venta,172000.0,239.0,0.0,4,3,active,2026-11-12,remax_en_vivo,719.67
+68917,SE VENDE CASA - LAARGELIA - 208m2,La Argelia,casa,venta,79000.0,208.0,208.0,6,3,active,2026-11-12,remax_en_vivo,379.81
+68916,Se Vende Departamento Sector El Bosque,Rumipamba,departamento,venta,230000.0,295.0,0.0,4,3,active,2026-11-12,remax_en_vivo,779.66
+68907,SE VENDE DEPARTAMENTO 2 DORMITORIOS CUMBAYA,Cumbayá,departamento,venta,170000.0,147.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1156.46
+68885,CASA  REMODELADA EN VENTA – CONJ.  DOS HEMISFERIOS,Pomasqui,casa,venta,110000.0,186.65,186.85,3,2,active,2026-11-12,remax_en_vivo,589.34
+68883,LAS CASAS TERRENO 1885M2 CON 3 CASAS,Belisario Quevedo,casa,venta,660000.0,774.0,1885.0,8,4,active,2026-11-12,remax_en_vivo,852.71
+68872,VENDO CASA AMPLIA 3 PISOS URABA,Carcelén,casa,venta,179000.0,463.71,0.0,3,4,active,2026-11-12,remax_en_vivo,386.02
+68870,CASA ESQUINERA EN VENTA EN EL TRIÁNGULO,Alangasí,casa,venta,125000.0,232.57,232.57,4,3,active,2026-11-12,remax_en_vivo,537.47
+68867,Suite en Venta en Cumbayá con Terraza y Pérgola,Cebollar,departamento,venta,140000.0,98.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1428.57
+68860,CASA RENTERA EN VENTA CALDERON -SAN JOSE DE MORAN,Sierra Hermosa,casa,venta,78000.0,210.03,179.0,5,2,active,2026-11-12,remax_en_vivo,371.38
+68852,DEPARTAMENTO DE OPORTUNIDAD,La Magdalena,departamento,venta,53000.0,84.64,0.0,3,2,active,2026-11-12,remax_en_vivo,626.18
+68834,Casa de venta en San Isidro del Inca,San Isidro 1,casa,venta,89000.0,184.0,0.0,3,2,active,2026-11-12,remax_en_vivo,483.7
+68831,VENTA DEPARTAMENTO MASTODONTES CARCELEN PISO 2,Mastodontes,departamento,venta,85000.0,164.4,0.0,3,2,active,2026-11-12,remax_en_vivo,517.03
+68830,VENTA DEPARTAMENTO MASTODONTES CARCELEN PISO 2,Mastodontes,departamento,venta,75000.0,148.35,0.0,3,2,active,2026-11-12,remax_en_vivo,505.56
+68829,VENTA DEPARTAMENTO MASDODONTES CARCELEN PISO 3,Mastodontes,departamento,venta,85000.0,165.12,0.0,3,2,active,2026-11-12,remax_en_vivo,514.78
+68828,DEPARTAMENTO 3 HABITACIONES QUITO TENIS LUJO,Rumipamba,departamento,venta,300000.0,290.0,0.0,3,4,active,2026-11-12,remax_en_vivo,1034.48
+68815,CASA EN VENTA EN CONJUNTO JARDINES DE TRIANA,San Miguel Alto,casa,venta,59900.0,119.78,0.0,3,2,active,2026-11-12,remax_en_vivo,500.08
+68801,"CASA POR ESTRENAR EN EL CARMEN BAJO, LLANO CHICO",Llano Chico,casa,venta,80000.0,142.0,142.0,3,2,active,2026-11-12,remax_en_vivo,563.38
+68799,CASA POR ESTRENAR,Carmen Bajo,casa,venta,80000.0,142.0,142.0,3,2,active,2026-11-12,remax_en_vivo,563.38
+68797,VENTA DPTO 2 DORMITORIOS EN SAN JUAN CUMBAYA,Cumbayá,departamento,venta,139000.0,111.88,0.0,2,2,active,2026-11-12,remax_en_vivo,1242.4
+68793,DEPARTAMENTO. DE VENTA EN PONCEANO CON TERRAZA,Contraloria,departamento,venta,109800.0,196.3,0.0,3,2,active,2026-11-12,remax_en_vivo,559.35
+68790,DEPARTAMENTO EN VENTA - QUITUMBE,Quitumbe,departamento,venta,50000.0,103.0,0.0,3,2,active,2026-11-12,remax_en_vivo,485.44
+68787,VENTA DEPARTAMENTO 3 DORMITORIOS QUITO TENIS,Quito Tenis,departamento,venta,275000.0,238.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1155.46
+68778,VENTA DEPARTAMENTO DE LUJO 437 M2 SIERRA DEL MORAL,Las Bromelias,departamento,venta,500000.0,503.0,0.0,3,3,active,2026-11-12,remax_en_vivo,994.04
+68770,VENDO CASA CONJUNTO JUAN PABLO II- CONOCOTO,Conocoto,casa,venta,95000.0,190.5,0.0,5,3,active,2026-11-12,remax_en_vivo,498.69
+68758,DEPARTAMENTO REMODELADO – SECTOR LABRADOR,Chaupicruz (La Concepcion),departamento,venta,140000.0,392.0,0.0,4,2,active,2026-11-12,remax_en_vivo,357.14
+68731,OFICINA / SUITE A ESTRENAR – KENNEDY,Kennedy,departamento,venta,67800.0,60.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1130.0
+68715,CASA DE VENTA EN LLANO GRANDE,Calderón (Carapungo),casa,venta,69000.0,119.76,1.0,3,2,active,2026-11-12,remax_en_vivo,576.15
+68709,VENTA CASA DUPLEX SANTA MARTHA DE CHILLOGALLO,Santa Martha Bajo,casa,venta,55000.0,96.55,0.0,3,2,active,2026-11-12,remax_en_vivo,569.65
+68707,Departamento en Venta en el sector Kennedy,Kennedy,departamento,venta,125000.0,138.0,0.0,3,2,active,2026-11-12,remax_en_vivo,905.8
+68704,CASA EN VENTA EN LA LOMA DE PUENGASI,Puengasí,casa,venta,115000.0,395.74,400.0,5,4,active,2026-11-12,remax_en_vivo,290.59
+68703,CASA EN VENTA /  EN QUITO SUR,Quito Sur,casa,venta,75000.0,264.0,144.0,4,4,active,2026-11-12,remax_en_vivo,284.09
+68698,DEPARTAMENTO 3D FRENTE A CORAL HIPERMERCADO DE C,Collas,departamento,venta,99000.0,123.22,0.0,3,2,active,2026-11-12,remax_en_vivo,803.44
+68681,Venta de Departamento en el Quito Tenis,Quito Tenis,departamento,venta,215000.0,283.61,0.0,3,3,active,2026-11-12,remax_en_vivo,758.08
+68669,Propiedad en venta Los Laureles,Jipijapa,casa,venta,60000.0,79.0,0.0,5,3,active,2026-11-12,remax_en_vivo,759.49
+68664,VENTA DEPARTAMENTO  QUITO TENIS POR ESTRENAR,Quito Tenis,departamento,venta,118000.0,80.0,0.0,2,1,active,2026-11-12,remax_en_vivo,1475.0
+68663,CASA EN VENTA DE UNA PLANTA | CONOCOTO,Conocoto,casa,venta,139000.0,209.62,209.62,3,2,active,2026-11-12,remax_en_vivo,663.1
+68659,"Departamento de Venta, Sector Quito Tennis",Quito Tenis,departamento,venta,135000.0,151.51,0.0,2,2,active,2026-11-12,remax_en_vivo,891.03
+68654,VENDO CASA DE 422m2 en SAN ANTONIO DE PICHINCHA,San Antonio,casa,venta,169900.0,657.0,657.0,4,4,active,2026-11-12,remax_en_vivo,258.6
+68649,VEDO DEPARTAMENTO REMODELADO EN LA COLON DE 2D,La Colon,departamento,venta,85000.0,106.0,0.0,2,2,active,2026-11-12,remax_en_vivo,801.89
+68616,VENTA CASA PARA REMODELAR BAJO DE PRECIO OPORTUNID,El Transito,casa,venta,50000.0,384.61,180.0,4,4,active,2026-11-12,remax_en_vivo,130.0
+68613,CASA REMODELADA EN VENTA ANT OCCIDENTAL,La Pulida,casa,venta,89900.0,147.97,60.86,4,2,active,2026-11-12,remax_en_vivo,607.56
+68612,CASA EN VENTA CALDERON BARRIO LOS EUCALIPTOS,Las Laderas De S. Francisco,casa,venta,84500.0,329.56,285.24,6,2,active,2026-11-12,remax_en_vivo,256.4
+68565,DEPARTAMENTO EN VENTA,La Carolina,departamento,venta,155000.0,187.4,0.0,4,2,active,2026-11-12,remax_en_vivo,827.11
+68560,Casa 4 hab. con jardín en La Pampa,La Pampa,casa,venta,250000.0,436.0,436.0,4,3,active,2026-11-12,remax_en_vivo,573.39
+68554,"Casa en Venta en Sector Hilacril, Tumbaco.",Tumbaco,casa,venta,318000.0,710.0,710.0,3,2,active,2026-11-12,remax_en_vivo,447.89
+68552,PROPIEDAD DE OPORTUNIDAD EN LA GASCA,Belisario Quevedo,casa,venta,150000.0,299.5,280.0,5,3,active,2026-11-12,remax_en_vivo,500.83
+68541,VENTA CASA CONJUNTO HABITACIONAL DOMENICA,San Jose,casa,venta,56900.0,131.55,0.0,2,2,active,2026-11-12,remax_en_vivo,432.54
+68468,VENTA DE CASA RENTERA 4 PISOS LA VICENTINA,La Vicentina,casa,venta,165000.0,386.17,0.0,6,5,active,2026-11-12,remax_en_vivo,427.27
+68460,DEPARTAMENTO TOTALMENTE REMODELADO,La Floresta,casa,venta,160000.0,235.0,332.0,4,2,active,2026-11-12,remax_en_vivo,680.85
+68445,Departamento 3 d con amenities,Calderón (Carapungo),departamento,venta,74365.0,79.31,0.0,3,2,active,2026-11-12,remax_en_vivo,937.65
+68444,Deprtamento 3 Dormitorios en Calderón,Calderón (Carapungo),departamento,venta,75579.0,80.63,0.0,3,2,active,2026-11-12,remax_en_vivo,937.36
+68443,Departamento 3 dormitorios,Calderón (Carapungo),departamento,venta,73665.0,79.31,0.0,3,2,active,2026-11-12,remax_en_vivo,928.82
+68442,Departamento 3 dormitorios,Calderón (Carapungo),departamento,venta,74879.0,80.63,0.0,3,2,active,2026-11-12,remax_en_vivo,928.67
+68441,Dep. 3 dormitorios con amenities,Calderón (Carapungo),departamento,venta,76304.0,82.94,0.0,3,2,active,2026-11-12,remax_en_vivo,919.99
+68434,Departamento 3 dormitorios,Calderón (Carapungo),departamento,venta,74924.0,81.44,0.0,3,2,active,2026-11-12,remax_en_vivo,919.99
+68419,DEPARTAMENTO LUJO QUITO TENIS 3H VISTA PANORAMICA,Rumipamba,departamento,venta,215000.0,296.0,0.0,3,3,active,2026-11-12,remax_en_vivo,726.35
+68408,Espectacular casa independiente Granda Centeno,Granda Centeno,casa,venta,369000.0,837.0,376.0,4,4,active,2026-11-12,remax_en_vivo,440.86
+68407,"CASA DE VENTA EN SANTA LUCIA, CONJUNTO ZERMATT",Sta. Lucia Alta,casa,venta,119000.0,225.28,5000.0,4,3,active,2026-11-12,remax_en_vivo,528.23
+68406,"VENTA DE DEPARTAMENTO, MASTODONTES, URB ADIAEN",Mastodontes,departamento,venta,57000.0,94.35,0.0,2,2,active,2026-11-12,remax_en_vivo,604.13
+68398,CASA DE VENTA 2 PISOS EN CONJUNTO PRIVADO,Carapungo,casa,venta,69000.0,124.0,128.0,3,2,active,2026-11-12,remax_en_vivo,556.45
+68393,CASA EN VENTA BATAN,Batan Alto,casa,venta,270000.0,486.0,325.0,6,4,active,2026-11-12,remax_en_vivo,555.56
+68392,VENDO CASA SUR DE QUITO DE OPORTUNIDAD QUITUMBE,Quitumbe,casa,venta,67000.0,117.0,117.0,4,1,active,2026-11-12,remax_en_vivo,572.65
+68391,CASA EN VENTA SECTOR EL CONDADO CUNJUNTO PRIVADO,Mena Del Hierro,casa,venta,100000.0,296.0,120.0,4,3,active,2026-11-12,remax_en_vivo,337.84
+68383,"Venta de Casa en el Sur de Quito, Guajaló.",Union Popular,casa,venta,128000.0,350.4,295.0,7,7,active,2026-11-12,remax_en_vivo,365.3
+68382,VENTA DE CASA 480MT  3 DORMITORIOS CUMBAYA,Cumbayá,casa,venta,290000.0,478.0,0.0,3,3,active,2026-11-12,remax_en_vivo,606.69
+68378,Departamento en Venta Conocoto Conjunto La Salle P,Arupos Fund. Aurora,departamento,venta,70000.0,85.32,0.0,3,2,active,2026-11-12,remax_en_vivo,820.44
+68355,DEPARTAMENTO A ESTRENAR SECTOR LA KENNEDY,Kennedy,departamento,venta,110000.0,109.28,0.0,3,2,active,2026-11-12,remax_en_vivo,1006.59
+68349,VENDO CASA EN SANTA LUCIA,Kennedy,casa,venta,129000.0,223.0,223.0,4,3,active,2026-11-12,remax_en_vivo,578.48
+68346,CASA  SECTOR POMASQUI CON ESPACIO PARA PROYECTAR,Pomasqui,casa,venta,129000.0,531.0,567.0,6,2,active,2026-11-12,remax_en_vivo,242.94
+68335,Casa en venta Conjunto Algarrobos  Nayón,Nayón,casa,venta,450000.0,589.0,588.0,5,4,active,2026-11-12,remax_en_vivo,764.01
+68323,"VENDO CASA RENTERA, SECTOR LA MAGDALENA",La Magdalena,casa,venta,179000.0,633.0,231.0,12,7,active,2026-11-12,remax_en_vivo,282.78
+68315,EN VENTA CASA MAS SUITE SECTOR CALDERON,El Clavel,casa,venta,85000.0,339.5,0.0,4,3,active,2026-11-12,remax_en_vivo,250.37
+68314,VENTA DEPARTAMENTO COMPLETAMENTE REMODELADO - PB,Analuisa,departamento,venta,79000.0,116.38,0.0,3,2,active,2026-11-12,remax_en_vivo,678.81
+68272,Venta casa 3 hab. Guamaní,Guamaní,casa,venta,52000.0,74.0,0.0,3,2,active,2026-11-12,remax_en_vivo,702.7
+68271,VENTA CASA RENTERA TURUBAMBA,Turubamba,casa,venta,84500.0,265.0,72.0,7,4,active,2026-11-12,remax_en_vivo,318.87
+68269,Venta Casa Rentera 7 Dptos. Carcelén,Carcelén,casa,venta,143000.0,360.0,170.0,17,8,active,2026-11-12,remax_en_vivo,397.22
+68260,"VENTA CASA MODERNA,4 DORMITORIOS. CONJ CON PISCINA",Calderón (Carapungo),casa,venta,87990.0,142.0,142.0,4,2,active,2026-11-12,remax_en_vivo,619.65
+68249,DEPARTAMENTO 3 DORMITORIOS SECTOR BATAN BAJO,Iñaquito,departamento,venta,170000.0,187.1,0.0,3,3,active,2026-11-12,remax_en_vivo,908.61
+68248,VENTA ESPECTACULAR PENTHOUSE CALLE BOSMEDIANO,Bellavista,penthouse,venta,250000.0,219.55,0.0,3,3,active,2026-11-12,remax_en_vivo,1138.69
+68247,Casa de Venta por Estrenar en Llano Chico,Llano Chico,casa,venta,123800.0,206.95,0.0,3,2,active,2026-11-12,remax_en_vivo,598.21
+68241,VENTA SUITE AMOBLADA BELLAVISTA,Iñaquito,departamento,venta,78000.0,67.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1164.18
+68240,VENTA DE DEPARTAMENTO REMODELADO EN EL BOSQUE,El Bosque,departamento,venta,189000.0,297.0,0.0,3,4,active,2026-11-12,remax_en_vivo,636.36
+68236,Venta de departamento en el Norte de Quito,Comité Del Pueblo,departamento,venta,50000.0,86.08,0.0,3,2,active,2026-11-12,remax_en_vivo,580.86
+68222,VENTA CASA 3D SECTOR POMASQUI,San Jose,casa,venta,52000.0,105.42,0.0,3,2,active,2026-11-12,remax_en_vivo,493.27
+68221,CASA AMOBLADA EN VENTA QUITO NORTE - SN.JOSE MORAN,Union Nacional,casa,venta,110000.0,174.3,194.91,4,3,active,2026-11-12,remax_en_vivo,631.1
+68220,Suite en venta de 70 m²  Mirasierra - Alangasi,Alangasí,departamento,venta,98300.0,70.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1404.29
+68218,CASA EN VENTA SECTOR JIPIJAPA,El Inca,casa,venta,365000.0,648.0,372.0,10,8,active,2026-11-12,remax_en_vivo,563.27
+68207,EN VENTA DEPARTAMENTO CERCA EMBAJADA AMERICANA,Julio Matovelle,departamento,venta,94000.0,78.59,0.0,2,2,active,2026-11-12,remax_en_vivo,1196.08
+68167,CASA EN VENTA – BOSQUES SAN ISIDRO DEL INCA 4,San Isidro 2,casa,venta,86900.0,220.0,0.0,3,2,active,2026-11-12,remax_en_vivo,395.0
+68129,"Casa de 2 pisos + Terraza, El Conde 3",Quitumbe,casa,venta,63000.0,125.22,124.59,4,1,active,2026-11-12,remax_en_vivo,503.11
+68124,VENTA DEPARTAMENTO AMPLIO CERCA C.C. EL BOSQUE,Quito Tenis,departamento,venta,199500.0,326.0,0.0,3,3,active,2026-11-12,remax_en_vivo,611.96
+68122,Amplio Departamento Duplex de 206 m2 en San Marcos,San Blas,departamento,venta,112500.0,206.0,0.0,4,3,active,2026-11-12,remax_en_vivo,546.12
+68121,CASA EN CONJUNTEN VENTA SECTOR 9 DE JUNIO PONCEANO,Kennedy,casa,venta,165000.0,238.79,0.0,3,2,active,2026-11-12,remax_en_vivo,690.98
+68118,Penthouse en venta - Sector Lomas de Monteserrin,Lomas De Monteserrin,penthouse,venta,225000.0,200.18,0.0,4,4,active,2026-11-12,remax_en_vivo,1123.99
+68115,VENTA DEPARTAMENTO QUITO TENNIS,Quito Tenis,departamento,venta,165000.0,256.0,0.0,3,3,active,2026-11-12,remax_en_vivo,644.53
+68111,DEPARTAMENTO EN VENTA PONCEANO BAJO,Ponceano,departamento,venta,55000.0,77.75,0.0,2,1,active,2026-11-12,remax_en_vivo,707.4
+68096,DEPARTAMENTO EN VENTA EN LA FLORESTA,La Floresta,departamento,venta,95000.0,163.0,0.0,3,2,active,2026-11-12,remax_en_vivo,582.82
+68095,"DEPARTAMENTO, DOS HABITACIONES SECTOR LA CAROLINA",Iñaquito,departamento,venta,155000.0,102.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1519.61
+68093,VENTA CASA 3 PISOS EL CONJ. KAUSAY CALDERON $65000,Jose Teran,casa,venta,65000.0,114.18,0.0,3,2,active,2026-11-12,remax_en_vivo,569.28
+68087,Casa comercial residencial en venta con 2.571mts,Santa Lucia Baja,casa,venta,560000.0,706.0,2571.0,4,4,active,2026-11-12,remax_en_vivo,793.2
+68085,SE VENDE CASA CON LOCAL COMERCIAL DOS PUENTES,Dos Puentes,casa,venta,59900.0,364.83,184.0,4,2,active,2026-11-12,remax_en_vivo,164.19
+68084,"CASA EN VENTA EN MIRAVALLE, CUMBAYÁ 246M2",Miravalle 1,casa,venta,220000.0,288.0,150.0,4,4,active,2026-11-12,remax_en_vivo,763.89
+68077,SUITE EN VENTA GASPAR DE VILLARROEL EL BATAN,El Batan,departamento,venta,68000.0,44.97,0.0,1,1,active,2026-11-12,remax_en_vivo,1512.12
+68075,CASA 4 DORMITORIOS EN CONJUNTO LA MORITA TUMBACO,La Morita,casa,venta,265000.0,486.0,0.0,4,3,active,2026-11-12,remax_en_vivo,545.27
+68067,Vendo casa de lujo con 4 dor. Jardines del Batan,Iñaquito,casa,venta,960000.0,842.39,526.0,4,4,active,2026-11-12,remax_en_vivo,1139.61
+68062,Vendo Duplex junto a la Plataforma del Sur,Intillacta,departamento,venta,46000.0,89.76,0.0,3,1,active,2026-11-12,remax_en_vivo,512.48
+68059,CASA DE VENTA EN TUMBACO,Tumbaco,casa,venta,185000.0,247.93,0.0,3,3,active,2026-11-12,remax_en_vivo,746.18
+68058,PENTHOUSE DE LUJO,Gonzalez Suarez,penthouse,venta,500000.0,536.2,0.0,6,5,active,2026-11-12,remax_en_vivo,932.49
+68053,Casa en venta- Llano Grande,Llano Chico,casa,venta,150000.0,554.0,260.0,3,3,active,2026-11-12,remax_en_vivo,270.76
+68043,CASA DE 3 PISOS EN PINAR ALTO | 5 ESPACIOS INDEPEN,El Pinar Alto,casa,venta,59000.0,302.0,117.0,5,3,active,2026-11-12,remax_en_vivo,195.36
+68039,VENTA DEPARTAMENTO PRIMER PISO SECTOR COCHAPAMBA,Cochapamba Sur,departamento,venta,75000.0,173.56,0.0,3,1,active,2026-11-12,remax_en_vivo,432.13
+68019,Vendo casa con dos Departamentos - Sur de Quito,Salvador Allende,departamento,venta,65000.0,143.8,0.0,6,3,active,2026-11-12,remax_en_vivo,452.02
+68009,EN VENTA CASA DE 3 PISOS POMASQUI CIUDAD BICENTENA,Pomasqui,casa,venta,45000.0,103.0,58.0,3,2,active,2026-11-12,remax_en_vivo,436.89
+67994,"Terreno Intercambiador de Carcelen, Galo Plaza",Camino Eucalipto,casa,venta,275000.0,636.62,1539.0,3,2,active,2026-11-12,remax_en_vivo,431.97
+67993,Casa confortable para disfrutar con la familia !!!,1Ra. Zona Aerea,casa,venta,152000.0,268.0,0.0,4,3,active,2026-11-12,remax_en_vivo,567.16
+67990,VENTA DEPARTAMENTO SECTOR RANCHO BAJO- EL CONDADO,Rancho Bajo,departamento,venta,33000.0,71.79,0.0,2,1,active,2026-11-12,remax_en_vivo,459.67
+67988,Venta Casa Rentera sector Parque Ingles,San Pedro Claver I,casa,venta,199000.0,437.0,175.0,8,6,active,2026-11-12,remax_en_vivo,455.38
+67987,CASA EN VENTA | MITAD DEL MUNDO,Santo Domingo Bajo,casa,venta,49000.0,102.4,0.0,3,1,active,2026-11-12,remax_en_vivo,478.52
+67984,CASA EN VENTA – CONJUNTO BONANZA,Calderón (Carapungo),casa,venta,69000.0,126.0,0.0,3,2,active,2026-11-12,remax_en_vivo,547.62
+67976,"Casa a Estrenar en Venta, Pomasqui",Pomasqui,casa,venta,120000.0,159.66,0.0,3,2,active,2026-11-12,remax_en_vivo,751.6
+67974,"Casa en Venta, Sector San Fernando",San Fernando,casa,venta,95000.0,123.45,0.0,3,2,active,2026-11-12,remax_en_vivo,769.54
+67973,"Departamento en Venta, Sector La Concepciòn",Omnibus Urbano,departamento,venta,89500.0,101.8,0.0,2,2,active,2026-11-12,remax_en_vivo,879.17
+67971,"Departamento en Venta, Sector Larrea",Larrea,departamento,venta,70000.0,108.0,0.0,3,3,active,2026-11-12,remax_en_vivo,648.15
+67969,"Casa de Venta en la Armenia, Valle de los Chillos",Conocoto,casa,venta,135000.0,161.0,0.0,3,3,active,2026-11-12,remax_en_vivo,838.51
+67968,Casa Rentera de Venta en Ponceano,Ponceano,casa,venta,200000.0,260.0,30.0,7,7,active,2026-11-12,remax_en_vivo,769.23
+67967,Casa de Venta en Tumbaco,Tumbaco,casa,venta,169000.0,223.0,0.0,3,2,active,2026-11-12,remax_en_vivo,757.85
+67966,Departamento cerca Universidades,Mariscal Sucre,departamento,venta,85000.0,133.55,0.0,3,2,active,2026-11-12,remax_en_vivo,636.47
+67963,Casa de Venta en Ponceano,Ponceano,casa,venta,298000.0,246.0,554.0,3,3,active,2026-11-12,remax_en_vivo,1211.38
+67962,Casa Rentera - Quito Norte - Ponceano,Cotocollao,casa,venta,120000.0,336.0,168.0,2,2,active,2026-11-12,remax_en_vivo,357.14
+67961,"Casa Rentera - AL SUR: Recreo, La Ferroviaria,",Recreo Clemencia,casa,venta,149900.0,497.53,497.53,4,1,active,2026-11-12,remax_en_vivo,301.29
+67949,CASA EN VENTA | SAN JOSÉ DEL VALLE  $139.000,San Jose Del Valle,casa,venta,139000.0,258.0,0.0,4,3,active,2026-11-12,remax_en_vivo,538.76
+67934,CASA EN VENTA CONOCOTO VALLE DE LOS CHILLOS 184m2,Conocoto,casa,venta,114000.0,222.0,150.0,4,2,active,2026-11-12,remax_en_vivo,513.51
+67917,Casa en Venta – Huertos de Lumbisí / Cumbayá / El,Cumbayá,casa,venta,359000.0,674.0,674.0,4,3,active,2026-11-12,remax_en_vivo,532.64
+67916,Casa en venta en Miravalle – Cumbayá,Cumbayá,casa,venta,239000.0,587.0,589.0,3,3,active,2026-11-12,remax_en_vivo,407.16
+67900,Casa Loft en venta en Tumbaco en Conjunto,Tumbaco,casa,venta,139900.0,162.25,0.0,2,2,active,2026-11-12,remax_en_vivo,862.25
+67895,VENTA CASA AMPLIA PIFO CON AREA VERDE,Pifo,casa,venta,245000.0,229.0,1040.0,4,4,active,2026-11-12,remax_en_vivo,1069.87
+67894,VENTA DEPARTAMENTO 3D SECTOR EDIF CALIDAD PREMIUM,Chaupicruz (La Concepcion),departamento,venta,168500.0,137.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1229.93
+67874,Departamento 3 Dormitorios sector 23 de Junio,23 De Junio,departamento,venta,99000.0,169.4,0.0,3,2,active,2026-11-12,remax_en_vivo,584.42
+67871,Departamento 2 Dormitorios sector 23 de Junio,23 De Junio,departamento,venta,50000.0,79.6,0.0,2,1,active,2026-11-12,remax_en_vivo,628.14
+67867,VENTA Duplex 480 m2 en Bellavista,Bellavista,departamento,venta,249000.0,480.28,0.0,4,5,active,2026-11-12,remax_en_vivo,518.45
+67847,Hermosa casa en conjunto ¨Las retamas¨ carcelén,Carcelén,casa,venta,78000.0,134.0,134.0,3,3,active,2026-11-12,remax_en_vivo,582.09
+67842,EN VENTA CASA 287m2 PARQUES ALGARROBOS II,Cumbayá,casa,venta,339000.0,417.0,215.0,3,3,active,2026-11-12,remax_en_vivo,812.95
+67840,VENDO DEPARTAMENTO TIPO CASA SECTOR QUITO TENIS,Quito Tenis,departamento,venta,187000.0,400.0,0.0,3,3,active,2026-11-12,remax_en_vivo,467.5
+67838,VENTA DE AMPLIO DEPARTAMENTO EN QUITO TENIS,Quito Tenis,departamento,venta,245000.0,248.0,0.0,2,2,active,2026-11-12,remax_en_vivo,987.9
+67822,Casa de 3 dormitorios/ La Armenia,Conocoto,casa,venta,125000.0,143.67,143.67,3,2,active,2026-11-12,remax_en_vivo,870.05
+67819,DE VENTA DEPARTAMENTO 2HAB EDIF FORESTA,Cochapamba,departamento,venta,120000.0,89.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1348.31
+67814,DEPARTAMENTO EN EL BARRIO BELLAVISTA QUITO ECUADOR,Bellavista,departamento,venta,119900.0,163.54,0.0,2,2,active,2026-11-12,remax_en_vivo,733.15
+67811,Casa esquinera con suite y jardín - Puembo,Santa Ana Mangahuant,casa,venta,395000.0,537.01,400.0,5,5,active,2026-11-12,remax_en_vivo,735.55
+67809,"CASA EN VENTA 3 DORMITORIOS, COTOCOLLAO",Cotocollao,casa,venta,92000.0,204.9,0.0,3,3,active,2026-11-12,remax_en_vivo,449.0
+67805,DEPARTAMENTO EN VENTA JUNTO A LA AV. RUMIÑAHUI,Conocoto,departamento,venta,65000.0,116.0,0.0,3,1,active,2026-11-12,remax_en_vivo,560.34
+67803,"AMPLIA CASA DE VENTA 4 DORMITORIOS, ARMENIA 1",La Armenia 1,casa,venta,330000.0,571.0,765.0,4,4,active,2026-11-12,remax_en_vivo,577.93
+67796,Vendo dúplex de 3 dormitorios con patio y BBQ,23 De Junio,departamento,venta,118000.0,320.65,0.0,3,3,active,2026-11-12,remax_en_vivo,368.0
+67787,Departamento Ciudad Jardin 114m2,Turubamba,departamento,venta,52000.0,114.0,0.0,3,2,active,2026-11-12,remax_en_vivo,456.14
+67786,Casas a estrenar cerca de Puembo- Tumbaco,Cumbayá,casa,venta,206000.0,185.0,120.0,3,3,active,2026-11-12,remax_en_vivo,1113.51
+67775,VENDO AMPLIO DEPARTAMENTO 3 DORM.  QUITO TENIS,Quito Tenis,departamento,venta,179000.0,227.0,0.0,3,2,active,2026-11-12,remax_en_vivo,788.55
+67723,DEPARTAMENTO EN VENTA CON 1469 M2 TERRENO EL INCA,San Isidro Del Inca,departamento,venta,380000.0,360.0,1469.0,6,4,active,2026-11-12,remax_en_vivo,1055.56
+67711,EN VENTA DEPARTAMENTO 3D - POMASQUI,Pomasqui,departamento,venta,55900.0,97.81,0.0,3,2,active,2026-11-12,remax_en_vivo,571.52
+67709,Casa en Venta en Conjunto Privado Calderón,Collas,casa,venta,56000.0,104.0,100.0,3,1,active,2026-11-12,remax_en_vivo,538.46
+67706,"DEPARTAMENTO DE VENTA, SAN ISIDRO DEL INCA",El Eden,departamento,venta,120000.0,169.0,0.0,4,2,active,2026-11-12,remax_en_vivo,710.06
+67694,VENDO DEP 2 DORMITORIOS SECTOR CARCELEN P1 PATIO,Mastodontes,departamento,venta,69000.0,123.0,0.0,2,2,active,2026-11-12,remax_en_vivo,560.98
+67686,Casa en venta-LLano Chico,Llano Chico,casa,venta,83000.0,205.1,205.1,2,2,active,2026-11-12,remax_en_vivo,404.68
+67665,CASA EN VENTA SECTOR SAN GABRIEL,Alangasí,casa,venta,215000.0,536.61,536.61,4,3,active,2026-11-12,remax_en_vivo,400.66
+67663,DEPARTAMENTO EN VENTA SHYRIS LA CROLINA,Cumbres Del Valle,departamento,venta,199000.0,197.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1010.15
+67661,"Venta Casa Rentera-Ciudadela Ibarra, Sur de Quito",Chillogallo,casa,venta,165000.0,528.5,333.0,8,3,active,2026-11-12,remax_en_vivo,312.2
+67660,"CASA EN VENTA, CALDERON, SECTOR BELLAVISTA",Bellavista De Calderon,casa,venta,85000.0,181.56,159.0,3,2,active,2026-11-12,remax_en_vivo,468.16
+67609,CASA EN VENTA COCHAPAMBA - EL CONDADO,Cochapamba,casa,venta,57000.0,144.42,110.0,4,2,active,2026-11-12,remax_en_vivo,394.68
+67602,Suite a estrenar con terraza. Vía Intervalles,Tumbaco,departamento,venta,89000.0,85.66,0.0,1,1,active,2026-11-12,remax_en_vivo,1038.99
+67601,Dpto 2 dormitorios+terraza grande. Vía Intervalles,Tumbaco,departamento,venta,215000.0,249.74,0.0,2,2,active,2026-11-12,remax_en_vivo,860.9
+67600,Suite a estrenar con terraza. Vía Intervalles.,Tumbaco,departamento,venta,105000.0,97.71,0.0,1,1,active,2026-11-12,remax_en_vivo,1074.61
+67597,Dpto 2 dormitorios con terraza. Vía Intervalles.,Tumbaco,departamento,venta,196000.0,193.71,0.0,2,2,active,2026-11-12,remax_en_vivo,1011.82
+67589,DÚPLEX EN VENTA – EL BATÁN BAJO | QUITO,Iñaquito,departamento,venta,148000.0,156.0,0.0,3,2,active,2026-11-12,remax_en_vivo,948.72
+67569,"SE VENDE CASA, SECTOR CONDADO, CONJUNTO PRIVADO",El Condado,casa,venta,124500.0,266.94,0.0,4,3,active,2026-11-12,remax_en_vivo,466.4
+67552,CASA EN VENTA - SECTOR S.JUAN LOMA N 1,Calderón (Carapungo),casa,venta,113000.0,382.0,0.0,5,3,active,2026-11-12,remax_en_vivo,295.81
+67539,CASA EN VENTA 4D SECTOR CAMINOS DE EUCALIPTO,Camino Eucalipto,casa,venta,69000.0,387.62,176.97,4,2,active,2026-11-12,remax_en_vivo,178.01
+67537,Departamento en venta – Rumipamba,Rumipamba,departamento,venta,135000.0,229.0,0.0,3,2,active,2026-11-12,remax_en_vivo,589.52
+67534,casa de venta carcelen corazon de jesus,Carcelén,casa,venta,98000.0,205.2,200.0,3,2,active,2026-11-12,remax_en_vivo,477.58
+67528,Se vende casa rentera en Llano Grande,Sierra Hermosa,casa,venta,98000.0,223.9,0.0,5,4,active,2026-11-12,remax_en_vivo,437.7
+67525,CASA SAN ISIDRO DEL INCA,San Miguel De Amagasi,casa,venta,470000.0,1231.08,413.0,4,4,active,2026-11-12,remax_en_vivo,381.78
+67501,"DEPARTAMENTO EN VENTA, PONCEANO ALTO, 125 M2, 3HBS",Ponciano Alto,departamento,venta,85000.0,140.0,0.0,3,2,active,2026-11-12,remax_en_vivo,607.14
+67496,DEPARTAMENTO EN VENTA – CONJUNTO RECREO PLAZA,San Bartolo,departamento,venta,56000.0,74.0,0.0,2,1,active,2026-11-12,remax_en_vivo,756.76
+67491,DEPARTAMENTO EN PONCEANO CON VARIOS EXTRAS,Ponceano,departamento,venta,122000.0,104.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1173.08
+67488,SE VENDE CASA RENTERA 4 DEPARTAMENTOS Y MAS,La Ecuatoriana,casa,venta,129900.0,450.0,180.0,8,8,active,2026-11-12,remax_en_vivo,288.67
+67465,CASA RENTERA EN VENTA EN PUEBLO BLANCO QUITO,Calderón (Carapungo),casa,venta,100000.0,308.0,45.0,7,4,active,2026-11-12,remax_en_vivo,324.68
+66529,CASA EN VENTA,Conocoto,casa,venta,83000.0,206.12,100.0,3,2,active,2026-11-12,remax_en_vivo,402.68
+66514,CASA  EN VENTA INDEPENDIENTE  EN EL CALZADO,San Bartolo,casa,venta,80000.0,117.0,117.0,3,2,active,2026-11-12,remax_en_vivo,683.76
+66500,"DEPARTAMENTO EN VENTA – BELLAVISTA SUR, QUITO",Bellavista Sur,departamento,venta,29700.0,48.75,0.0,2,1,active,2026-11-12,remax_en_vivo,609.23
+66498,Departamento en venta en Iñaquito Alto,Inaquito Alto,departamento,venta,139900.0,140.4,0.0,3,2,active,2026-11-12,remax_en_vivo,996.44
+66478,Venta Casa . La Morita Tumbaco,Tumbaco,casa,venta,158000.0,166.0,229.0,3,2,active,2026-11-12,remax_en_vivo,951.81
+66477,Casa Residencial a una cuadra del Coral Calderón,Calderón (Carapungo),casa,venta,62000.0,143.1,0.0,3,2,active,2026-11-12,remax_en_vivo,433.26
+66471,VENTA CASA EXCLUSIVA URB CONDADO,El Condado,casa,venta,450000.0,646.0,473.0,3,3,active,2026-11-12,remax_en_vivo,696.59
+66454,VENTA/CASA/SECTOR CONOCOTO CONJUNTO LA PROVENZA 3,Conocoto,casa,venta,105000.0,208.0,0.0,3,2,active,2026-11-12,remax_en_vivo,504.81
+66446,Casa con proyección y desarrollo,La Salle Ii,casa,venta,145000.0,102.0,368.75,3,2,active,2026-11-12,remax_en_vivo,1421.57
+66443,Departamento de 3 habitaciones en Ponceano,San Eduardo,departamento,venta,80000.0,116.2,0.0,3,2,active,2026-11-12,remax_en_vivo,688.47
+66442,CASA EN CONJUNTO HABITACIONAL 3 PLANTAS,San Antonio,casa,venta,70000.0,141.95,141.95,3,2,active,2026-11-12,remax_en_vivo,493.13
+66440,Departamento El Dorado + Suite,Itchimbia,departamento,venta,92000.0,170.0,0.0,3,3,active,2026-11-12,remax_en_vivo,541.18
+66430,Casa en venta en la Ecuatoriana Nuevos Horizontes,Nuevo Horizonte Sur,casa,venta,69000.0,172.7,81.83,3,1,active,2026-11-12,remax_en_vivo,399.54
+66424,VENTA Casa grande e independiente y segura,Ponciano Alto,casa,venta,152000.0,190.0,0.0,3,2,active,2026-11-12,remax_en_vivo,800.0
+66420,SUITE EN VENTA QUITO TENNIS,Cotocollao,departamento,venta,128000.0,111.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1153.15
+66415,CASA EN LA MITAD DEL MUNDO,Los Shyris,casa,venta,85000.0,190.24,5110.0,3,2,active,2026-11-12,remax_en_vivo,446.8
+66388,CASA EN VENTA EN CONOCOTO 96M2,San Jose Salle,casa,venta,67000.0,165.0,150.0,3,2,active,2026-11-12,remax_en_vivo,406.06
+66385,"Penthouse Duplex en venta, sector El Bosque",El Bosque,departamento,venta,285000.0,470.58,0.0,3,4,active,2026-11-12,remax_en_vivo,605.64
+66383,DEPARTAMENTO EN VENTA SECTOR LA GASCA,Belisario Quevedo,departamento,venta,75000.0,109.25,0.0,3,2,active,2026-11-12,remax_en_vivo,686.5
+66369,DEPARTAMENTO EN VENTA COTOCOLLAO PLANTA BAJA,Cotocollao,departamento,venta,59900.0,113.0,0.0,3,2,active,2026-11-12,remax_en_vivo,530.09
+66367,Vendo Duplex 3Dor Vista Grande,Cumbayá,departamento,venta,237500.0,275.55,0.0,3,3,active,2026-11-12,remax_en_vivo,861.91
+66356,DEPARTAMENTE EN VENTA,Itchimbia,departamento,venta,81500.0,96.26,0.0,3,2,active,2026-11-12,remax_en_vivo,846.67
+66342,Venta Casa + suite en Miravalle,Nayón,casa,venta,545000.0,629.97,655.0,5,6,active,2026-11-12,remax_en_vivo,865.12
+66324,"DEPARTMENTO EN VENTA SECTOR SOLCA, 3 DORMITORIOS",San Isidro Del Inca,departamento,venta,77000.0,103.0,0.0,3,2,active,2026-11-12,remax_en_vivo,747.57
+66318,Venta departamento sector Quito Tennis,Rumipamba,departamento,venta,275000.0,328.3,0.0,4,4,active,2026-11-12,remax_en_vivo,837.65
+66312,SUITE EN VENTA – SECTOR LA PAZ,Benalcazar,departamento,venta,138000.0,194.0,0.0,2,2,active,2026-11-12,remax_en_vivo,711.34
+66309,SUITE EN VENTA URBANIZACION IÑAQUITO ALTO,Inaquito Alto,departamento,venta,80000.0,65.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1230.77
+66297,SE VENDE CASA AMPLIA - EL NACIONAL - TUMBACO,Tolagasi,casa,venta,196000.0,282.0,288.0,3,3,active,2026-11-12,remax_en_vivo,695.04
+66296,VENTA CASAS VIP - CONOCOTO EN CONJUNTO,Conocoto,casa,venta,71500.0,115.7,90.0,3,2,active,2026-11-12,remax_en_vivo,617.98
+66295,SE VENDE CASA 4 HABITACIONES SAN MIGUEL DE AMAGASI,San Miguel De Amagasi,casa,venta,75000.0,146.0,80.0,4,4,active,2026-11-12,remax_en_vivo,513.7
+66283,CASA DE 3 HABITACIONES EN VENTA- SAN ANTONIO,San Antonio,casa,venta,55000.0,119.0,119.0,3,1,active,2026-11-12,remax_en_vivo,462.18
+66281,"VENDO CASA RENTERA, SECTOR C.C. ATAHUALPA",San Bartolo,casa,venta,119500.0,350.0,180.0,9,5,active,2026-11-12,remax_en_vivo,341.43
+66278,DPTO 2 DORM EN VENTA – MONTESERRÍN BAJO,Jipijapa,departamento,venta,78000.0,74.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1054.05
+65747,Se vende acogedor departamento en Av Eloy Alfaro,Iñaquito,departamento,venta,113000.0,141.0,0.0,3,2,active,2026-11-12,remax_en_vivo,801.42
+65745,VENTA DEPARTAMENTO QUITO TENIS,Quito Tenis,departamento,venta,209000.0,187.33,0.0,2,2,active,2026-11-12,remax_en_vivo,1115.68
+65726,"Departamento en Venta, Sector Carcelén Libre",Carcelen Libre,departamento,venta,95000.0,154.13,0.0,3,2,active,2026-11-12,remax_en_vivo,616.36
+65719,"CASA EN VENTA SECTOR URABÁ, 3 DORMITORIOS Y SUITE",Carcelén,casa,venta,349000.0,530.0,864.0,3,3,active,2026-11-12,remax_en_vivo,658.49
+65717,CASA POR ESTRENAR - ULTIMAS UNIDADES,Llano Chico,casa,venta,80000.0,153.0,153.0,3,2,active,2026-11-12,remax_en_vivo,522.88
+65716,DEPARTAMENTO EN VENTA – FERROVIARIA BAJA,Ferroviaria Baja,departamento,venta,77900.0,93.93,0.0,3,2,active,2026-11-12,remax_en_vivo,829.34
+65700,VENTA DEPARTAMENTO SECTOR LOS LAURELES,Los Laureles,departamento,venta,120000.0,179.33,0.0,2,2,active,2026-11-12,remax_en_vivo,669.16
+65689,Depar 3hab. en PB dentro de Urb. en Bellavista,Bellavista,departamento,venta,135000.0,145.0,0.0,3,2,active,2026-11-12,remax_en_vivo,931.03
+65686,Vendo Departamento 118 M2 Granda Centeno 3 Dormit,Chaupicruz (La Concepcion),departamento,venta,164000.0,120.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1366.67
+65682,"CASA IND. SECTOR EL INCA, 379M2 CONS 2 PISOS BBQ",Dammer 1,casa,venta,229000.0,430.0,445.0,5,3,active,2026-11-12,remax_en_vivo,532.56
+65675,DEPARTAMENTO EN VENTA SAN ISIDRO DEL INCA,San Isidro Del Inca,departamento,venta,115000.0,93.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1236.56
+65657,Vendo casa dentro de conjunto Oportunidad Condado,El Condado,casa,venta,120000.0,273.55,150.0,4,4,active,2026-11-12,remax_en_vivo,438.68
+65652,CASA EN VENTA-SANTA ANA-TUMBACO,Tumbaco,casa,venta,214000.0,286.0,0.0,3,3,active,2026-11-12,remax_en_vivo,748.25
+65647,CASA ESQUINERA DE UNA SOLA PLANTA SECTOR POMASQUI,Pomasqui,casa,venta,139000.0,200.0,300.0,3,1,active,2026-11-12,remax_en_vivo,695.0
+65582,"MAGNIFICA CASA CON GRAN TERRENO DE 3,771.68 m2",San Miguel De Amagasi,casa,venta,650000.0,615.0,3771682.0,4,5,active,2026-11-12,remax_en_vivo,1056.91
+65575,Departamento 3 Habitaciones Carolina,La Carolina,departamento,venta,179500.0,181.0,0.0,3,2,active,2026-11-12,remax_en_vivo,991.71
+65567,"Casa nueva con terraza, domótica y ascensor",Llano Chico,casa,venta,124000.0,207.0,100.0,3,2,active,2026-11-12,remax_en_vivo,599.03
+65566,"Casa nueva VIP con terraza, domótica y ascensor",Llano Chico,casa,venta,104000.0,207.0,100.0,3,2,active,2026-11-12,remax_en_vivo,502.42
+65564,CASA EN VENTA A ESTRENAR  TUMBACO Conj. Privado,Tola Grande,casa,venta,218000.0,328.0,181.0,3,3,active,2026-11-12,remax_en_vivo,664.63
+65562,Departamento 3 Dorm. Sector La Kennedy,Kennedy,departamento,venta,55000.0,67.19,0.0,3,2,active,2026-11-12,remax_en_vivo,818.57
+65554,CASA CON TERRENO EN VENTA EN BELLAVISTA,Bellavista,casa,venta,580000.0,465.0,825.27,5,5,active,2026-11-12,remax_en_vivo,1247.31
+65541,"Casa en venta Cumbayá, 3 dormitorios, exclusividad",Cumbayá,casa,venta,322000.0,286.0,0.0,3,3,active,2026-11-12,remax_en_vivo,1125.87
+65540,"CASA EN VENTA TUMBACO, TRES Y CUATRO DORMITORIOS",Tumbaco,casa,venta,155000.0,248.0,0.0,3,3,active,2026-11-12,remax_en_vivo,625.0
+65537,VENTA DEPARTAMENTO EDIFICIO MULIER PLAZA,La Floresta,departamento,venta,99000.0,102.0,0.0,2,1,active,2026-11-12,remax_en_vivo,970.59
+65528,DEPARTAMENTO DE VENTA,Iñaquito,departamento,venta,240000.0,180.0,0.0,3,3,active,2026-11-12,remax_en_vivo,1333.33
+65516,Casa independiente Cotocollao 4 habitaciones,Cotocollao,casa,venta,89500.0,206.0,122.0,4,2,active,2026-11-12,remax_en_vivo,434.47
+65515,PONCEANO EN CONJUNTO CASA DE 5 DORMITORIOS,Ponceano,casa,venta,220000.0,292.0,130.0,5,4,active,2026-11-12,remax_en_vivo,753.42
+65504,"DEPARTAMENTO EN VENTA COMODIDAD, ESTRILO Y CONFORT",Cochapamba,departamento,venta,93000.0,100.8,0.0,3,2,active,2026-11-12,remax_en_vivo,922.62
+65492,"HERMOSA CASA DE VENTA URBANIZACION LA MARCA,",La Marca,casa,venta,150000.0,470.69,470.69,3,2,active,2026-11-12,remax_en_vivo,318.68
+65491,VENTA DEPARTAMENTO,El Eden,departamento,venta,119000.0,168.06,0.0,4,2,active,2026-11-12,remax_en_vivo,708.08
+65489,Departamento 199 m² con Terraza | La Floresta,La Floresta,departamento,venta,139000.0,199.0,0.0,1,1,active,2026-11-12,remax_en_vivo,698.49
+65488,Penthouse Remodelado Doble Altura | La Floresta,La Floresta,departamento,venta,260000.0,239.0,0.0,3,3,active,2026-11-12,remax_en_vivo,1087.87
+65487,VENTA DE CASA EN CONJUNTO VITAH POMASQUI,San Antonio,casa,venta,83000.0,91.0,150.0,3,2,active,2026-11-12,remax_en_vivo,912.09
+65486,CASA RENTERA O PARA NEGOCIO SECTOR BANDA MUNICIPAL,La Mena,casa,venta,85000.0,327.0,270.0,5,4,active,2026-11-12,remax_en_vivo,259.94
+65485,Venta departamento con línea blanca - Quito Tennis,Rumipamba,departamento,venta,240000.0,348.0,0.0,4,3,active,2026-11-12,remax_en_vivo,689.66
+65464,"OPORTUNIDAD, Venta departamento 290 m2 El Bosque,",Quito Tenis,departamento,venta,210000.0,339.59,0.0,3,4,active,2026-11-12,remax_en_vivo,618.39
+65444,DEPARTAMENTO EN VENTA | LA CAROLINA,Iñaquito,departamento,venta,135000.0,135.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1000.0
+65443,VENTA DEPARTEMENTO SECTOR PINAR BAJOM,Cochapamba,casa,venta,179000.0,182.0,502.0,3,3,active,2026-11-12,remax_en_vivo,983.52
+65439,Departamento en venta – Conjunto Loyola,Ponceano,departamento,venta,45000.0,64.3,0.0,3,1,active,2026-11-12,remax_en_vivo,699.84
+65430,Venta Departamento Duplex Conjunto las Bromelias,Jipijapa,departamento,venta,225000.0,390.45,0.0,4,3,active,2026-11-12,remax_en_vivo,576.26
+65423,Departamento,San Jose De Moran,departamento,venta,74000.0,73.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1013.7
+65422,Departament 2 dormitorios,Calderón (Carapungo),departamento,venta,73000.0,73.32,0.0,2,2,active,2026-11-12,remax_en_vivo,995.64
+65421,Departamento 3 dormitorios,Calderón (Carapungo),departamento,venta,85151.0,88.37,0.0,3,2,active,2026-11-12,remax_en_vivo,963.57
+65420,Dep de 2 dormitorios Calderón,Calderón (Carapungo),departamento,venta,72000.0,73.32,0.0,2,2,active,2026-11-12,remax_en_vivo,982.0
+65419,Departamento 3 dormitorios,Calderón (Carapungo),departamento,venta,84651.0,88.37,0.0,3,2,active,2026-11-12,remax_en_vivo,957.92
+65418,"Casa de 158 m²  3 dormitorios en Venta, Tumbaco",Santa Rosa,casa,venta,195000.0,287.0,0.0,3,3,active,2026-11-12,remax_en_vivo,679.44
+65417,"Casa de 158 m²  3 dormitorios en Venta, Tumbaco",Santa Rosa,casa,venta,204000.0,348.0,0.0,3,3,active,2026-11-12,remax_en_vivo,586.21
+65416,"Casa de 161 m²  3 dormitorios en Venta, Tumbaco",Santa Rosa,casa,venta,219000.0,397.0,0.0,3,3,active,2026-11-12,remax_en_vivo,551.64
+65415,"Casa de 174 m²  3 dormitorios en Venta, Tumbaco",Santa Rosa,casa,venta,204000.0,260.0,0.0,3,3,active,2026-11-12,remax_en_vivo,784.62
+65414,"Casa de 174 m²  3 dormitorios en Venta, Tumbaco",Santa Rosa,casa,venta,195000.0,231.0,0.0,3,3,active,2026-11-12,remax_en_vivo,844.16
+65413,"Casa de 174 m²  3 dormitorios en Venta, Tumbaco",Santa Rosa,casa,venta,199000.0,243.0,0.0,3,3,active,2026-11-12,remax_en_vivo,818.93
+65412,"Casa de 174 m²  3 dormitorios en Venta, Tumbaco",Santa Rosa,casa,venta,199000.0,247.0,0.0,3,3,active,2026-11-12,remax_en_vivo,805.67
+65409,VENDO HERMOSO DEPARTAMENTO COLINAS DEL BATAN,Bellavista,departamento,venta,279000.0,415.0,0.0,3,3,active,2026-11-12,remax_en_vivo,672.29
+65402,Casa en Venta Patio Privado Conjunto Kairos III,Collas,casa,venta,46900.0,112.0,112.0,2,1,active,2026-11-12,remax_en_vivo,418.75
+65401,DEPARTAMENTO EN VENTA  SECTOR LA GASCA,La Gasca,departamento,venta,135000.0,283.0,0.0,3,2,active,2026-11-12,remax_en_vivo,477.03
+65387,VENTA DEPARTAMENTO 112M2 CON BALCON-PONCEANO ALTO,Ponciano Alto,departamento,venta,119000.0,128.05,0.0,2,2,active,2026-11-12,remax_en_vivo,929.32
+65386,"CASA RENTERA EN VENTA, PARQUE CENTRAL PINTAG",Píntag,casa,venta,120000.0,160.0,84.0,2,1,active,2026-11-12,remax_en_vivo,750.0
+65379,DEPARTAMENTO 2 DORM BALCON / PISCINA ÑAQUITO ALTO,Iñaquito,departamento,venta,117500.0,110.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1068.18
+65362,Casa en Venta por estrenar San José de Morán,San Jose De Moran,casa,venta,70000.0,163.7,163.7,3,3,active,2026-11-12,remax_en_vivo,427.61
+65358,Departamento de 216 m² con 3 dormitos en Tumbaco,Tumbaco,departamento,venta,350000.0,315.0,0.0,3,3,active,2026-11-12,remax_en_vivo,1111.11
+65352,Vendo Casa en conjunto Las Peñas Conocoto,Conocoto,casa,venta,84000.0,181.6,0.0,3,2,active,2026-11-12,remax_en_vivo,462.56
+65351,Casa en venta conjunto England Garden C.C. Portal,Calderón (Carapungo),casa,venta,94900.0,222.84,100.0,4,3,active,2026-11-12,remax_en_vivo,425.87
+65348,VENTA CASA ESTÍLO RÚSTICO URB CONDADO,Urb. El Condado,casa,venta,230000.0,649.0,570.0,3,4,active,2026-11-12,remax_en_vivo,354.39
+65332,"VENDO DEPARTAMENTO REMODELADO, SECTOR EL BOSQUE.",Quito Tenis,departamento,venta,230000.0,334.0,0.0,3,4,active,2026-11-12,remax_en_vivo,688.62
+65330,CASA RENTERA EN SAN JUAN,El Tejar,casa,venta,195000.0,274.72,128.98,3,3,active,2026-11-12,remax_en_vivo,709.81
+65329,PENTHOUSE LA FLORESTA | 455 m² + 400 m² TERRAZAS,La Floresta,penthouse,venta,390000.0,455.0,0.0,3,4,active,2026-11-12,remax_en_vivo,857.14
+65306,Departamento en Venta-Sector Atahualpa,La Magdalena,departamento,venta,110000.0,147.38,0.0,3,2,active,2026-11-12,remax_en_vivo,746.37
+65304,Departamento en Venta-Sector Atahualpa.,La Magdalena,departamento,venta,88000.0,121.68,0.0,3,2,active,2026-11-12,remax_en_vivo,723.21
+65296,DEPARTAMENTO EMBAJADA AMERICANA DE 130 MTS,San Isidro 1,departamento,venta,119000.0,150.0,0.0,3,3,active,2026-11-12,remax_en_vivo,793.33
+65294,"VENDO CASA RENTERA, 3 DEP, 1 SUITE, LA ECUATORIANA",2 De Febrero,casa,venta,134900.0,379.0,180.0,7,4,active,2026-11-12,remax_en_vivo,355.94
+65292,DEPARTAMENTO EN VENTA – Conjunto Caminos del Norte,Carcelén,departamento,venta,89000.0,196.0,0.0,3,2,active,2026-11-12,remax_en_vivo,454.08
+65288,CASA RENTERA CON DEPARTAMENTO DÚPLEX,Cotocollao,casa,venta,150000.0,542.0,540.0,6,5,active,2026-11-12,remax_en_vivo,276.75
+65271,Amplio Departamento con Terraza en El Condado,El Condado,departamento,venta,60000.0,178.37,0.0,3,2,active,2026-11-12,remax_en_vivo,336.38
+65265,CASA ADOSADA URBANIZACIÓN EL CONDADO,Urb. El Condado,casa,venta,156000.0,204.0,0.0,3,2,active,2026-11-12,remax_en_vivo,764.71
+65262,DEPARTAMENTO EN VENTA EN PONCEANO – QUITO,Marsol,departamento,venta,75000.0,88.0,0.0,2,1,active,2026-11-12,remax_en_vivo,852.27
+65237,VENTA CASA /CALDERON / 3 dormitorios,Sierra Hermosa,casa,venta,85000.0,181.53,0.0,3,2,active,2026-11-12,remax_en_vivo,468.24
+65235,Vendo Departamento Duplex sector Quitumbe,Intillacta,departamento,venta,47000.0,95.12,0.0,3,1,active,2026-11-12,remax_en_vivo,494.11
+65227,DEPARTAMENTO DE VENTA CONOCOTO SANTA MONICA ALTA,Conocoto,departamento,venta,63000.0,90.34,0.0,3,2,active,2026-11-12,remax_en_vivo,697.37
+65205,VENTA DEPARTAMENTO 2D  MIRAVALLE CUMBAYA,Cumbayá,departamento,venta,197000.0,165.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1193.94
+65204,CASA EN VENTA EN CALDERON,Esperanza Progreso,casa,venta,58500.0,91.37,70.0,2,1,active,2026-11-12,remax_en_vivo,640.25
+65200,Venta de departamento en Ciudad Jardin,Guamaní,departamento,venta,33000.0,87.73,0.0,3,1,active,2026-11-12,remax_en_vivo,376.15
+65199,Venta de Departamento en el Sector Quito Tenis,Quito Tenis,departamento,venta,198000.0,248.0,0.0,4,3,active,2026-11-12,remax_en_vivo,798.39
+65194,"VENDO DEPARTAMENTO, LA CONCEPCIÓN, PARQUE INGLÉS.",San Pedro Claver I,departamento,venta,87000.0,122.0,0.0,2,2,active,2026-11-12,remax_en_vivo,713.11
+65191,"Casa en venta - Landázuri, Calderón",Landazuri,casa,venta,67000.0,128.0,65.0,3,2,active,2026-11-12,remax_en_vivo,523.44
+65181,CASA DE VENTA ARMENIA 2,Conocoto,casa,venta,110000.0,279.0,135.0,4,2,active,2026-11-12,remax_en_vivo,394.27
+65176,CASA DE VENTA NAYÓN  URB. TACURI con amplio Jardín,Valle De Nayon,casa,venta,314000.0,894.02,0.0,3,3,active,2026-11-12,remax_en_vivo,351.22
+65174,CASA INDEPENDENTE  EN VENTA EN EL CENTRO DE CONOTO,Conocoto,casa,venta,125000.0,510.0,510.0,6,2,active,2026-11-12,remax_en_vivo,245.1
+65169,Casa en venta en Ponciano,Contraloria,casa,venta,129900.0,202.1,0.0,4,2,active,2026-11-12,remax_en_vivo,642.75
+65148,DEPARTAMENTO EN VENTA EN LA GRANADOS (UDLA),Iñaquito,departamento,venta,55000.0,56.0,0.0,2,1,active,2026-11-12,remax_en_vivo,982.14
+65121,CASA EN VENTA – LA SANTIAGO ALTO | SUR DE QUITO,Chilibulo,casa,venta,125000.0,457.67,173.83,7,4,active,2026-11-12,remax_en_vivo,273.12
+65120,DEPARTAMENTO VENTA COTOCOLLAO,Thomas,departamento,venta,55000.0,137.8,0.0,3,1,active,2026-11-12,remax_en_vivo,399.13
+65115,DPTO. DÚPLEX | VIVIENDA U OFICINA CORPORATIVA,Rumipamba,departamento,venta,140000.0,252.39,0.0,4,2,active,2026-11-12,remax_en_vivo,554.7
+65108,Exclusiva Casa Independiente con Amplio Jardin,Santa Rosa Bajo,casa,venta,200000.0,385.0,51813.0,3,3,active,2026-11-12,remax_en_vivo,519.48
+65105,Casa en Venta Llano Grande,Calderón (Carapungo),casa,venta,50000.0,89.17,53.05,3,1,active,2026-11-12,remax_en_vivo,560.73
+65064,CASA EN VENTA CONOCOTO  SECTOR  CIUDAD BOSQUE,Ciudad Bosque,casa,venta,115000.0,239.0,200.0,4,3,active,2026-11-12,remax_en_vivo,481.17
+65054,"VENTA DE CASA CONJ, CALIFORNIA ALTA KENNEDY",La Concepcion,casa,venta,110000.0,145.75,0.0,3,2,active,2026-11-12,remax_en_vivo,754.72
+65052,PROPIEDAD COMERCIAL EN VENTA – SAN GABRIEL,Alangasí,casa,venta,399000.0,815.0,830.0,6,6,active,2026-11-12,remax_en_vivo,489.57
+65046,"Casa en venta, FairyLand, Dean Bajo 350 mt²",Dean Bajo,casa,venta,225000.0,350.0,433.0,4,3,active,2026-11-12,remax_en_vivo,642.86
+65040,CASA EN VENTA EN URBANANIZACION DE 2 HABITACIONES,Atahualpa,casa,venta,105000.0,153.57,205.74,2,2,active,2026-11-12,remax_en_vivo,683.73
+65015,"Casa de 158m²  3 dormitorios en Venta, Tumbaco",Santa Rosa,casa,venta,195000.0,281.0,0.0,3,3,active,2026-11-12,remax_en_vivo,693.95
+65014,"CASA EN VENTA GONZÁLEZ SUÁREZ, QUITO",Iñaquito,casa,venta,244000.0,300.0,100.0,4,5,active,2026-11-12,remax_en_vivo,813.33
+65006,Casa en Venta en Urb. sector Nayón - Vía Cumbayá,Tacuri Alto,casa,venta,615000.0,727.18,626.18,5,5,active,2026-11-12,remax_en_vivo,845.73
+64967,VENTA CASA 4 DORMITORIOS LA ARMENIA CONOCOTO,Conocoto,casa,venta,165000.0,530.0,755.0,4,2,active,2026-11-12,remax_en_vivo,311.32
+64957,"CASA DE VENTA, CUENTA CON PATIO Y TERRAZA",La Macarena Iii,casa,venta,99000.0,149.21,0.0,3,2,active,2026-11-12,remax_en_vivo,663.49
+64954,VENTA CASA SECTOR PUSUQUI URB SAN GREG1,Pusuqui Chico,casa,venta,155000.0,331.75,308.08,4,3,active,2026-11-12,remax_en_vivo,467.22
+64950,"Casa de 161 m²  3 dormitorios en Venta, Tumbaco",Santa Rosa,casa,venta,199000.0,291.0,0.0,3,3,active,2026-11-12,remax_en_vivo,683.85
+64946,VENTA PROPIEDAD DE LUJO URB. ALTOS DEL VALLE,Cumbayá,casa,venta,950000.0,1010.0,1870.0,4,5,active,2026-11-12,remax_en_vivo,940.59
+64938,SE VENDE CASA EN LIRIBAMBA,El Calzado 1 De Mayo,casa,venta,59000.0,83.01,66.0,2,2,active,2026-11-12,remax_en_vivo,710.76
+64933,DEPARTAMENTO 3 DORMITORIOS  BELLAVISTA BOSSANO,Bellavista,departamento,venta,130000.0,141.0,0.0,3,2,active,2026-11-12,remax_en_vivo,921.99
+64932,SE VENDE CASA EN SAN ANTONIO DE PICHINCHA,San Antonio,casa,venta,79000.0,184.0,185.0,3,2,active,2026-11-12,remax_en_vivo,429.35
+64917,departamento en venta Solca,El Eden,departamento,venta,79500.0,187.0,0.0,3,2,active,2026-11-12,remax_en_vivo,425.13
+64898,Departamento remodelado en Venta la VillaFlora,Villaflora,departamento,venta,64500.0,104.0,0.0,3,1,active,2026-11-12,remax_en_vivo,620.19
+64877,Casa con piscina en urbanización cerca a San Luis,Alangasí,casa,venta,485000.0,990.8,1040.0,7,6,active,2026-11-12,remax_en_vivo,489.5
+64866,Se vende departamento 3 dormitorios Bellavista,Gonzalez Suarez,departamento,venta,189000.0,286.5,0.0,3,2,active,2026-11-12,remax_en_vivo,659.69
+64861,VENTA SUITE DE LUJO 67 m^2 / LA FLORESTA,Guápulo,departamento,venta,93000.0,87.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1068.97
+64822,Vendo casa sector Los Chillos detrás C.C.San Luis,Alangasí,casa,venta,144000.0,330.0,220.0,3,2,active,2026-11-12,remax_en_vivo,436.36
+64804,Departamento Duplex en Venta,Cochapamba,departamento,venta,155000.0,173.37,0.0,4,4,active,2026-11-12,remax_en_vivo,894.04
+64801,Casa Rentera de Venta en El Tejar Quito,El Tejar,casa,venta,165000.0,820.11,208.0,8,6,active,2026-11-12,remax_en_vivo,201.19
+64798,Oportunidad departamento Norte de Quito,Bellavista Carretas,departamento,venta,85500.0,186.8,0.0,2,2,active,2026-11-12,remax_en_vivo,457.71
+64795,EN VENTA | CASA DE 4 PLANTAS,Iñaquito,casa,venta,500000.0,875.0,400.0,5,6,active,2026-11-12,remax_en_vivo,571.43
+64792,Hermosa casa  en venta  conjunto Kedra Dean Bajo,Dean Bajo,casa,venta,250000.0,383.11,0.0,3,4,active,2026-11-12,remax_en_vivo,652.55
+64781,Estrena en Cumbayá: 142m² y terraza propia de 66m²,Tumbaco,departamento,venta,215000.0,227.0,0.0,2,2,active,2026-11-12,remax_en_vivo,947.14
+64764,VENTA DEPARTAMENTO SECTOR SAN PEDRO CLAVER,Cotocollao,departamento,venta,41000.0,93.0,0.0,3,1,active,2026-11-12,remax_en_vivo,440.86
+64748,Exclusivo depto de 135 m² junto al C.C. El Bosque,Rumipamba,departamento,venta,135000.0,104.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1298.08
+64711,Casa con alto potencial residencial y comercial,Calderón (Carapungo),casa,venta,580000.0,446.63,1950.63,3,3,active,2026-11-12,remax_en_vivo,1298.61
+64698,DEPARTAMENTO EN VENTA – CENTRO HISTÓRICO DE QUITO,Itchimbia,departamento,venta,40000.0,89.0,0.0,3,1,active,2026-11-12,remax_en_vivo,449.44
+64696,"ARMENIA 2, CASA VENTA 5 DORMITORIOS 3 BAÑOS 2 PARQ",Armenia 2,casa,venta,159000.0,222.28,169.21,5,3,active,2026-11-12,remax_en_vivo,715.31
+64690,CASA EN VENTA 2 PISOS PISULI TWINZA,Pisuli,casa,venta,53999.0,208.55,201.2,3,2,active,2026-11-12,remax_en_vivo,258.93
+64689,SE VENDE HERMOSA CASA EN EL BATAN,Iñaquito,casa,venta,339000.0,325.92,504.0,3,3,active,2026-11-12,remax_en_vivo,1040.13
+64684,CASA CON PARQUEADERO PROPIO Y TERRAZA,Turubamba,casa,venta,50000.0,133.0,59.0,3,2,active,2026-11-12,remax_en_vivo,375.94
+64683,CASA REMODELADA A ESTRENAR CON PARQUEADERO PROPIO,Turubamba,casa,venta,40000.0,93.0,41.0,3,2,active,2026-11-12,remax_en_vivo,430.11
+64682,CASA EN VENTA CARCELEN,Carcelen,casa,venta,76000.0,181.51,23345.0,3,2,active,2026-11-12,remax_en_vivo,418.71
+64673,SUITE EN VENTA PONCEANO UN DORMITORIO Y ESTUDIO,Ponceano,departamento,venta,48900.0,82.0,0.0,2,1,active,2026-11-12,remax_en_vivo,596.34
+64667,CASA DE DOS PISOS EN VENTA CERCA DE QUITUMBE,Quitumbe,casa,venta,57000.0,98.53,98.54,3,1,active,2026-11-12,remax_en_vivo,578.5
+64666,SUITE EN VENTA – SECTOR LA PAZ,Benalcazar,departamento,venta,83500.0,81.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1030.86
+64663,Casa de Venta Sector 12 de Octubre,Mariscal Sucre,casa,venta,398500.0,348.0,351.0,4,4,active,2026-11-12,remax_en_vivo,1145.11
+64643,Se vende departamento 3 dormitorios en Carcelén,Carcelén,departamento,venta,75000.0,90.0,0.0,3,2,active,2026-11-12,remax_en_vivo,833.33
+64637,VENTA SUITE SECTOR PINAR BAJO,El Pinar Alto,departamento,venta,75000.0,92.0,0.0,1,1,active,2026-11-12,remax_en_vivo,815.22
+64627,CASA DE 3 DORMITORIOS+PATIO EN VENTA EN CARCELEN,Carcelén,casa,venta,61000.0,151.0,0.0,3,2,active,2026-11-12,remax_en_vivo,403.97
+64626,"CASA EN VENTA CUMBAYA, URBANIZACION VALLE 2 Y 3",Cumbayá,casa,venta,281900.0,340.71,512.1,4,3,active,2026-11-12,remax_en_vivo,827.39
+64625,DEPARTAMENTO EN VENTA SECTOR PINAR ALTO,El Pinar Alto,departamento,venta,75000.0,91.26,0.0,3,2,active,2026-11-12,remax_en_vivo,821.83
+64614,Se Vende Casa en Tumbaco Sector Hilacril,Tumbaco,casa,venta,295000.0,1933.0,1933.0,4,2,active,2026-11-12,remax_en_vivo,152.61
+64609,Venta departamento 3 d Jardines del Batan,Iñaquito,departamento,venta,165000.0,142.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1161.97
+64580,VENTA CASA 402 m² TANDA | 3 HAB CON BAÑO PRIVADO |,Nayón,casa,venta,240000.0,410.0,400.0,3,4,active,2026-11-12,remax_en_vivo,585.37
+64571,Casa Venta - Llano Grande,Calderón (Carapungo),casa,venta,68900.0,128.0,0.0,3,2,active,2026-11-12,remax_en_vivo,538.28
+64559,Casa en Venta | Conjunto Pomasqui Gardens,Pomasqui,departamento,venta,69000.0,121.0,0.0,3,2,active,2026-11-12,remax_en_vivo,570.25
+64536,Casa en venta Cumbayá.,La Praga,casa,venta,300000.0,470.0,510.0,6,6,active,2026-11-12,remax_en_vivo,638.3
+64518,SUITE DÚPLEX POR ESTRENAR EN ZONA CENTRICA QUITO,Iñaquito,departamento,venta,98000.0,158.88,0.0,1,2,active,2026-11-12,remax_en_vivo,616.82
+64470,"Edificio en Obra Gris con 915,60m² de Construcción",Pueblo Unido,casa,venta,110000.0,915.6,300.0,8,4,active,2026-11-12,remax_en_vivo,120.14
+64462,CASA DE VENTA .URB. SAN JOSE DEL VALLE . CONOCOTO,Conocoto,casa,venta,278000.0,526.0,1094.0,3,3,active,2026-11-12,remax_en_vivo,528.52
+64461,VENDO DEP 2 DOR. SECTOR ESTADIO OLIMPICO PISO 9,Batan Alto,departamento,venta,89900.0,101.0,0.0,2,2,active,2026-11-12,remax_en_vivo,890.1
+64446,Venta departamento cerca de la ESMIL,El Condado,departamento,venta,77900.0,216.6,0.0,3,3,active,2026-11-12,remax_en_vivo,359.65
+64418,"CASA RENTERA EN VENTA EN LA MENA 2, QUITO SUR",La Mena,casa,venta,145000.0,311.56,215.0,8,4,active,2026-11-12,remax_en_vivo,465.4
+64416,DEPARTAMENTO EN PLANTA BAJA EN VENTA - PONCEANO,Ponceano,departamento,venta,90000.0,142.0,0.0,3,2,active,2026-11-12,remax_en_vivo,633.8
+64415,VENDO DEPARTAMENTO DIEGO DE VASQUEZ,Carcelén,departamento,venta,56000.0,97.0,0.0,3,2,active,2026-11-12,remax_en_vivo,577.32
+64402,Venta casa Sector San Isidro del inca,San Isidro Del Inca,casa,venta,288000.0,420.0,515.0,3,3,active,2026-11-12,remax_en_vivo,685.71
+64401,CASA EN VENTA ENEL PINAR ALTO,Cochapamba,casa,venta,105000.0,189.1,0.0,3,3,active,2026-11-12,remax_en_vivo,555.26
+64400,"CASA EN VENTA SAN ISIDRO DEL INCA 2 HAB, PATIO",Buenos Aires,casa,venta,62000.0,111.11,67.95,2,2,active,2026-11-12,remax_en_vivo,558.01
+64396,Departamento en Venta en Urb. Jardines de Amagasí,Jardines De Amagasi,departamento,venta,115000.0,78.5,0.0,2,2,active,2026-11-12,remax_en_vivo,1464.97
+64394,VENTA DEPARTAMENTO SECTOR CARCLEN,Carcelén,departamento,venta,79000.0,132.0,0.0,3,2,active,2026-11-12,remax_en_vivo,598.48
+64382,DEPARTAMENTO EN VENTA,Nazareth,departamento,venta,68000.0,86.4,0.0,3,2,active,2026-11-12,remax_en_vivo,787.04
+64357,Departamento 3 habitaciones Torres Mañosca,Rumipamba,departamento,venta,89900.0,134.0,0.0,3,2,active,2026-11-12,remax_en_vivo,670.9
+64347,Casa espaciosa en el Condado,El Condado,casa,venta,175000.0,163.0,262.0,3,3,active,2026-11-12,remax_en_vivo,1073.62
+64345,VENDO DEPARTAMENTO EL BOSQUE,Cochapamba,departamento,venta,179000.0,385.0,0.0,4,3,active,2026-11-12,remax_en_vivo,464.94
+64328,DEPARTAMENTO EN VENTA,Inaquito Alto,departamento,venta,115000.0,153.0,0.0,2,2,active,2026-11-12,remax_en_vivo,751.63
+64324,VENTA CASA JARDINES DEL BOSQUE AV. OCCIDENTAL,Cochapamba Norte,casa,venta,73900.0,155.0,0.0,3,1,active,2026-11-12,remax_en_vivo,476.77
+64320,Casa de Venta  sector Chimbacalle - Sur de Quito,Chimbacalle,casa,venta,179900.0,582.0,370.0,3,3,active,2026-11-12,remax_en_vivo,309.11
+64283,"VENDO DEPARTAMENTO DUPLEX, LAS BROMELIAS",Monteserrin,casa,venta,195000.0,305.0,482.0,3,3,active,2026-11-12,remax_en_vivo,639.34
+64279,CASA INDEPENDIENTE EN VENTA CUMBAYA SAN JUAN BAJO,San Juan Bajo,casa,venta,180000.0,635.0,504.0,5,2,active,2026-11-12,remax_en_vivo,283.46
+64278,DEPARTAMENTO EN VENTA QUITO TENIS,Quito Tenis,departamento,venta,270000.0,566.97,0.0,4,4,active,2026-11-12,remax_en_vivo,476.22
+64276,"VENDO DEPARTAMENTO 3 DORMITORIOS, LAS BROMELIAS",Monteserrin,casa,venta,185000.0,445.0,482.0,3,3,active,2026-11-12,remax_en_vivo,415.73
+64216,CASA CON AMPLIO TERRENO,Conocoto,casa,venta,239900.0,1233.0,1130.0,5,4,active,2026-11-12,remax_en_vivo,194.57
+64192,DEPARTAMENTO DE VENTA CONOCOTO SANTA MONICA ALTA,Conocoto,departamento,venta,59000.0,84.7,0.0,3,2,active,2026-11-12,remax_en_vivo,696.58
+64141,"DEPARTAMENTO 3 DORMITORIO,  ESTUDIO Y PATIO",Granda Centeno,departamento,venta,180000.0,289.0,0.0,3,2,active,2026-11-12,remax_en_vivo,622.84
+63772,CASA RENTERA FERROVIARIA BAJA SECTOR CHAGUARQUINGO,La Ferroviaria,casa,venta,115000.0,524.0,336.0,10,7,active,2026-11-12,remax_en_vivo,219.47
+63770,CASA SECTOR PUENTE 4 VALLE DE LOS CHILLOS CONOCOTO,Conocoto,casa,venta,89000.0,134.52,134.52,3,2,active,2026-11-12,remax_en_vivo,661.61
+63754,Departamento en venta sector Ia Coruña,La Paz,departamento,venta,219000.0,164.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1335.37
+63743,"CASA EN VENTA CONJUNTO PALERMO, POMASQUI",Pomasqui,casa,venta,74900.0,138.0,70.0,3,2,active,2026-11-12,remax_en_vivo,542.75
+63725,DEPARTAMENTO EN VENTA  EN EL SUR DE QUITO,Turubamba,departamento,venta,31500.0,53.0,0.0,3,1,active,2026-11-12,remax_en_vivo,594.34
+63690,CASA EN VENTA TERMINAL QUITUMBE 3 DORMITORIOS,Quitumbe,casa,venta,55000.0,109.0,27528.0,3,2,active,2026-11-12,remax_en_vivo,504.59
+63662,CASA EN VENTA URBANIZACIÓN JARDINES DE CARCELÉN,Carcelén,casa,venta,155000.0,390.22,0.0,4,4,active,2026-11-12,remax_en_vivo,397.21
+63658,SE VENDE CASA EN CONJUNTO SECTOR QUITUMBE,Quitumbe,casa,venta,77000.0,128.0,40.0,3,2,active,2026-11-12,remax_en_vivo,601.56
+63633,CASA EN VENTA - SECTOR MIRAFLORES (280m²),San Juan,casa,venta,100000.0,282.8,209.0,3,2,active,2026-11-12,remax_en_vivo,353.61
+63631,VENTA CASA URB. HUERTOS DE NAYON -TANDA,Huerto De Nayón,casa,venta,490000.0,735.0,735.0,4,4,active,2026-11-12,remax_en_vivo,666.67
+63630,EXCLUSIVA RESIDENCIA EN EL PINAR ALTO,El Pinar Alto,casa,venta,135000.0,207.95,207.95,3,3,active,2026-11-12,remax_en_vivo,649.19
+63614,Departamento en venta con patio privado y BBQ,Granda Centeno,departamento,venta,155000.0,175.0,0.0,3,2,active,2026-11-12,remax_en_vivo,885.71
+63609,VENTA DEPART 3 HABT. PISO 3 NO ASCENSOR ITCIMBIA,La Alameda,departamento,venta,43900.0,69.0,0.0,3,1,active,2026-11-12,remax_en_vivo,636.23
+63585,SE VENDE CASA EN CONJUNTO PORTAL DE PICHINCHA,Condominios Pichincha,casa,venta,87000.0,157.48,50.0,4,2,active,2026-11-12,remax_en_vivo,552.45
+63584,CASA RENTERA EN VENTA SECTOR CIUDADELA IBARRA,Chillogallo,casa,venta,95000.0,300.0,180.0,9,4,active,2026-11-12,remax_en_vivo,316.67
+63583,CASA EN VENTA CONOCOTO,Conocoto,casa,venta,115000.0,315.72,600.0,3,2,active,2026-11-12,remax_en_vivo,364.25
+63567,VENTA SUITE SECTOR LA CAROLINA,Benalcazar,departamento,venta,99500.0,68.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1463.24
+63566,SUITE DE VENTA - AV. GRANDA CENTENO,Iñaquito,departamento,venta,89000.0,79.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1126.58
+63545,VENTA AMPLIA CASA JARDINES DEL VALLE,Cumbayá,casa,venta,650000.0,554.77,1140.0,6,4,active,2026-11-12,remax_en_vivo,1171.66
+63542,"Casa  ubicación estratégica, altamente comercial",La Granja,casa,venta,390000.0,581.0,372.0,4,3,active,2026-11-12,remax_en_vivo,671.26
+63512,DEPARTAMENTO EN VENTA URBANIZACION URABA -CARCELEN,Carcelén,departamento,venta,128000.0,166.0,0.0,3,3,active,2026-11-12,remax_en_vivo,771.08
+63470,VENTA CASA RENTERA SECTOR LA LOMA CENTRO HISTORICO,La Loma,casa,venta,65000.0,300.0,172.0,5,5,active,2026-11-12,remax_en_vivo,216.67
+63469,VENTA CASA SECTOR MONTESERRIN,Zámbiza,casa,venta,140000.0,193.0,120.0,3,2,active,2026-11-12,remax_en_vivo,725.39
+63468,VENTA CASA DE LUJO SECTOR PINAR BAJO,El Pinar Bajo,casa,venta,435000.0,939.0,616.0,3,4,active,2026-11-12,remax_en_vivo,463.26
+63467,VENTA CASA SECTOR URB LA PAMPA 1,La Pampa,casa,venta,235000.0,567.0,420.0,3,3,active,2026-11-12,remax_en_vivo,414.46
+63465,VENTA CASA SECTOR SANGOLQUI,Amaguaña,casa,venta,95000.0,213.0,90.0,3,3,active,2026-11-12,remax_en_vivo,446.01
+63445,CASA EN VENTA CON PISCINA VALLE DE LOS CHILLOS,Alangasí,casa,venta,389000.0,736.0,1679.0,5,4,active,2026-11-12,remax_en_vivo,528.53
+63439,"Departamento en Venta, Pinar Alto",San Fernando,departamento,venta,90000.0,136.04,0.0,3,2,active,2026-11-12,remax_en_vivo,661.57
+63403,Casa Esquinera por Estrenar en Calderón,El Cajon,casa,venta,90000.0,116.0,100.9,3,2,active,2026-11-12,remax_en_vivo,775.86
+63389,VENTA DEPARTAMENTO KENNEDY 3 DORMITORIOS,Julio Matovelle,departamento,venta,89000.0,95.49,0.0,3,2,active,2026-11-12,remax_en_vivo,932.03
+63367,"CASA DE VENTA - SECTOR NAZARETH, PONCEANO",Nazareth,casa,venta,70000.0,102.0,0.0,3,1,active,2026-11-12,remax_en_vivo,686.27
+63363,DEPARTAMENTO EN VENTA EL EDEN,El Eden,departamento,venta,68500.0,104.3,0.0,3,2,active,2026-11-12,remax_en_vivo,656.76
+63362,"DEPARTAMENTO EN VENTA 2 DORMITORIOS ""EL EDEN""",El Eden,departamento,venta,118000.0,159.73,0.0,2,2,active,2026-11-12,remax_en_vivo,738.75
+63354,"Casa en venta – Conjunto KENDARI, Ponceano Alto",Nazareth,casa,venta,138000.0,237.04,0.0,3,2,active,2026-11-12,remax_en_vivo,582.18
+63302,VENDO CASA AMPLIA POMASQUI - ALCAZAR DE TOLEDO 1,Barrio Herlinda,casa,venta,99000.0,232.99,232.99,3,2,active,2026-11-12,remax_en_vivo,424.91
+63261,VENTA CASA 3 DORMITORIOS. San Juan de Cumbayá POR,Cumbayá,casa,venta,345000.0,395.0,0.0,3,3,active,2026-11-12,remax_en_vivo,873.42
+63260,VENTA CASA 3 DORMITORIOS. San Juan de Cumbayá,Cumbayá,casa,venta,324000.0,290.0,0.0,3,3,active,2026-11-12,remax_en_vivo,1117.24
+63256,SE VENDE DEPARTAMENTO 3 DORMITORIOS QUITO TENIS,Quito Tenis,departamento,venta,320000.0,432.0,0.0,3,3,active,2026-11-12,remax_en_vivo,740.74
+63250,CASA EN VENTA 3 DORMITORIOS  REMODELADA– CARAPUNGO,Carapungo,casa,venta,60000.0,96.0,59.0,3,1,active,2026-11-12,remax_en_vivo,625.0
+63249,CASA RENTERA EN VENTA SECTOR EL CAJON LLANO GRANDE,Landazuri,casa,venta,138000.0,133.0,704.0,3,2,active,2026-11-12,remax_en_vivo,1037.59
+63243,CASA RENTERA EN VENTA EN CHIMBACALLE,La Argelia,casa,venta,145000.0,280.0,280.0,8,6,active,2026-11-12,remax_en_vivo,517.86
+63233,VENTA DEPARTAMENTO 2 HABITACIONES TUMBACO,La Morita,departamento,venta,88328.0,81.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1090.47
+63223,VENTA CASA 277m² REMODELADA CONJUNTO VALLE-CHILLOS,Conocoto,casa,venta,99000.0,277.03,277.0,3,2,active,2026-11-12,remax_en_vivo,357.36
+63222,CASA POR ESTRENAR DE VENTA EN TUMBACO -LA CERÁMICA,Rumihuayco,casa,venta,257000.0,288.21,266.4,3,3,active,2026-11-12,remax_en_vivo,891.71
+63166,Casa de 3 Dorm. con Patio en Urbanización Privada,La Concepcion,casa,venta,105000.0,274.72,274.72,3,2,active,2026-11-12,remax_en_vivo,382.21
+63165,Casa de 3 habitaciones con terraza en urbanización,La Concepcion,casa,venta,95000.0,223.77,223.77,3,2,active,2026-11-12,remax_en_vivo,424.54
+63150,Vendo Casa de una planta - La Magdalena,Los Dos Puentes,casa,venta,95000.0,159.49,202.31,3,1,active,2026-11-12,remax_en_vivo,595.65
+63147,"SE VENDE CASA RENTERA CON ROI DE 7%, COTOCOLLAO",Quito Norte,casa,venta,142000.0,352.0,248.0,7,3,active,2026-11-12,remax_en_vivo,403.41
+63122,Casa en Venta en Sector Conocoto La Salle,San Jose Salle,casa,venta,84000.0,180.56,0.0,3,3,active,2026-11-12,remax_en_vivo,465.22
+63102,Casa de venta en San Carlos,San Carlos Vencen,casa,venta,110000.0,160.0,0.0,3,2,active,2026-11-12,remax_en_vivo,687.5
+63074,"CASA DE VENTA, CONJUNTO PASEOS DE LA ANDALUCIA",Cotocollao,casa,venta,80000.0,121.0,0.0,4,3,active,2026-11-12,remax_en_vivo,661.16
+63059,Departamento en Venta en Calderón,Barrio Central,departamento,venta,53000.0,89.0,0.0,3,1,active,2026-11-12,remax_en_vivo,595.51
+63044,SUITE EN VENTA EN CONOCOTO 71M2,Conocoto,departamento,venta,64900.0,88.0,0.0,1,1,active,2026-11-12,remax_en_vivo,737.5
+63038,CASA INDEPENDIENTE EN VENTA PUENTE 2 VALLE 466m2,Conocoto,casa,venta,190000.0,466.0,990.0,5,3,active,2026-11-12,remax_en_vivo,407.73
+63035,"VENDO CASA EN CONJUNTO, SECTOR LA SALLE",Conocoto,casa,venta,65000.0,132.0,40.0,3,3,active,2026-11-12,remax_en_vivo,492.42
+63033,"VENDO CASA EN CONJUNTO, SECTOR LA SALLE",Conocoto,casa,venta,64500.0,116.0,45.0,3,3,active,2026-11-12,remax_en_vivo,556.03
+63026,CASAS A ESTRENAR SECTOR MARIANITAS CALDERON,Calderón (Carapungo),casa,venta,94990.0,252.0,0.0,3,3,active,2026-11-12,remax_en_vivo,376.94
+63000,CASA POR ESTRENAR DE VENTA EN TUMBACO,Rumihuayco,casa,venta,230000.0,242.71,224.37,3,3,active,2026-11-12,remax_en_vivo,947.63
+62990,Casa en venta en Guayllabamba,Guayllabamba,casa,venta,124900.0,258.25,0.0,3,2,active,2026-11-12,remax_en_vivo,483.64
+62985,DEPARTAMENTO  EN VENTA SECTOR CONOCOTO,Conocoto,departamento,venta,73000.0,88.0,0.0,3,2,active,2026-11-12,remax_en_vivo,829.55
+62972,VENTA CASA RENTERA EN PUSUQUI,Calacalí,casa,venta,85000.0,272.34,200.0,6,6,active,2026-11-12,remax_en_vivo,312.11
+62967,"CASAS DE UNA PLANTA EN VENTA, DEAN BAJO, CONOCOTO",Conocoto,casa,venta,106000.0,148.51,147.5,3,3,active,2026-11-12,remax_en_vivo,713.76
+62943,DEPARTAMENTO EN VENTA,El Comin,departamento,venta,31000.0,52.0,0.0,2,1,active,2026-11-12,remax_en_vivo,596.15
+62942,CASA DE LUJO EN VENTA-SECTOR INTERCAMBIO CARCELEN,Camino Eucalipto,casa,venta,220000.0,609.0,520.0,4,5,active,2026-11-12,remax_en_vivo,361.25
+62933,RESIDENCIA LUXURY EN VENTA,S. Antonio Tolagasi,casa,venta,835000.0,629.0,1100.0,4,6,active,2026-11-12,remax_en_vivo,1327.5
+62931,VENDO HERMOSA CASA EN LA GRANDA CENTENO,Rumipamba,casa,venta,425000.0,596.49,522.0,4,3,active,2026-11-12,remax_en_vivo,712.5
+62930,"Tu departamento en $35,000 negociables",Turubamba,departamento,venta,32900.0,60.0,0.0,2,1,active,2026-11-12,remax_en_vivo,548.33
+62925,CASA EN VENTA/CONOCOTO/LA ARMENIA 2/CONJ TIVANTTA,S. Diego Conocoto,casa,venta,65000.0,112.0,0.0,3,2,active,2026-11-12,remax_en_vivo,580.36
+62921,DEPARTAMENTO ED. TERRANOVA,Iñaquito,departamento,venta,600000.0,1084.45,0.0,5,5,active,2026-11-12,remax_en_vivo,553.28
+62882,CASA VENTA CALDERÓN 55m2,Carapungo,casa,venta,25500.0,75.0,158.0,1,1,active,2026-11-12,remax_en_vivo,340.0
+62859,"MODERNA CASA 160M2, 3 DORMITORIOS,CONJUNTO TUMBACO",Tumbaco,casa,venta,169000.0,220.0,140.0,3,2,active,2026-11-12,remax_en_vivo,768.18
+62857,VENDO MAGNIFICO PENT HOUSE DUPLEX SECTOR EL BATÁN,Batan Alto,penthouse,venta,289000.0,575.0,0.0,5,4,active,2026-11-12,remax_en_vivo,502.61
+62823,VENTA DEPARTAMENTO SECTOR  LA CAROLINA,Iñaquito,departamento,venta,305000.0,322.0,0.0,3,4,active,2026-11-12,remax_en_vivo,947.2
+62820,CASA DE VENTA CONJUNTO MARBELLA SECTOR SANTA LUCIA,Kennedy,casa,venta,108000.0,187.61,0.0,3,2,active,2026-11-12,remax_en_vivo,575.66
+62808,DEPARTAMENTO EN VENTA REAL AUDIENCIA Y BELLAVISTA,Ponceano,departamento,venta,61000.0,92.45,0.0,3,2,active,2026-11-12,remax_en_vivo,659.82
+62802,CASA RENTERA ESTRATÉGICA EN VÍA PRINCIPAL: ZAVALA,Calderón (Carapungo),casa,venta,139000.0,312.0,227.0,8,5,active,2026-11-12,remax_en_vivo,445.51
+62790,"Suite de Venta, Sector Quito Tenis",Quito Tenis,departamento,venta,107000.0,101.02,0.0,1,1,active,2026-11-12,remax_en_vivo,1059.2
+62774,VENTA DEPARTAMENT0 340m² INCLUYE SUITE PARA RENTAR,Colegio Montufar,departamento,venta,73000.0,340.05,0.0,3,2,active,2026-11-12,remax_en_vivo,214.67
+62770,"CASA RENTERA EN LA ECUATORIANA, SAN FRANCISCO",San Francisco Sur,casa,venta,170000.0,611.0,555.0,8,8,active,2026-11-12,remax_en_vivo,278.23
+62766,VENTA DEPARTAMENTO 3 HAB TUMBACO LA MORITA,La Morita,departamento,venta,119500.0,122.0,0.0,3,3,active,2026-11-12,remax_en_vivo,979.51
+62764,"VENTA DEPARTAMENTO EN CONJUNTO PRIVADO, TUMBACO",El Carrizal,departamento,venta,74900.0,90.24,0.0,3,2,active,2026-11-12,remax_en_vivo,830.01
+62763,VENTA CASA AMPLIA EN PUSUQUI,Pusuqui 1,casa,venta,110000.0,238.0,147.0,5,2,active,2026-11-12,remax_en_vivo,462.18
+62753,CASA EN VENTA SECTOR CARRETAS CERCA AL C.C PORTAL,Comité Del Pueblo,casa,venta,190000.0,834.94,500.0,9,3,active,2026-11-12,remax_en_vivo,227.56
+62744,DEPARTAMENTO 3D+AMPLIA TERRAZA EN CONOCOTO,Conocoto,departamento,venta,65000.0,161.0,0.0,3,1,active,2026-11-12,remax_en_vivo,403.73
+62709,CASA EN VENTA EN MIRASIERRA,Alangasí,casa,venta,114900.0,244.0,150.0,4,2,active,2026-11-12,remax_en_vivo,470.9
+62691,Casa rentera en Venta | Duplex + 2 Mini Dptos.,Magdalena Alta,casa,venta,149000.0,406.0,222.19,7,5,active,2026-11-12,remax_en_vivo,367.0
+62683,"VENDO EDIFICIO COMERCIAL 4 PISOS, SECTOR ATUCUCHO",El Bosque,casa,venta,185000.0,636.0,456.0,17,12,active,2026-11-12,remax_en_vivo,290.88
+62670,CASA PARA REMODELAR EN VENTA KENNEDY DAMER II,Kennedy,casa,venta,175000.0,606.5,325.08,5,3,active,2026-11-12,remax_en_vivo,288.54
+62643,"Casa en venta, sector La Bretania",Turubamba,casa,venta,100000.0,341.0,91.0,8,5,active,2026-11-12,remax_en_vivo,293.26
+62640,CASA DE 2 DEPARTAMENTOS+SUITE+5PARQUEOS EN VENTA,El Condado,casa,venta,169000.0,486.92,0.0,7,4,active,2026-11-12,remax_en_vivo,347.08
+62635,Casa en venta 4 dormitorios. Urbanización La Pampa,Pomasqui,casa,venta,260000.0,396.0,557.0,4,4,active,2026-11-12,remax_en_vivo,656.57
+62615,"Casa de Venta Puerta del Valle, Sector Conocoto",Puerta Del Valle,casa,venta,110000.0,148.71,0.0,3,2,active,2026-11-12,remax_en_vivo,739.69
+62596,VENTA CASA SECTOR URB. CONDADO,El Condado,casa,venta,239500.0,292.0,405.0,4,4,active,2026-11-12,remax_en_vivo,820.21
+62595,"CASA DE VENTA, LA PRIMAVERA, CUMBAYA",La Primavera,casa,venta,399000.0,393.0,760.0,4,3,active,2026-11-12,remax_en_vivo,1015.27
+62584,DEPARTAMENTO O LOCAL EN OBRA BLANCA EN VENTA,Calderón (Carapungo),departamento,venta,59900.0,49.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1222.45
+62580,Casa en venta sector san isidro del inca,San Isidro Del Inca,casa,venta,93000.0,144.29,122.13,3,2,active,2026-11-12,remax_en_vivo,644.54
+62579,Casa Rentera en Venta – Sector Guamaní,Turubamba,casa,venta,106000.0,347.0,200.0,10,6,active,2026-11-12,remax_en_vivo,305.48
+62575,Departamento en Venta Poceano  Quito  107 m² PB,Ponceano,departamento,venta,54900.0,107.0,0.0,3,1,active,2026-11-12,remax_en_vivo,513.08
+62557,"Departamento de Venta, Sector La Mariscal",Mariscal Sucre,departamento,venta,83000.0,124.6,0.0,3,1,active,2026-11-12,remax_en_vivo,666.13
+62547,VENTA DUPLEX  2D A ESTRENAR SECTOR ISAAC ALVENIZ,Kennedy,departamento,venta,113000.0,107.0,0.0,2,1,active,2026-11-12,remax_en_vivo,1056.07
+62543,VENTA DEPARTAMENTO 3D EDIFICIO SUSTENTABLE,Chaupicruz (La Concepcion),departamento,venta,168500.0,136.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1238.97
+62542,Departamento en venta en Cotocollao,Los Tulipanes,departamento,venta,61000.0,119.0,0.0,3,2,active,2026-11-12,remax_en_vivo,512.61
+62541,VENTA CASA DE LUJO TUMBACO 3 HABITACIONES Y PISCIN,Tumbaco,casa,venta,338000.0,340.0,420.0,3,4,active,2026-11-12,remax_en_vivo,994.12
+62513,VENTA DUPLEX2D SECTOR PONCEANO ALTO,Marsol,departamento,venta,139900.0,205.0,0.0,2,2,active,2026-11-12,remax_en_vivo,682.44
+62505,VENTA DEPARTAMENTO EDIFICIO BOSQUE REAL,Union Nacional,departamento,venta,161000.0,197.0,0.0,3,3,active,2026-11-12,remax_en_vivo,817.26
+62495,VENDO SUITE NUEVA EN SANTA LUCIA,Sta. Lucia Alta,departamento,venta,55000.0,66.65,0.0,1,1,active,2026-11-12,remax_en_vivo,825.21
+62425,CASA EN VENTA SECTOR SAN CARLOS,San Carlos,casa,venta,170000.0,290.0,0.0,4,3,active,2026-11-12,remax_en_vivo,586.21
+62424,VENTA CASA 3D CONJUNTO PUEBLO BLANCO - LA ARMENIA,La Armenia 1,casa,venta,65000.0,92.39,50.0,3,2,active,2026-11-12,remax_en_vivo,703.54
+62423,DEPARTAMENTO SECTOR DIVINO NIÑO,Guamaní,departamento,venta,23000.0,84.0,0.0,2,1,active,2026-11-12,remax_en_vivo,273.81
+62422,"Venta Casa Rentera 4pisos, Comite del Pueblo",Comité Del Pueblo,casa,venta,115000.0,297.0,85.0,10,5,active,2026-11-12,remax_en_vivo,387.21
+62421,2 CASAS CON 5 DEP. EN VENTA - ORIENTE QUITEÑO,Hierba Buena 2,casa,venta,155000.0,457.0,311.17,13,7,active,2026-11-12,remax_en_vivo,339.17
+62386,DEPARTAMENTO DE 2 D Y TERRAZA EN GRANDA CENTENO,Rumipamba,departamento,venta,115000.0,96.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1197.92
+62314,DEPARTAMENTO 2 DORMITORIOS UNION NACIONAL BOSQUE,Union Nacional,departamento,venta,106000.0,127.0,0.0,2,2,active,2026-11-12,remax_en_vivo,834.65
+62312,Ponceano Alto venta departamento,Tumbaco,departamento,venta,95000.0,154.98,0.0,3,2,active,2026-11-12,remax_en_vivo,612.98
+62310,Departamento en Venta Sector Quito Tenis,Quito Tenis,departamento,venta,190000.0,276.0,0.0,3,3,active,2026-11-12,remax_en_vivo,688.41
+62299,Vendo Casa Remodelada Esquinera en Bellavista,Bellavista,casa,venta,279000.0,267.36,257.88,4,2,active,2026-11-12,remax_en_vivo,1043.54
+62296,"VENDO CASA RENTERA CON AMPLIO TERRENO, QUITO NORTE",Quito Norte,casa,venta,280000.0,495.0,495.0,6,3,active,2026-11-12,remax_en_vivo,565.66
+62292,TERRENO DE 456M2 Y CASA  EN EL SECTOR DE MARIANA,Rumipamba,casa,venta,209000.0,303.0,456.0,3,2,active,2026-11-12,remax_en_vivo,689.77
+62284,Departamento Venta  4to piso - El Morlan / El Inca,El Inca,departamento,venta,58000.0,102.0,0.0,3,2,active,2026-11-12,remax_en_vivo,568.63
+62226,DEPARTAMENTO EN VENTA-CARCELÉN,Carcelén,departamento,venta,49500.0,111.45,0.0,3,1,active,2026-11-12,remax_en_vivo,444.15
+62222,SE VENDE CASA A ESTRENAR URB LDU - POMASQUI,Liga Universitaria,casa,venta,156000.0,268.0,130.0,4,3,active,2026-11-12,remax_en_vivo,582.09
+62217,Amplio departamento en venta sector Jipijapa,Jipijapa,departamento,venta,124900.0,205.0,0.0,3,2,active,2026-11-12,remax_en_vivo,609.27
+62206,Suite en Venta Sector Granados,El Inca,departamento,venta,95000.0,94.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1010.64
+62203,VENTA DE AMPLIO DEPARTAMENTO EN EL SUR DE QUITO,Recreo Clemencia,departamento,venta,42000.0,95.05,0.0,3,2,active,2026-11-12,remax_en_vivo,441.87
+62171,CASA RENTERA EN VENTA – SECTOR LAS CUADRAS,Solanda,casa,venta,215000.0,367.0,250.0,10,5,active,2026-11-12,remax_en_vivo,585.83
+62164,EN VENTA DEPARTAMENTO 2D - EL CONDADO,Santa Isabel,departamento,venta,82767.0,117.18,0.0,2,1,active,2026-11-12,remax_en_vivo,706.32
+62125,CASA EN VENTA | LA VICENTINA – SECTOR EL OBELISCO,La Vicentina,casa,venta,119999.0,300.0,160.0,4,3,active,2026-11-12,remax_en_vivo,400.0
+62117,"CASA DE VENTA, SECTOR LA ARMENIA",Conocoto,casa,venta,125000.0,213.0,53.0,4,2,active,2026-11-12,remax_en_vivo,586.85
+62105,SUITE EN LA MORITA TUMBACO,La Morita,departamento,venta,71940.0,64.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1124.06
+62101,CASA EN VENTA,Cochapamba,casa,venta,125000.0,338.0,0.0,3,2,active,2026-11-12,remax_en_vivo,369.82
+62094,"TERRENO VENTA 1000 M2 EN GUAYLLABAMBA, CASA 150M2",Chaquibamba,casa,venta,97000.0,151.0,1000.0,4,3,active,2026-11-12,remax_en_vivo,642.38
+62027,VENTA DEPARTAMENTO EXCELENTE UBICACIÓN,Iñaquito,departamento,venta,79000.0,103.23,0.0,2,2,active,2026-11-12,remax_en_vivo,765.28
+62026,"VENTA CASA RENTERA 5 DEPARTAMENTOS, RANCHO BAJO",Rancho Bajo,casa,venta,185000.0,587.91,248.0,11,6,active,2026-11-12,remax_en_vivo,314.67
+61932,VENTA DEPARTAMENTO CAMPO ALEGRE,Jipijapa,casa,venta,320000.0,271.0,357.0,4,5,active,2026-11-12,remax_en_vivo,1180.81
+61929,DEPARTAMENTO EN VENTA | AV. AMAZONAS Y COLÓN,Mariscal Sucre,departamento,venta,129000.0,100.0,0.0,2,1,active,2026-11-12,remax_en_vivo,1290.0
+61894,CASA COMERCIAL EN VENTA SOLANDA CALLE J 210M2,Solanda,casa,venta,99000.0,210.0,92.0,3,2,active,2026-11-12,remax_en_vivo,471.43
+61888,VENTA CASA SECTOR MEXTERIOR LA CONCEPCION,Mexterior,casa,venta,295000.0,442.82,0.0,4,2,active,2026-11-12,remax_en_vivo,666.18
+61805,Departamento - Cjto. Residencial Plaza del Bosque,Union Nacional,departamento,venta,105000.0,83.08,0.0,2,2,active,2026-11-12,remax_en_vivo,1263.84
+61780,Casa de Venta por Estrenar en Llano Chico,Llano Chico,casa,venta,123500.0,205.92,0.0,3,2,active,2026-11-12,remax_en_vivo,599.75
+61761,CASA EN VENTA EN LA  KENNEDY  CONJUNTO BRASILIA II,Kennedy,casa,venta,90000.0,115.0,58.0,3,1,active,2026-11-12,remax_en_vivo,782.61
+61748,Vendo Suite con estudio - El Batán,Bellavista,departamento,venta,79500.0,95.35,0.0,2,1,active,2026-11-12,remax_en_vivo,833.77
+61747,Vendo casa sector La Merced,La Merced,casa,venta,165000.0,300.0,500.0,4,4,active,2026-11-12,remax_en_vivo,550.0
+61743,URB EUCALIPTO CUMBAYA SECTOR COLEGIO MENOR,Cumbayá,casa,venta,460000.0,348.0,688.0,3,3,active,2026-11-12,remax_en_vivo,1321.84
+61731,DEPARTAMENTO POR $31.990 / 2 Hab / Sector Puengasí,Puengasí,departamento,venta,31990.0,55.25,0.0,2,1,active,2026-11-12,remax_en_vivo,579.0
+61729,VENTA HERMOSO DEPARTAMENTO URBNIZACION EL CONDADO,El Condado,departamento,venta,229000.0,309.54,0.0,3,3,active,2026-11-12,remax_en_vivo,739.81
+61696,VENTA DEPT. 7B CONJUNTO AMADEUS PANAMERICANA NORTE,Cotocollao,departamento,venta,66781.09,82.15,0.0,2,2,active,2026-11-12,remax_en_vivo,812.92
+61695,VENTA DEPT. 3B CONJUNTO AMADEUS PARAMERICANA NORTE,Cotocollao,departamento,venta,72922.08,89.26,0.0,3,2,active,2026-11-12,remax_en_vivo,816.96
+61694,VENTA DEPT. 4B CONJUNTO AMADEUS PANAMERICANA NORTE,Cotocollao,departamento,venta,64043.19,79.59,0.0,2,2,active,2026-11-12,remax_en_vivo,804.66
+61693,VENTA DEPT. 3D CONJUNTO AMADEUS PANAMERICANA NORTE,Cotocollao,departamento,venta,72741.87,88.7,0.0,3,2,active,2026-11-12,remax_en_vivo,820.09
+61690,VENTA DEPT. 4D CONJUNTO AMADEUS PANAMERICANA NORTE,Cotocollao,departamento,venta,63734.44,78.63,0.0,2,2,active,2026-11-12,remax_en_vivo,810.56
+61688,VENTA DEPT. 5B CONJUNTO AMADEUS PANAMERICANA NORTE,Cotocollao,departamento,venta,69034.89,85.1,0.0,2,2,active,2026-11-12,remax_en_vivo,811.22
+61686,VENTA DEPT. 6B  COJUNTO AMADEUS PANAMERICANA NORTE,Cotocollao,departamento,venta,72079.68,88.6,0.0,3,2,active,2026-11-12,remax_en_vivo,813.54
+61685,VENTA DEPT. 7F CONJUNTO AMADEUS PANAMERICANA NORTE,Cotocollao,departamento,venta,66742.35,82.3,0.0,2,2,active,2026-11-12,remax_en_vivo,810.96
+61679,VENTA CASA EN LA MORITA TUMBACO,La Morita,casa,venta,135150.0,169.0,169.0,3,3,active,2026-11-12,remax_en_vivo,799.7
+61623,CASA EN VENTA EN TUMBACO 3 DORMI MÁS ESTUDIO,Tumbaco,casa,venta,127000.0,156.22,0.0,3,2,active,2026-11-12,remax_en_vivo,812.96
+61618,"Casa de Venta en Calderón, Sector Candelaria 1",Candelaria 1,casa,venta,99000.0,238.12,0.0,3,3,active,2026-11-12,remax_en_vivo,415.76
+61601,Departamento en venta Ponceano,Marsol,departamento,venta,96000.0,150.0,0.0,4,2,active,2026-11-12,remax_en_vivo,640.0
+61591,DEPARTAMENTO EN VENTA AUTOPISTA GENERAL RUMIÑAHUI,La Chorrera,departamento,venta,70000.0,174.0,0.0,3,2,active,2026-11-12,remax_en_vivo,402.3
+61579,CASA EN VENTA EN CONOCOTO BARRIO LA CANDELARIA II,Conocoto,casa,venta,420000.0,2511.0,2511.0,3,3,active,2026-11-12,remax_en_vivo,167.26
+61575,"DEPARTAMENTO+SUITE INDEPENDIENTE EN VENTA, PINAR",Cochapamba,departamento,venta,187500.0,352.27,0.0,5,5,active,2026-11-12,remax_en_vivo,532.26
+61546,Casa de Venta por Estrenar en Llano Chico,La Delicia,casa,venta,104000.0,181.28,0.0,3,2,active,2026-11-12,remax_en_vivo,573.7
+61545,Casa de Venta por Estrenar en Llano Chico,La Delicia,casa,venta,123800.0,206.95,0.0,3,2,active,2026-11-12,remax_en_vivo,598.21
+61543,Casa de Venta por Estrenar en Llano Chico,La Delicia,casa,venta,123500.0,205.92,0.0,3,2,active,2026-11-12,remax_en_vivo,599.75
+61538,Venta Departamento | Carcelén,Corazon De Jesus,departamento,venta,67000.0,98.4,0.0,3,2,active,2026-11-12,remax_en_vivo,680.89
+61531,"VENTA 2 CASAS, VISTA ESPECTACULAR EN SAN ANTONIO",La Marca,casa,venta,250000.0,388.63,516.0,8,4,active,2026-11-12,remax_en_vivo,643.29
+61523,CASA COMERCIAL EN VENTA TURUBAMBA SUR QUITO 590M2,El Comercio,casa,venta,139000.0,590.0,372.0,5,3,active,2026-11-12,remax_en_vivo,235.59
+61520,VENTA DEP 3 DOR CONJ VIVE CITY CLUB SAN ISIDRO INC,San Isidro Del Inca,departamento,venta,69900.0,84.78,0.0,3,2,active,2026-11-12,remax_en_vivo,824.49
+61470,Casa por Estrenar en Llano Chico,La Delicia,casa,venta,123500.0,210.25,0.0,3,2,active,2026-11-12,remax_en_vivo,587.4
+61460,Venta Departamento Conjunto Terrasol Av Occidental,Cochapamba,departamento,venta,83900.0,135.56,0.0,3,2,active,2026-11-12,remax_en_vivo,618.91
+61423,Vendo Dpto. Duplex 2 dormitorios -  La Kennedy,Rodriguez Aguirre,departamento,venta,52000.0,76.92,0.0,2,2,active,2026-11-12,remax_en_vivo,676.03
+61422,CASA EN VENTA A ESTRENAR  VALLE DE LOS CHILLOS,Miranda,casa,venta,85000.0,170.22,170.22,3,2,active,2026-11-12,remax_en_vivo,499.35
+61414,Casa de una Planta de venta  en Conocoto,Conocoto,casa,venta,60000.0,143.0,170.0,3,2,active,2026-11-12,remax_en_vivo,419.58
+61412,Vendo Dpto. 3 dormitorios - Sector La Kennedy,Rodriguez Aguirre,departamento,venta,55000.0,81.59,0.0,3,2,active,2026-11-12,remax_en_vivo,674.1
+61395,CASA EN VENTA 348m2 Urb. Balcón del Norte–Carcelén,Carcelén,casa,venta,182000.0,348.44,185.37,4,2,active,2026-11-12,remax_en_vivo,522.33
+61345,CASA RENTERA/FAMILIAR/COMERCIAL,Vista Hermosa,casa,venta,71900.0,197.35,0.0,6,3,active,2026-11-12,remax_en_vivo,364.33
+61330,SE VENDE CASA DUPLEX EN CIUDAD JARDIN PRECIO FIJO,Turubamba,casa,venta,45000.0,81.6,0.0,3,2,active,2026-11-12,remax_en_vivo,551.47
+61329,SUITE EN VENTA DE OPORTUNIDAD EN LA GASCA,Belisario Quevedo,departamento,venta,55000.0,67.0,0.0,1,1,active,2026-11-12,remax_en_vivo,820.9
+61293,DEPARTAMENTO 2D EDIFICIO MAGIC PONCEANO ALTO,Ponciano Alto,departamento,venta,119900.0,94.12,0.0,2,2,active,2026-11-12,remax_en_vivo,1273.91
+61265,Vendo departamento Sector Gaspar de Villarroel,Iñaquito,departamento,venta,115000.0,139.5,0.0,3,2,active,2026-11-12,remax_en_vivo,824.37
+61230,"CASA EN VENTA, 3D, SECTOR SAN GABRIEL, LOS CHILLOS",San Gabriel,casa,venta,98000.0,173.0,0.0,3,2,active,2026-11-12,remax_en_vivo,566.47
+61229,VENTA DEPARTAMENTO CUMBAYA 2 HABITACIONES TERRAZA,Cumbayá,departamento,venta,219000.0,182.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1203.3
+61214,Venta departamento Urb. El Condado,El Condado,departamento,venta,126000.0,219.74,0.0,3,2,active,2026-11-12,remax_en_vivo,573.4
+61213,CASA INDEPENDIENTE 259 M2 EN CONOCOTO,Conocoto,casa,venta,129000.0,284.34,221.0,5,2,active,2026-11-12,remax_en_vivo,453.68
+61210,VENTA DEPARTAMENTO 2 DORMITORIOS - JARDIN CUMBAYA,Cumbayá,departamento,venta,154000.0,159.34,0.0,2,2,active,2026-11-12,remax_en_vivo,966.49
+61209,VENTA CASA URBANIZACION LA COMARCA CUMBAYA,La Comarca,casa,venta,498500.0,430.04,627.33,4,4,active,2026-11-12,remax_en_vivo,1159.19
+61207,CASA RENTERA EN VENTA SECTOR MIRAFLORES - UTE,Miraflores,casa,venta,200000.0,427.27,282.0,4,3,active,2026-11-12,remax_en_vivo,468.09
+61183,"SE VENDE DEPARTAMENTO, EDIFICIO SECTOR LA KENNEDY",California Bonanza,departamento,venta,85000.0,101.0,0.0,3,2,active,2026-11-12,remax_en_vivo,841.58
+61182,DEPARTAMENTO DE 2 DORMITORIOS CON AMPLIA TERRAZA,Chillogallo,departamento,venta,30000.0,48.75,0.0,2,1,active,2026-11-12,remax_en_vivo,615.38
+61169,VENDO CASA DE TANDA CONJ 4D 437M2 CONSTR 3 PISO,San Francisco De Tanda,casa,venta,299900.0,437.0,437.0,4,4,active,2026-11-12,remax_en_vivo,686.27
+61162,CASA EN VENTA SAN JOSÉ DEL VALLE-CONOCOTO,San Jose Del Valle,casa,venta,81000.0,118.0,107.0,2,2,active,2026-11-12,remax_en_vivo,686.44
+61159,"Privacidad, confort y una vista inigualable",23 De Junio,casa,venta,175000.0,375.11,528.63,3,3,active,2026-11-12,remax_en_vivo,466.53
+61142,Venta casa rentera barrio Lucha de los pobres,La Argelia,casa,venta,75000.0,180.0,180.0,8,6,active,2026-11-12,remax_en_vivo,416.67
+61141,VENTA DE CASA CONOCOTO 4H,Dean Bajo,casa,venta,100000.0,234.67,0.0,4,3,active,2026-11-12,remax_en_vivo,426.13
+61140,CASA EN VENTA EN COCHAPAMBA,San Fernando,casa,venta,185000.0,548.0,300.0,4,3,active,2026-11-12,remax_en_vivo,337.59
+61129,HERMOSA CASA INDEPENDIENTE EN VENTA EN PUEMBO,Puembo,casa,venta,279000.0,320.0,300.0,3,3,active,2026-11-12,remax_en_vivo,871.88
+61119,VENDO LUJOSA CASA,Puembo,casa,venta,890000.0,1200.0,1200.0,3,4,active,2026-11-12,remax_en_vivo,741.67
+61117,VENTA DE DEPARTAMENTO DUPLEX,California Bonanza,departamento,venta,50000.0,76.77,0.0,3,1,active,2026-11-12,remax_en_vivo,651.3
+61103,"Departamento en Tumbaco 3 Habitaciones, Piscina",Tumbaco,departamento,venta,129000.0,148.0,0.0,3,2,active,2026-11-12,remax_en_vivo,871.62
+61072,CASA EN VENTA - SECTOR CENTRO HISTORICO (430m²),Centro Histórico,casa,venta,50000.0,430.6,1020.0,8,3,active,2026-11-12,remax_en_vivo,116.12
+61064,"Venta casa en Vista Colina, San Juan de Cumbayá",Cumbayá,casa,venta,250000.0,277.0,277.0,3,2,active,2026-11-12,remax_en_vivo,902.53
+61050,DEPARTAMENTO CALDERÓN CONJUNTO EL EDÉN,Calderón (Carapungo),departamento,venta,79000.0,193.44,0.0,3,2,active,2026-11-12,remax_en_vivo,408.4
+60983,VENTA CASA + SUITE SECTOR PUSUQUI /CONDADO,Pusuqui Chico,casa,venta,163000.0,339.0,300.0,4,3,active,2026-11-12,remax_en_vivo,480.83
+60971,VENDO CASA AMPLIA URB. LA MARCA,San Antonio,casa,venta,199000.0,267.32,0.0,4,3,active,2026-11-12,remax_en_vivo,744.43
+60966,EN VENTA CASA 2 PLANTAS  SECTOR SAN JOSE DE MORAN,San Jose De Moran,casa,venta,40000.0,74.75,66.75,2,1,active,2026-11-12,remax_en_vivo,535.12
+60942,CASA EN VENTA DEAN BAJO CONOCOTO 147m2,Dean Bajo,casa,venta,95000.0,199.0,150.0,4,2,active,2026-11-12,remax_en_vivo,477.39
+60928,"Casa Unifamiliar en Venta, Turubamba Alto",Turubamba Alto,casa,venta,79900.0,192.0,192.0,7,3,active,2026-11-12,remax_en_vivo,416.15
+60926,VENTA DE CASA CHILLOGALLO $49.500,Chillogallo,casa,venta,49500.0,109.63,109.63,4,2,active,2026-11-12,remax_en_vivo,451.52
+60911,Departamento en venta en Cumbaya  2 dormitorios,La Catolica,departamento,venta,136900.0,100.04,0.0,2,1,active,2026-11-12,remax_en_vivo,1368.45
+60909,SE VENDE DEPARTAMENTO URBANIZACION EL CONDADO,Urb. El Condado,departamento,venta,135000.0,147.0,0.0,3,2,active,2026-11-12,remax_en_vivo,918.37
+60908,Departamento en venta en Tumbaco en Conjunto 3d,Tumbaco,departamento,venta,154900.0,143.43,0.0,3,2,active,2026-11-12,remax_en_vivo,1079.97
+60907,Casa en venta en Tumbaco en Conjunto esquinera,Tumbaco,casa,venta,225900.0,272.69,0.0,3,2,active,2026-11-12,remax_en_vivo,828.41
+60906,Departamento en venta en Tumbaco en Conjunto 3d,Tumbaco,departamento,venta,158900.0,159.42,0.0,3,2,active,2026-11-12,remax_en_vivo,996.74
+60905,Departamento en venta en Tumbaco en Conjunto 3d,Tumbaco,departamento,venta,150900.0,135.18,0.0,3,2,active,2026-11-12,remax_en_vivo,1116.29
+60903,DEPARTAMENTO INDEPENDIENTE CON DOMÓTICA - SOLCA,El Eden,departamento,venta,55000.0,101.55,0.0,2,2,active,2026-11-12,remax_en_vivo,541.61
+60900,Casa en venta en Tumbaco en Conjunto,Tumbaco,casa,venta,185000.0,230.29,0.0,3,2,active,2026-11-12,remax_en_vivo,803.33
+60898,Suite en venta en Cumbaya en planos,La Catolica,departamento,venta,98900.0,74.57,0.0,1,1,active,2026-11-12,remax_en_vivo,1326.27
+60883,CASA CON 3 DEPARTAMENTOS DE VENTA EN URB.URABA,Carcelen Libre,casa,venta,500000.0,760.0,384.0,10,6,active,2026-11-12,remax_en_vivo,657.89
+60882,LA PRIMAVERA CASA INDEPENDIENTE,Cumbayá,casa,venta,499000.0,389.0,727.0,4,3,active,2026-11-12,remax_en_vivo,1282.78
+60804,"HERMOSO DEPARTAMENTO DÚPLEX - 289,76 M2",Kennedy,departamento,venta,115000.0,289.76,0.0,5,3,active,2026-11-12,remax_en_vivo,396.88
+60802,CASA EN VENTA SUR DE QUITO ORQUIDEAS DEL SUR,Quitumbe,casa,venta,45000.0,124.0,19467.0,3,2,active,2026-11-12,remax_en_vivo,362.9
+60800,DEPARTAMENTO DUPLEX EN VENTA QUITUMBE,Quitumbe,departamento,venta,47000.0,99.61,0.0,3,2,active,2026-11-12,remax_en_vivo,471.84
+60787,Departamento por Estrenar con Jardín en Tumbaco,Churoloma,departamento,venta,122000.0,136.26,0.0,3,2,active,2026-11-12,remax_en_vivo,895.35
+60778,EN VENTA DEPARTAMENTO 3 DORMITORIOS  LA VICENTINA,La Vicentina,departamento,venta,70000.0,143.0,0.0,3,2,active,2026-11-12,remax_en_vivo,489.51
+60777,VENTA DEPARTAMENTO 3D QUITO TENIS,Quito Tenis,departamento,venta,192000.0,208.77,0.0,3,3,active,2026-11-12,remax_en_vivo,919.67
+60751,Casa en venta en Tumbaco en Conjunto,Tumbaco,casa,venta,185000.0,232.15,0.0,3,2,active,2026-11-12,remax_en_vivo,796.9
+60719,CASA RENTERA CON BUENA RENTABILIDAD ANUAL/ AV. OCC,Cochapamba,casa,venta,258000.0,750.0,750.0,12,12,active,2026-11-12,remax_en_vivo,344.0
+60688,VENTA CASA - LA FLORESTA (CERCA CINE 8 Y MEDIO),La Floresta,casa,venta,250000.0,215.0,360.0,3,3,active,2026-11-12,remax_en_vivo,1162.79
+60679,Casa de Venta - sector Calderón,Jose Teran,casa,venta,70000.0,123.42,123.42,3,2,active,2026-11-12,remax_en_vivo,567.17
+60678,VENDO CASA EN CUMBAYA   EXCELENTE UBICACION,La Primavera,casa,venta,160000.0,167.0,180.0,4,3,active,2026-11-12,remax_en_vivo,958.08
+60675,"¡Casa de Venta! Sector UTE, Occidental",San Vicente,casa,venta,63000.0,188.62,126.27,3,2,active,2026-11-12,remax_en_vivo,334.0
+60659,CASA EN VENTA SUR DE QUITO TRAS EL RECREO,El Calzado,casa,venta,89900.0,200.0,200.0,4,2,active,2026-11-12,remax_en_vivo,449.5
+60598,Departamento En Venta MAÑOSCA San Gabriel,San Gabriel,departamento,venta,145000.0,96.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1510.42
+60559,CASA RENTERA EN VENTA LA FERROVIARIA BAJA,La Ferroviaria,casa,venta,149000.0,349.07,180.0,7,5,active,2026-11-12,remax_en_vivo,426.85
+60536,CASA EN VENTA - CARCELEN - NORTE DE QUITO,1Ra. Zona Aerea,casa,venta,105000.0,243.0,192.0,3,2,active,2026-11-12,remax_en_vivo,432.1
+60522,EN VENTA PRECIO FIJO LOCAL Y DEPARTAMENTOS RENTERA,La Ecuatoriana,casa,venta,95000.0,180.0,180.0,8,8,active,2026-11-12,remax_en_vivo,527.78
+60515,CASA EN VENTA EN LA URBANIZACIÓN ARMENIA 2,Conocoto,casa,venta,227000.0,560.0,330.0,5,5,active,2026-11-12,remax_en_vivo,405.36
+60511,CASA EN VENTA – URB. SAN GREGORIO | PUSUQUÍ,Pusuqui Chico,casa,venta,249900.0,570.0,300.0,5,5,active,2026-11-12,remax_en_vivo,438.42
+60504,Penthouse en venta – Diego de Almagro,Iñaquito,departamento,venta,158000.0,242.027,0.0,3,2,active,2026-11-12,remax_en_vivo,652.82
+60499,"VENDO CASA 4 DORMITORIOS, PORTAL SHOPPING",Camino Eucalipto,casa,venta,114900.0,165.9,90.0,4,3,active,2026-11-12,remax_en_vivo,692.59
+60493,CASA RENTERA EN VENTA - SECTOR LA RECOLETA 1217m²,La Recoleta,casa,venta,240000.0,1217.04,736.0,20,8,active,2026-11-12,remax_en_vivo,197.2
+60463,LA CASA IDEAL PARA TU FAMILIA.,Cotocollao,casa,venta,65000.0,127.0,127.0,3,3,active,2026-11-12,remax_en_vivo,511.81
+60459,CASA EN VENTA - SAN ANTONIO DE PICHINCHA (108m²),Equinoccial,casa,venta,67000.0,119.6,60.0,3,2,active,2026-11-12,remax_en_vivo,560.2
+60403,AMPLIA CASA EN VENTA EN SECTOR EL RECREO,Recreo Clemencia,casa,venta,65000.0,132.05,132.05,3,2,active,2026-11-12,remax_en_vivo,492.24
+60387,SE VENDE SUITE EN LA MARIANA DE JESUS 66MT 1 DOR,Iñaquito,departamento,venta,85000.0,67.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1268.66
+60377,SE VENDE SUITE BELLAVISTA,Bellavista,departamento,venta,85000.0,95.0,0.0,1,1,active,2026-11-12,remax_en_vivo,894.74
+60344,"CASA DE VENTA, EL ROSARIO, AV LUIS TUFIÑO",Cotocollao,casa,venta,127000.0,251.0,315.0,6,3,active,2026-11-12,remax_en_vivo,505.98
+60310,Vendo casa Santa Lucía - Precio de Oportunidad,Coop. Monserrat,casa,venta,99000.0,270.48,100.0,4,3,active,2026-11-12,remax_en_vivo,366.02
+60282,Exclusivo departamento de venta en Quito Tennis,Quito Tenis,departamento,venta,365000.0,508.2,0.0,4,3,active,2026-11-12,remax_en_vivo,718.22
+60281,Exclusivo departamento de venta en Quito Tenis,Quito Tenis,departamento,venta,365000.0,502.99,0.0,3,3,active,2026-11-12,remax_en_vivo,725.66
+60265,Departamento 3 dormitorios en Venta - Puente 2,Puengasí,departamento,venta,44900.0,80.4,0.0,3,1,active,2026-11-12,remax_en_vivo,558.46
+60264,Departamento en venta - Conj Residencial Amaranta,Puengasí,departamento,venta,75000.0,143.72,0.0,3,2,active,2026-11-12,remax_en_vivo,521.85
+60261,CASA EN VENTA CONOCOTO,Conocoto,casa,venta,78000.0,150.0,150.0,4,1,active,2026-11-12,remax_en_vivo,520.0
+60236,Exclusivo Departamento de venta en Quito Tennis,Quito Tenis,departamento,venta,365000.0,502.32,0.0,4,4,active,2026-11-12,remax_en_vivo,726.63
+60232,"Casa de 3 Dormitorios, Parqueadero-Calderón Quito",Calderón (Carapungo),casa,venta,47300.0,103.0,103.0,3,1,active,2026-11-12,remax_en_vivo,459.22
+60206,VENTA DE DEPARTAMENTO EN PONCEANO,Ponciano Bajo,departamento,venta,42000.0,90.2,0.0,3,1,active,2026-11-12,remax_en_vivo,465.63
+60201,CASA COMERCIAL,Lomas De Monteserrin,casa,venta,338000.0,580.0,450.0,10,7,active,2026-11-12,remax_en_vivo,582.76
+60176,"Vendo Departamento, Ciudad Jardin con parqueadero",Turubamba,departamento,venta,43000.0,63.77,0.0,3,1,active,2026-11-12,remax_en_vivo,674.3
+60150,SE VENDE DEPARTAMENTO 3 HAB SECTOR COL 24 DE MAYO,Batan Alto,departamento,venta,151730.0,139.55,0.0,3,2,active,2026-11-12,remax_en_vivo,1087.28
+60143,"Departamento en Venta, Cumbayá, Quito.",Tumbaco,departamento,venta,210000.0,182.25,0.0,2,2,active,2026-11-12,remax_en_vivo,1152.26
+60140,Vendo casa de 235m2 Pomasqui,Pomasqui,casa,venta,115000.0,305.0,300.0,4,3,active,2026-11-12,remax_en_vivo,377.05
+60126,VENTA DE DEPARTAMENTO – COCHAPAMBA NORTE,Cochapamba,departamento,venta,82000.0,137.04,0.0,3,2,active,2026-11-12,remax_en_vivo,598.37
+60106,"DEPARTAMENTO EN VENTA, CONDADO",Urb. El Condado,departamento,venta,110000.0,216.76,0.0,3,2,active,2026-11-12,remax_en_vivo,507.47
+60073,Departamento a estrenar sector Monteserrín,Monteserrin,departamento,venta,143000.0,127.94,0.0,3,2,active,2026-11-12,remax_en_vivo,1117.71
+60072,Departamento a estrenar Monteserrín,Monteserrin,departamento,venta,144900.0,125.81,0.0,3,2,active,2026-11-12,remax_en_vivo,1151.74
+60038,SE VENDE DEPARTAMENTO PONCEANO ALTO EDIF ALICANTE,Ponciano Alto,departamento,venta,115000.0,156.0,0.0,3,2,active,2026-11-12,remax_en_vivo,737.18
+60004,Depto 3 dorm. en venta | Mariana de Jesús,Rumipamba,departamento,venta,116300.0,106.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1097.17
+60000,Casa Comercial 3 Deptos 2 Locales 775m² Av America,San Gabriel,casa,venta,359000.0,841.0,360.0,10,8,active,2026-11-12,remax_en_vivo,426.87
+59980,"Departamento de Venta, Sector Pinar Bajo",Cochapamba,departamento,venta,230000.0,181.42,0.0,3,3,active,2026-11-12,remax_en_vivo,1267.78
+59973,Vendo casa por estrenar - La Pampa - 3 dormitorios,La Pampa,casa,venta,97500.0,139.84,90.0,3,2,active,2026-11-12,remax_en_vivo,697.23
+59972,Vendo casa por estrenar - La Pampa - 3 dormitorios,La Pampa,casa,venta,101500.0,139.84,90.0,3,2,active,2026-11-12,remax_en_vivo,725.83
+59970,Vendo Departamento de dos dormitorios Batan Alto,Batan Alto,departamento,venta,117000.0,169.0,0.0,2,2,active,2026-11-12,remax_en_vivo,692.31
+59967,CASA EN VENTA EN LA ARMENIA 1 CON LA MEJOR VISTA,Conocoto,casa,venta,137000.0,218.23,218.23,3,2,active,2026-11-12,remax_en_vivo,627.78
+59966,DEPARTAMENTO EN VENTA 3 DORMITORIOS - LA OFELIA,Ponceano,departamento,venta,52000.0,104.6,0.0,3,2,active,2026-11-12,remax_en_vivo,497.13
+59923,SE VENDE CASA EN MIRAVALLE 2,Miravalle 2,casa,venta,355000.0,566.3,0.0,4,3,active,2026-11-12,remax_en_vivo,626.88
+59874,DEPARTAMENTO A ESTRENAR LA KENNEDY NORTE DE QUITO,Kennedy,departamento,venta,86000.0,134.46,0.0,3,2,active,2026-11-12,remax_en_vivo,639.6
+59868,departamento PB dos patios,Ponciano Alto,departamento,venta,91500.0,122.0,0.0,2,2,active,2026-11-12,remax_en_vivo,750.0
+59786,DEPARTAMENTO 2 DORMITORIOS TERRAZAS DEL MORAL,Monteserrin,departamento,venta,139850.0,98.0,0.0,2,2,active,2026-11-12,remax_en_vivo,1427.04
+59761,VENTA DEPARTAMENTO EL UNIVERSO Y SHYRIS,Batan Bajo,departamento,venta,130000.0,144.0,0.0,3,2,active,2026-11-12,remax_en_vivo,902.78
+59719,VENTA Departamento en Cotocollao,Cotocollao,departamento,venta,65000.0,190.0,0.0,5,2,active,2026-11-12,remax_en_vivo,342.11
+59718,CASA EN VENTA 320 m2 DE TERRENO SECTOR GUAMANI,Heroes Paquisha,casa,venta,74000.0,293.0,320.0,2,4,active,2026-11-12,remax_en_vivo,252.56
+59691,SUITE EN VENTA,Union Nacional,departamento,venta,85000.0,61.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1393.44
+59669,Departamento 3 dormitorios El Batan,Iñaquito,departamento,venta,140000.0,181.71,0.0,3,2,active,2026-11-12,remax_en_vivo,770.46
+59649,DEPARTAMENTO EN VENTA 2 DORM. IÑAQUITO ALTO,Rumipamba,departamento,venta,126000.0,99.82,0.0,1,1,active,2026-11-12,remax_en_vivo,1262.27
+59648,DEPARTAMENTO EN VENTA 3 DORM. IÑAQUITO ALTO,Rumipamba,departamento,venta,133000.0,139.86,0.0,3,2,active,2026-11-12,remax_en_vivo,950.95
+59647,DEPARTAMENTO EN VENTA 3 DORM. IÑAQUITO ALTO,Rumipamba,departamento,venta,133000.0,134.98,0.0,3,2,active,2026-11-12,remax_en_vivo,985.33
+59569,"VENTA DE DEPARTAMENTO,PONCEANO 3 DORMIT, SUPERMAXI",Ponceano,departamento,venta,110000.0,145.27,0.0,3,2,active,2026-11-12,remax_en_vivo,757.21
+59567,"EN VENTA EXCLUSIVA PROPIEDAD DE LUJO, CENTRO NORTE",Mariscal Sucre,casa,venta,970000.0,1268.0,870.0,7,7,active,2026-11-12,remax_en_vivo,764.98
+59566,Venta Casa 500 m2 Batán Alto,Batan Alto,casa,venta,510000.0,832.0,0.0,5,5,active,2026-11-12,remax_en_vivo,612.98
+59565,Venta Casa 265 m² La Loma Grande Centro Histórico,La Loma,casa,venta,168000.0,265.0,97.0,4,2,active,2026-11-12,remax_en_vivo,633.96
+59553,CASA DE VENTA SECTOR CAMPO ALEGRE,Campo Alegre,casa,venta,290000.0,290.0,300.0,3,3,active,2026-11-12,remax_en_vivo,1000.0
+59512,Vendo departamento 192m2 la prensa,Chaupicruz (La Concepcion),departamento,venta,85000.0,192.0,0.0,3,3,active,2026-11-12,remax_en_vivo,442.71
+59491,CASA EN VENTA URB. SAN JOSÉ DEL VALLE- CONOCOTO,San Jose Del Valle,casa,venta,135000.0,363.0,540.0,3,2,active,2026-11-12,remax_en_vivo,371.9
+59478,CASA INDEPENDIENTE EN VENTA / ORQUIDEAS / MONJAS,Las Orquideas,casa,venta,110000.0,382.0,174.0,6,3,active,2026-11-12,remax_en_vivo,287.96
+59441,CASA DE VENTA EN CONJUNTO PORTALES DEL RECREO,La Ferroviaria,casa,venta,70000.0,142.0,70.0,3,2,active,2026-11-12,remax_en_vivo,492.96
+59439,Casa con terreno en venta en La Argelia,San Luis,casa,venta,70000.0,144.0,335.72,3,1,active,2026-11-12,remax_en_vivo,486.11
+59413,CASA EN VENTA SECTOR POMASQUI,La Union,casa,venta,72000.0,124.93,124.94,2,2,active,2026-11-12,remax_en_vivo,576.32
+59406,Casa en Venta 270m2 - Sector San Gabriel - Valle,San Gabriel,casa,venta,198000.0,665.0,635.0,5,3,active,2026-11-12,remax_en_vivo,297.74
+59373,PROPIEDAD COMERCIAL EN VENTA / SAN ISIDRO DEL INCA,La Victoria,casa,venta,320000.0,1090.0,630.0,8,6,active,2026-11-12,remax_en_vivo,293.58
+59273,CASA INDEPENDIENTE EN VENTA CARCELEN,Corazon De Jesus,casa,venta,63000.0,176.0,100.0,3,1,active,2026-11-12,remax_en_vivo,357.95
+59179,Departamento 2hab con patio Bellavista,Bellavista,departamento,venta,160000.0,141.47,0.0,2,2,active,2026-11-12,remax_en_vivo,1130.98
+59139,DEPARTAMENTO EN VENTA A ESTRENAR AMAGASI DEL INCA,El Inca,departamento,venta,113000.0,128.12,0.0,2,2,active,2026-11-12,remax_en_vivo,881.99
+59135,DEPARTAMENTOS EN CALDERÓN CREDITO VIP y/o DIRECTO,Calderón (Carapungo),departamento,venta,59900.0,89.0,0.0,3,2,active,2026-11-12,remax_en_vivo,673.03
+59133,VENDO CASA EN CONJUNTO SECTOR TERMINAL CARCELEN,Carretas,casa,venta,62000.0,76.0,0.0,3,2,active,2026-11-12,remax_en_vivo,815.79
+58989,VENTA DE CASA EN QUITUMBE,Salvador Allende,casa,venta,58500.0,111.56,0.0,3,2,active,2026-11-12,remax_en_vivo,524.38
+58988,CASA ESQUINERA EN VENTA EN EL SUR DE QUITO,Ejercito Nacional,casa,venta,140000.0,440.79,171.52,3,1,active,2026-11-12,remax_en_vivo,317.61
+58833,Se vende Departamento 3 dormitorios Gonzalez Suare,Bellavista,departamento,venta,250000.0,199.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1256.28
+58832,Se Vende Casa Rentera Rentabilidad 15%,Cochapamba,casa,venta,160000.0,500.0,1000.0,7,10,active,2026-11-12,remax_en_vivo,320.0
+58709,SUITE EN VENTA - EDIF OH - GONZÁLEZ SUÁREZ,Gonzalez Suarez,departamento,venta,145000.0,115.0,0.0,1,1,active,2026-11-12,remax_en_vivo,1260.87
+58641,SE VENDE DEPARTAMENTO 2 HABITACIONES MONTESERRIN,Monteserrin,departamento,venta,120000.0,126.0,0.0,2,2,active,2026-11-12,remax_en_vivo,952.38
+58360,CASA CAMPESTRE EN PUEMBO,Puembo,casa,venta,160000.0,282.0,0.0,3,2,active,2026-11-12,remax_en_vivo,567.38
+58359,DEPARTAMENTO DÚPLEX INDEPENDIENTE EN VENTA,Andalucia,departamento,venta,93700.0,227.0,0.0,4,2,active,2026-11-12,remax_en_vivo,412.78
+58327,DEPARTAMENTO EN VENTA SECTOR ITCHIMBIA,Julio Moreno,departamento,venta,111300.0,116.57,0.0,2,2,active,2026-11-12,remax_en_vivo,954.79
+58326,DEPARTAMENTO EN VENTA EL DORADO,Julio Moreno,departamento,venta,155800.0,167.953,0.0,3,2,active,2026-11-12,remax_en_vivo,927.64
+58211,VENTA DEPARTAMENTO 3 DORMITORIOS CUMBAYA,Cumbayá,departamento,venta,190000.0,152.0,0.0,3,3,active,2026-11-12,remax_en_vivo,1250.0
+58210,VENTA CASA 3 DORMITORIOS VALLE DE LOS CHILLOS,Conocoto,casa,venta,110000.0,182.0,0.0,3,3,active,2026-11-12,remax_en_vivo,604.4
+58205,Departamento a Estrenar de Venta  Sector Itchimbía,Julio Moreno,departamento,venta,93100.0,79.95,0.0,1,1,active,2026-11-12,remax_en_vivo,1164.48
+58200,CASA RENTERA EN VENTA QUITUMBE - PUEBLO UNIDO 8%+,Pueblo Unido,casa,venta,125000.0,337.58,200.0,11,5,active,2026-11-12,remax_en_vivo,370.28
+58170,Casa 4 habitaciones en Conjunto Pomasqui,Pomasqui,casa,venta,84500.0,170.0,90.0,4,3,active,2026-11-12,remax_en_vivo,497.06
+58109,"Casa en Venta  Conj. Sol de Miami,  Av. Galo Plaza",Carcelen,casa,venta,55500.0,100.0,100.0,3,1,active,2026-11-12,remax_en_vivo,555.0
+58103,CASA INDEPENDIENTE DE 4 DORMITORIOS EN TANDA,San Francisco De Tanda,casa,venta,320000.0,317.0,858.0,4,3,active,2026-11-12,remax_en_vivo,1009.46
+58102,"QUITO TENIS, UN SOLO ANDAR DE 3D REMODELADO",Rumipamba,departamento,venta,149000.0,163.0,0.0,3,2,active,2026-11-12,remax_en_vivo,914.11
+58098,VENTA DEPARTAMENTO NUEVO - PUSUQUÍ,Pusuqui 1,departamento,venta,115000.0,142.37,0.0,3,3,active,2026-11-12,remax_en_vivo,807.75
+58094,"DEPARTAMENTO A REMODELAR 161 M2, BELLAVISTA",Bellavista,departamento,venta,128000.0,161.0,0.0,3,2,active,2026-11-12,remax_en_vivo,795.03
+58091,"BELLAVISTA DEPT EN PB CON PATIO, 1 D Y ESTUDIO",Bellavista,departamento,venta,98000.0,110.3,0.0,2,1,active,2026-11-12,remax_en_vivo,888.49
+58090,VENDO DEPARTAMENTO EN BELLAVISTA DE 3D EN URB.,Bellavista,departamento,venta,195000.0,212.0,0.0,3,3,active,2026-11-12,remax_en_vivo,919.81
+58088,Vendo Dpto Duplex Quito Tenis 3 Dorm,Rumipamba,departamento,venta,235000.0,411.0,0.0,3,4,active,2026-11-12,remax_en_vivo,571.78
+58080,Venta departamento en la Granda Centeno,Rumipamba,departamento,venta,125000.0,145.86,0.0,3,2,active,2026-11-12,remax_en_vivo,856.99
+58056,Venta departamento 86 m2 El Batán,Iñaquito,departamento,venta,90000.0,110.0,0.0,2,2,active,2026-11-12,remax_en_vivo,818.18
+57861,Exclusivo departamento 3 dormitorios La Paz,Iñaquito,departamento,venta,185000.0,288.0,0.0,3,3,active,2026-11-12,remax_en_vivo,642.36
+57656,EN VENTA MODERNO PENTHOUSE QUITO TENNIS,Quito Tenis,departamento,venta,324900.0,463.0,0.0,3,4,active,2026-11-12,remax_en_vivo,701.73
+57642,CASA DE 4D DORMITORIOS URB. EN BELLAVISTA,Bellavista,casa,venta,410000.0,483.7,421.0,4,3,active,2026-11-12,remax_en_vivo,847.63
+57614,CASA UNIFAMILIAR EN VENTA| SECTOR EL RECREO | SUR,La Ferroviaria,casa,venta,180000.0,513.4,0.0,3,1,active,2026-11-12,remax_en_vivo,350.6
+57590,Casa en Venta en Conjunto Katari – La Morita 2,Tumbaco,casa,venta,185000.0,230.12,215.92,3,2,active,2026-11-12,remax_en_vivo,803.93
+57589,Casa en Venta en Conjunto Katari – La Morita 2,Tumbaco,casa,venta,181500.0,237.97,223.75,3,2,active,2026-11-12,remax_en_vivo,762.7
+57588,Casa en Venta en Conjunto Katari – La Morita 2,Tumbaco,casa,venta,181000.0,225.41,212.16,3,2,active,2026-11-12,remax_en_vivo,802.98
+57574,asa en Venta Conjunto Katari – La Morita 2,Tumbaco,casa,venta,241800.0,343.36,329.0,3,3,active,2026-11-12,remax_en_vivo,704.22
+57573,Casa en Venta Conjunto Katari – La Morita 2,Tumbaco,casa,venta,259500.0,298.31,281.67,3,3,active,2026-11-12,remax_en_vivo,869.9
+57521,CASA DE VENTA LA ARMENIA 2- CONOCOTO,Armenia 2,casa,venta,129800.0,196.0,180.0,3,2,active,2026-11-12,remax_en_vivo,662.24
+57467,CASA EN VENTA - CONOCOTO - URBANIZACION EXCLUSIVA,Conocoto,casa,venta,182000.0,402.0,637.86,7,4,active,2026-11-12,remax_en_vivo,452.74
+57433,"SOLCA DEP. VENTA 2 HAB POR ESTRENAR 81 M², PARQ. B",Solca,departamento,venta,91580.0,163.0,0.0,2,2,active,2026-11-12,remax_en_vivo,561.84
+57424,Amplia casa 3 hab. sector Embajada Americana,San Isidro Del Inca,casa,venta,112900.0,177.0,0.0,3,2,active,2026-11-12,remax_en_vivo,637.85
+57308,"VENTA CASA,  EN CONJUNTO RESIDENCIAL, AMPLIA",Conocoto,casa,venta,107000.0,199.12,150.0,3,3,active,2026-11-12,remax_en_vivo,537.36
+57278,"SAN BLAS, CASA RENTERA DE VENTA",Centro Histórico,casa,venta,165000.0,419.0,244.0,6,3,active,2026-11-12,remax_en_vivo,393.79
+57277,"QUITO TENIS, CASA EN CONJUNTO DE VENTA 3D",Cochapamba,casa,venta,240000.0,432.0,432.0,3,3,active,2026-11-12,remax_en_vivo,555.56
+57208,Venta de Penthouse Dúplex de Lujo en Edificio MAID,Cumbayá,penthouse,venta,599000.0,598.04,0.0,4,4,active,2026-11-12,remax_en_vivo,1001.61
+57117,EN VENTA DEPARTAMENTO 2 DORMITORIOS POR ESTRENAR,Comité Del Pueblo,departamento,venta,98963.0,93.0,0.0,2,1,active,2026-11-12,remax_en_vivo,1064.12
+57116,EN VENTA DEPARTAMENTO POR ESTRENAR SANTA LUCIA,Comité Del Pueblo,departamento,venta,120587.0,136.0,0.0,3,2,active,2026-11-12,remax_en_vivo,886.67
+57115,DEPARTAMENTO ESTRENAR 3 DORMITORIOS SANTA LUCÍA,Santa Lucia Baja,departamento,venta,123500.0,129.0,0.0,3,2,active,2026-11-12,remax_en_vivo,957.36
+57093,"SOLCA POR ESTRENAR DEP. VENTA 3 HAB 109M², PARQ. B",Solca,departamento,venta,118970.0,217.97,0.0,3,2,active,2026-11-12,remax_en_vivo,545.81
+56986,VENDO CASAS POR ESTRENAR,San Antonio,departamento,venta,59900.0,116.0,0.0,3,2,active,2026-11-12,remax_en_vivo,516.38
+56950,VENTA DE DEPARTAMENTO EN PLANTA BAJA,Union Nacional,departamento,venta,87000.0,230.06,0.0,3,2,active,2026-11-12,remax_en_vivo,378.16
+56945,Venta departamento por estrenar sector La Gasca,Belisario Quevedo,departamento,venta,97900.0,106.81,0.0,2,2,active,2026-11-12,remax_en_vivo,916.58
+56944,Venta departamento por estrenar sector La Gasca,Belisario Quevedo,departamento,venta,113000.0,121.53,0.0,2,2,active,2026-11-12,remax_en_vivo,929.81
+56917,Venta departamento por estrenar sector La Gasca,Belisario Quevedo,departamento,venta,99900.0,118.66,0.0,2,2,active,2026-11-12,remax_en_vivo,841.9
+56916,Venta departamento por estrenar sector La Gasca,Belisario Quevedo,departamento,venta,115000.0,132.77,0.0,2,2,active,2026-11-12,remax_en_vivo,866.16
+56915,Venta departamento por estrenar sector La Gasca,Belisario Quevedo,departamento,venta,79900.0,89.39,0.0,2,1,active,2026-11-12,remax_en_vivo,893.84
+56886,EN VENTA DEPARTAMENTO 3D - EL CONDADO,Santa Isabel,departamento,venta,87536.0,124.01,0.0,3,2,active,2026-11-12,remax_en_vivo,705.88
+56885,EN VENTA DEPARTAMENTO 2D - EL CONDADO,Santa Isabel,departamento,venta,78955.0,110.34,0.0,2,1,active,2026-11-12,remax_en_vivo,715.56
+56826,CASA EN VENTA | 599 m² TOTALES EN URBANIZACIÓN,Conocoto,casa,venta,199000.0,599.0,599.0,4,2,active,2026-11-12,remax_en_vivo,332.22
+56814,Venta casa comercial,Pueblo Solo Pueblo,casa,venta,185000.0,600.62,243.85,8,4,active,2026-11-12,remax_en_vivo,308.02
+56802,"Departamento en Venta, sector El Recreo",La Ferroviaria,departamento,venta,76000.0,180.0,0.0,3,2,active,2026-11-12,remax_en_vivo,422.22
+56660,SE VENDE DEPARTAMENTO SECTOR UNION NACIONAL,Union Nacional,departamento,venta,112000.0,191.89,0.0,3,2,active,2026-11-12,remax_en_vivo,583.67
+56429,VENTA DEPARTAMENTO DUPLEX - LA CAROLINA,Benalcazar,departamento,venta,167000.0,219.0,0.0,3,4,active,2026-11-12,remax_en_vivo,762.56
+56061,Exclusivo departamento remodelado 300m2 QuitoTenis,Quito Tenis,departamento,venta,229900.0,304.0,0.0,3,4,active,2026-11-12,remax_en_vivo,756.25
+55736,Casa esquinera en venta – Cotocollao | Conjunto pr,Cotocollao,casa,venta,90000.0,142.0,0.0,4,2,active,2026-11-12,remax_en_vivo,633.8
+55731,VENDO CASA EN URBANIZACION PINAR BAJO,Mexterior,casa,venta,245000.0,740.0,740.0,4,3,active,2026-11-12,remax_en_vivo,331.08
+55700,Departamento 3 habitaciones Unión Nacional 200m2,Union Nacional,departamento,venta,140000.0,211.0,0.0,3,2,active,2026-11-12,remax_en_vivo,663.51
+55638,DEPARTAMENTO EN VENTA SECTOR UNION NACIONAL,Rumipamba,departamento,venta,125000.0,269.3,0.0,3,3,active,2026-11-12,remax_en_vivo,464.17
+55428,Casa unifamiliar en la  Armenia,Armenia 2,casa,venta,110000.0,216.0,141.0,2,3,active,2026-11-12,remax_en_vivo,509.26
+55256,"BELLAVISTA, DUPLEX 3D CON BALCON",Bellavista,departamento,venta,298000.0,298.55,0.0,3,3,active,2026-11-12,remax_en_vivo,998.16
+55236,"VENDO PROPIEDAD COMERCIAL, RESIDENCIAL, VILLAFLORA",Villaflora,casa,venta,158000.0,488.0,230.0,3,3,active,2026-11-12,remax_en_vivo,323.77
+55199,BELLAVISTA PENTHOUSE DE VENTA DE 4D Y TERRAZA,Bellavista,departamento,venta,280000.0,396.0,0.0,4,4,active,2026-11-12,remax_en_vivo,707.07
+54948,SE VENDE CASA  3 DORMITORIOS NAYON EN URBANIZACION,Nayón,casa,venta,350000.0,425.0,100.0,3,2,active,2026-11-12,remax_en_vivo,823.53
+54708,"SECTOR BICENTENARIO DEP 2 DORMITORIO, BALCON,",Cochapamba,departamento,venta,92000.0,188.0,0.0,2,1,active,2026-11-12,remax_en_vivo,489.36
+54666,VENTA CASA EXCLUSIVA EN ETAPA FINAL SECTOR NAYON,Nayón,casa,venta,340000.0,351.0,400.0,4,4,active,2026-11-12,remax_en_vivo,968.66
+54653,VENTA CASA9 de 1 PLANTA SECTOR CUMBAYA INTERVALLES,Cumbres Del Valle,casa,venta,293935.0,328.29,328.29,3,2,active,2026-11-12,remax_en_vivo,895.35
+54651,VENTA CASA11 d 1 PLANTA SECTOR CUMBAYA INTERVALLES,Cumbres Del Valle,casa,venta,301395.0,299.41,299.41,3,2,active,2026-11-12,remax_en_vivo,1006.63
+54619,¡CASA EN VENTA!,La Mena,casa,venta,100000.0,306.0,0.0,8,5,active,2026-11-12,remax_en_vivo,326.8
+54577,Venta departamento 2D Kennedy,Julio Matovelle,departamento,venta,44500.0,67.6,0.0,2,1,active,2026-11-12,remax_en_vivo,658.28
+54565,VENTA CASA8 de 1 PLANTA SECTOR CUMBAYA INTERVALLES,Cumbres Del Valle,casa,venta,300028.0,352.66,352.66,3,2,active,2026-11-12,remax_en_vivo,850.76
+54465,"Casa 520m2 rentera de 3 departamentos, Los Arupos",Los Arupos,casa,venta,219000.0,568.0,480.0,8,5,active,2026-11-12,remax_en_vivo,385.56
+54433,VENTA CASA3 de 1 PLANTA SECTOR CUMBAYA INTERVALLES,Cumbres Del Valle,casa,venta,278653.0,267.16,267.16,3,2,active,2026-11-12,remax_en_vivo,1043.02
+54428,VENTA CASA7 de 1 PLANTA SECTOR CUMBAYA INTERVALLES,Cumbres Del Valle,casa,venta,294298.0,329.74,329.74,3,2,active,2026-11-12,remax_en_vivo,892.52
+54397,VENTA CASA2 DE 1 PLANTA SECTOR CUMBAYA INTERVALLES,Cumbres Del Valle,casa,venta,280568.0,274.82,274.82,3,2,active,2026-11-12,remax_en_vivo,1020.92
+54356,DEPARTAMENTO 3 DORMITORIOS SAN ISIDRO DEL INCA,San Isidro Del Inca,departamento,venta,60000.0,70.0,0.0,3,2,active,2026-11-12,remax_en_vivo,857.14
+54324,CASA RENTERA EN VENTA SECTOR ESTADIO DEL AUCAS,Cond. Las Cuadras,casa,venta,305000.0,644.0,247.0,8,8,active,2026-11-12,remax_en_vivo,473.6
+54145,Excelente oportunidad casa en venta norte de Quito,Chaupicruz (La Concepcion),casa,venta,73000.0,133.0,133.0,3,3,active,2026-11-12,remax_en_vivo,548.87
+54017,Venta de acogedor departamento en planta baja,Rumipamba,departamento,venta,78000.0,72.33,0.0,3,1,active,2026-11-12,remax_en_vivo,1078.39
+53897,"EN VENTA DPTO 2 DORMITORIOS, EDIF. JARDÍN CUCARDAS",San Isidro Del Inca,departamento,venta,89000.0,111.91,0.0,2,2,active,2026-11-12,remax_en_vivo,795.28
+53808,"VENTA FUNCIONAL DEPARTAMENTO 91M2, 3 D, KENNEDY",El Inca,departamento,venta,86500.0,111.0,0.0,3,2,active,2026-11-12,remax_en_vivo,779.28
+53259,GONZALEZ SUAREZ VENDO PENTHOUSE AMOBLADO,Iñaquito,departamento,venta,420000.0,361.0,0.0,3,3,active,2026-11-12,remax_en_vivo,1163.43
+52976,"BELLAVISTA, DEPARTAMENTO DE 4D, 342M2 CON TERRAZA",Bellavista,departamento,venta,275000.0,395.0,0.0,4,3,active,2026-11-12,remax_en_vivo,696.2
+52958,DEPARTAMENTO EN VENTA SECTOR NAYÓN,Nayón,departamento,venta,169000.0,215.78,0.0,3,2,active,2026-11-12,remax_en_vivo,783.21
+52335,DEPARTAMENTO EN VENTA QUITO - SAN ISIDRO DEL INCA,La Victoria,departamento,venta,75000.0,90.83,0.0,3,2,active,2026-11-12,remax_en_vivo,825.72
+52307,CASA EN CONJ. ALCÁZAR DE SEVILLA IV LA ARMENIA 2,Armenia 2,casa,venta,104900.0,184.61,184.61,4,3,active,2026-11-12,remax_en_vivo,568.22
+51782,VENDO CASA EN SAN ISIDRO DEL INCA,Buenos Aires,casa,venta,85000.0,165.87,0.0,3,2,active,2026-11-12,remax_en_vivo,512.45
+51620,"Moderno Departamento 100M2, Sector Monteserrín",Monteserrin,departamento,venta,128000.0,147.0,0.0,2,2,active,2026-11-12,remax_en_vivo,870.75
+51361,VENTA/CASA/SECTOR PRINCESA TOA CONOCOTO,Conocoto,casa,venta,68900.0,118.0,0.0,3,2,active,2026-11-12,remax_en_vivo,583.9
+50898,"CASA EN VENTA SECTOR LUMBISI, CUMBAYA",El Limonar,casa,venta,185000.0,233.0,234.0,4,3,active,2026-11-12,remax_en_vivo,793.99
+50690,DEPARTAMENTO 254M2 PISO 1 PATIO ASCENSOR  TUMBACO,La Morita,departamento,venta,165000.0,254.0,0.0,3,2,active,2026-11-12,remax_en_vivo,649.61
+50627,Casa Rentera - 3 departamentos - Cdla. Ibarra,La Ecuatoriana,casa,venta,135000.0,390.0,180.0,7,3,active,2026-11-12,remax_en_vivo,346.15
+50411,DEPARTAMENTOS EN VENTA UBICADOS EN CONOCOTO,Conocoto,departamento,venta,83000.0,112.0,0.0,3,2,active,2026-11-12,remax_en_vivo,741.07
+50410,DEPARTAMENTOS EN VENTA UBICADOS EN CONOCOTO,Conocoto,departamento,venta,70000.0,96.0,0.0,2,2,active,2026-11-12,remax_en_vivo,729.17
+50352,Vendo casa en San Juan de Calderón - 3 dormitorios,24 De Junio,casa,venta,49900.0,93.0,4880.0,3,1,active,2026-11-12,remax_en_vivo,536.56
+50193,BELLAVISTA DEPARTAMENTO CON JARDIN 3 DORMITORIOS,Bellavista,departamento,venta,400000.0,486.0,0.0,3,3,active,2026-11-12,remax_en_vivo,823.05
+50025,VENTA DEPARTAMENTO 178.93m2 STA. BARBARA,Sta Barbara De Chillogallo,departamento,venta,53000.0,178.93,0.0,3,1,active,2026-11-12,remax_en_vivo,296.21
+49942,VENTA DE DEPARTAMENTO SECTOR GONZÁLEZ SUÁREZ,Bellavista,departamento,venta,170000.0,410.0,0.0,4,5,active,2026-11-12,remax_en_vivo,414.63
+49936,Casa en Venta en La Pampa-Pomasqui.,Pomasqui,casa,venta,225000.0,445.0,572.0,5,5,active,2026-11-12,remax_en_vivo,505.62
+49556,CASA COMERCIAL 2 LOCALES Y 3 DEPARTAMENTOS KENNEDY,La Victoria,casa,venta,350000.0,386.64,0.0,9,5,active,2026-11-12,remax_en_vivo,905.23
+48878,"En venta hermosa casa Sector la Viña, 4D piscina.",La Viña,casa,venta,410000.0,579.38,657.61,4,5,active,2026-11-12,remax_en_vivo,707.65
+48874,Vendo departamento Ponceano Alto,Ponceano,departamento,venta,92000.0,107.0,0.0,3,2,active,2026-11-12,remax_en_vivo,859.81
+48701,Venta departamento duplex 4D Kennedy,Julio Matovelle,departamento,venta,89400.0,176.6,0.0,4,2,active,2026-11-12,remax_en_vivo,506.23
+48020,Casa 3 plantas dentro de Conjunto Sector Capri,Comité Del Pueblo,casa,venta,82000.0,182.0,182.0,3,2,active,2026-11-12,remax_en_vivo,450.55
+47862,ELEGANTE CASA DE VENTA URB. SAN GERMAN CONOCOTO,Armenia 2,casa,venta,385000.0,388.0,800.0,3,2,active,2026-11-12,remax_en_vivo,992.27
+47791,CASA EN VENTA URB. SAN GREGORIO II - PUSUQUI,El Condado,casa,venta,145000.0,306.92,306.92,3,2,active,2026-11-12,remax_en_vivo,472.44
+47448,CASA DE VENTA EN CONJUNTO EN TUMBACO,Tumbaco,casa,venta,190000.0,358.0,0.0,3,2,active,2026-11-12,remax_en_vivo,530.73
+47250,"Casa en Venta Norte de Quito, sector Bellavista.",Bellavista,casa,venta,330000.0,583.0,300.0,6,3,active,2026-11-12,remax_en_vivo,566.04
+46895,CASA EN CONJUNTO SECTOR CALIFORNIA ALTA/LA KENNEDY,Kennedy,casa,venta,99000.0,117.0,0.0,3,2,active,2026-11-12,remax_en_vivo,846.15
+46705,CASA RENTERA SECTOR ALAMEDA PRODUCE $1.100 MENSUAL,Itchimbia,casa,venta,135000.0,510.6,294.36,16,8,active,2026-11-12,remax_en_vivo,264.39
+46373,DEPARTAMENTO EN VENTA  AVDA. 6 DE DICIEMBRE,Estadio Atahualpa,departamento,venta,289700.0,493.0,0.0,4,3,active,2026-11-12,remax_en_vivo,587.63
+46209,CASA EN VENTA LA ARMENIA VALLE DE LOS CHILLOS 159M,La Armenia 1,casa,venta,113000.0,205.0,150.0,3,2,active,2026-11-12,remax_en_vivo,551.22
+44823,DEPARTAMENTO 3 DORMITORIOS SECTOR SOLCA,San Miguel De Amagasi,departamento,venta,90000.0,124.0,0.0,3,2,active,2026-11-12,remax_en_vivo,725.81
+44651,DEPARTAMENTO 3 DORMITORIOS SECTOR LAS CASAS,Las Casas,departamento,venta,58000.0,79.0,0.0,3,1,active,2026-11-12,remax_en_vivo,734.18
+44001,Departamento dúplex,Belisario Quevedo,departamento,venta,45000.0,84.09,0.0,3,1,active,2026-11-12,remax_en_vivo,535.14
+43507,"DEPARTAMENTO 146M2, 3 DORMITORIOS, EL INCA",El Inca,departamento,venta,74000.0,160.0,0.0,3,2,active,2026-11-12,remax_en_vivo,462.5
+43041,VENDO CASA 126M2 EN SAN ANTONIO DE PICHINCHA,San Antonio,casa,venta,120000.0,126.0,126.0,4,2,active,2026-11-12,remax_en_vivo,952.38
+43021,CASAS VIP 3 DORMITORIOS SECTOR CONOCOTO,Conocoto,casa,venta,105000.0,150.0,101.0,3,2,active,2026-11-12,remax_en_vivo,700.0
+42995,DEPARTAMENTO EN VENTA QUITO NORTE -SECTOR PONCEANO,Marsol,departamento,venta,120000.0,435.9,0.0,5,4,active,2026-11-12,remax_en_vivo,275.29
+40760,Vendo Hermoso Dpto Gonzalez Suarez 3D,Iñaquito,departamento,venta,310000.0,368.0,0.0,3,4,active,2026-11-12,remax_en_vivo,842.39
+40623,VENTA CASAS CONOCOTO APLICA CREDITO VIP,Conocoto,casa,venta,70700.0,105.0,105.0,3,2,active,2026-11-12,remax_en_vivo,673.33
+40160,DEPARTAMENTO EN VENTA POR ESTRENAR TUMBACO 164m2,Santa Ana,departamento,venta,168000.0,300.0,0.0,3,2,active,2026-11-12,remax_en_vivo,560.0
+40159,DEPARTAMENTO EN VENTA POR ESTRENAR TUMBACO 150M2,Santa Ana,departamento,venta,143000.0,248.0,0.0,3,2,active,2026-11-12,remax_en_vivo,576.61
+40156,QUINTA EN VENTA VALLE DE LOS CHILLOS 7450m2 TERREN,Armenia 2,casa,venta,790000.0,1294.0,7450.0,5,8,active,2026-11-12,remax_en_vivo,610.51
+40155,CASAS VIP EN VENTA POR ESTRENAR CONOCOTO 81m2,Conocoto,casa,venta,75800.0,108.0,60.0,3,2,active,2026-11-12,remax_en_vivo,701.85
+40152,CASAS POR ESTRENAR SECTOR LA ARMENIA VALLE 145m2,Conocoto,casa,venta,133500.0,240.0,110.0,3,2,active,2026-11-12,remax_en_vivo,556.25
+39832,Departamento 137M2 Sector Norte Carcelen Portal,Carcelen,departamento,venta,97900.0,147.0,0.0,3,2,active,2026-11-12,remax_en_vivo,665.99
+34745,QUITO TENIS VENDO DEPARTAMENTO 380 M2,Quito Tenis,departamento,venta,215000.0,380.0,0.0,3,3,active,2026-11-12,remax_en_vivo,565.79
+34636,Vendo Departamento Armenia uno  220.95 m2  3 dorm.,Conocoto,departamento,venta,149000.0,220.0,0.0,3,2,active,2026-11-12,remax_en_vivo,677.27
+33438,DEPARTAMENTO DE 2 DORMITORIOS SECTOR SOLCA,Solca,departamento,venta,78000.0,120.0,0.0,2,2,active,2026-11-12,remax_en_vivo,650.0
+30838,CARCELÉN CASA DE UNA PLANTA Y 3 DORMITORIOS,Carcelén,casa,venta,98000.0,133.0,464.0,2,2,active,2026-11-12,remax_en_vivo,736.84
+26761,CASA PINAR ALTO 481M2 FULL REMODELADA PINAR BAJO,Mexterior,casa,venta,315000.0,521.0,504.0,4,4,active,2026-11-12,remax_en_vivo,604.61
+26754,"MODERNO DEPARTAMENTO LOFT 80M2 CON TERRAZA, LA PAZ",La Paz,departamento,venta,109500.0,98.0,0.0,1,2,active,2026-11-12,remax_en_vivo,1117.35
+25867,CASA DE UNA PLANTA Y LOFT URB. LA MARCA,Ciudad Mitad Del Mundo,casa,venta,135000.0,227.0,504.0,2,2,active,2026-11-12,remax_en_vivo,594.71
+25452,Vendo departamento en Vista Grande,Nayón,departamento,venta,260000.0,396.0,447.0,3,4,active,2026-11-12,remax_en_vivo,656.57
+24548,CASA COMPLETAMENTE REMODELADA EN VENTA EL CONDADO,El Condado,casa,venta,260000.0,259.0,0.0,4,3,active,2026-11-12,remax_en_vivo,1003.86
+24546,CASA CON SUITES EN CUMBAYA SECTOR PASEO SAN FRANCI,Urb. Santa Lucia,casa,venta,760000.0,935.0,935.0,4,3,active,2026-11-12,remax_en_vivo,812.83
+20885,vendo casa sector unión nacional,Union Nacional,casa,venta,220000.0,420.0,236.0,3,4,active,2026-11-12,remax_en_vivo,523.81
+20427,Casa de 290m2 en planos por estrenar,San Francisco De Tanda,casa,venta,377000.0,300.0,540.0,3,3,active,2026-11-12,remax_en_vivo,1256.67
+18511,Tumbaco  Terreno  2480 M2  Hacia La Ruta Viva,La Ceramica,casa,venta,659000.0,2480.0,2480.0,6,9,active,2026-11-12,remax_en_vivo,265.73
+11381,CASA DE 4 DORMITORIOS EL PINAR BAJO,El Pinar Bajo,casa,venta,230000.0,324.0,345.0,4,2,active,2026-11-12,remax_en_vivo,709.88
+9056,VENTA DEPARTAMENTO DE LUJO 255M2 SHYRIS Y PORTUGAL,La Carolina,departamento,venta,375000.0,300.0,0.0,3,3,active,2026-11-12,remax_en_vivo,1250.0
+9079,DEPARTAMENTO EN VENTA MONTESERRIN - LAS BROMELIAS,Amaguaña,departamento,venta,112000.0,144.0,0.0,3,2,active,2026-11-12,remax_en_vivo,777.78
+10642,CASA DE 3 PLANTA CON HERMOSA VISTA,Armenia 2,casa,venta,118000.0,234.53,0.0,4,2,active,2026-11-12,remax_en_vivo,503.13
+8863,CASAS POR ESTRENAR SECTOR MITAD DEL MUNDO,Equinoccial,casa,venta,86475.0,122.0,85.0,3,2,active,2026-11-12,remax_en_vivo,708.81
+12489,DEPARTAMENTO DOS DORMITORIOS SECTOR QUICENTRO,El Batan,departamento,venta,107000.0,140.0,0.0,2,1,active,2026-11-12,remax_en_vivo,764.29
+12465,SE VENDE CASA EN CONJUNTO DE 87M2 EN CALDERON,Sierra Hermosa,casa,venta,54500.0,87.0,52.0,3,1,active,2026-11-12,remax_en_vivo,626.44
+12367,Vendo departamento de 96m2 iñaquito,Iñaquito,departamento,venta,125000.0,92.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1358.7
+10808,Hermosa casa de venta proximo colegio SEK de Quito,Solca,casa,venta,155000.0,170.25,170.25,4,4,active,2026-11-12,remax_en_vivo,910.43
+8732,Hermosa Casa Dentro De Conjunto Privado En Tumbaco,Tolagasi,casa,venta,199900.0,190.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1052.11
+10949,DEPARTAMENTO 3 DORMITORIOS EN CALDERON,Sierra Hermosa,departamento,venta,120000.0,260.0,0.0,3,3,active,2026-11-12,remax_en_vivo,461.54
+14080,DEPARTAMENTO 3 DORMITORIOS GONZALEZ SUAREZ,Gonzalez Suarez,departamento,venta,340000.0,595.0,0.0,3,3,active,2026-11-12,remax_en_vivo,571.43
+12155,CASA DE VENTA DE 190M2 EN CONJUNTO SECTOR CERAMICA,La Ceramica,casa,venta,183500.0,205.0,365.0,3,2,active,2026-11-12,remax_en_vivo,895.12
+8676,"DEPARTAMENTO 197M2, 3 D, BALCON 9M2, QUITO TENNIS",Quito Tenis,departamento,venta,269000.0,206.0,0.0,3,2,active,2026-11-12,remax_en_vivo,1305.83
+12031,Hermosa Casa De 813M2 Habitables Con 1029 Terreno,El Pinar Alto,casa,venta,630000.0,813.0,1842.0,5,4,active,2026-11-12,remax_en_vivo,774.91
+12095,Hermosa Casa De 540 M2 Con Jardin De 165M2 Cumbaya,Cumbaya Cabecera,casa,venta,590000.0,540.0,0.0,0,3,active,2026-11-12,remax_en_vivo,1092.59
+11831,Oportunidad Casa De Lujo Conjunto Privado Cumbaya,Cumbaya Cabecera,casa,venta,330000.0,282.0,266.0,4,4,active,2026-11-12,remax_en_vivo,1170.21
+8627,Espectacular Departamento De Lujo 422M2 Bosmediano,Bellavista Alto,departamento,venta,570000.0,422.0,0.0,4,3,active,2026-11-12,remax_en_vivo,1350.71
+11750,Casa Conjunto Dos Hemisferios Pusuqui,Pusuqui 1,casa,venta,116000.0,187.0,100.0,3,1,active,2026-11-12,remax_en_vivo,620.32
+12953,Lindo Departamento 100m2 en Urb. El Condado,Urb. El Condado,departamento,venta,120000.0,130.0,0.0,3,2,active,2026-11-12,remax_en_vivo,923.08
+8904,Departamento  2 Dorm. Quito Tenis 214.54 m2,Quito Tenis,departamento,venta,179000.0,214.54,0.0,2,2,active,2026-11-12,remax_en_vivo,834.34
